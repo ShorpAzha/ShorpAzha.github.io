@@ -18,9 +18,11 @@ h1 {
     color: #7a7aad;
     margin-left: 80px;
 }
+
 #body_one>p {
     text-size-adjust: 10px;
 }
+
 #mySidenav a {
     position: absolute;
     left: -80px;
