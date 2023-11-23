@@ -15,7 +15,7 @@ h2 {
 #map_text {
     position: absolute;
     left: 600px;
-    top: 800px;
+    top: -800px;
 }
 
 #body_one {
