@@ -4,6 +4,11 @@ body {
 
 h1 {
     color: blueviolet;
+    text-size-adjust: 30px;
+}
+
+h2 {
+    color: purple;
     text-size-adjust: 20px;
 }
 
