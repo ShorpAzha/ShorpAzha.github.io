@@ -24,6 +24,11 @@ h2 {
     margin-left: 80px;
 }
 
+.easter {
+    text-align: center;
+    color: goldenrod;
+}
+
 #body_one>p {
     text-size-adjust: 10px;
 }
