@@ -18,7 +18,9 @@
             <a href="help.html" id="fiveth">Help</a>
         </div>
         <div id="body_one">
-            <h1>Carte du ciel</h1>
+            <h1>Les diff&eacute;rents sites d'astronomie</h1>
+            <p>L'astronomie est pr&eacute;sente sur internet, voici les principaux sites qui existes.</p>
+            <h2>Universit&eacute; de Strasbourg</h2>
             <!-- insert this snippet where you want Aladin Lite viewer to appear -->
             <div id="aladin-lite-div" style="width:400px;height:400px;"></div>
             <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
@@ -28,7 +30,11 @@
                     aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:0.18, target: "M81"});
                 });
             </script>
-            <p id="map_text">Cette carte du ciel interactive viens du site de l'université de Strasbourg. Il s'agit de <a href="http://aladin.cds.unistra.fr/aladin.gml">Aladin Lite</a>.</p>
+            <div id="map_text">
+                <h3>Cartes c&eacute;lestes</h3>
+                <p>Cette carte du ciel interactive viens du site de l'universit&eacute; de Strasbourg. Il s'agit de <a href="http://aladin.cds.unistra.fr/aladin.gml">Aladin Lite</a>.</p>
+                <p>Cette carte permet de changer de filtres pour faire apparaitre ou disparaitre des objets c&eacute;lestes</p>
+            </div>
         </div>
     </body>
 </html>
