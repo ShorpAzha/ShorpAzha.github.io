@@ -1,0 +1,58 @@
+body {
+    /*background-image: src("images/fond");*/
+    background-color: brown;
+}
+
+h1 {
+    color: blueviolet;
+    text-size-adjust: 20px;
+}
+
+#body_one {
+    text-align: center;
+    color: grey;
+    margin-left: 80px;
+}
+#body_one>p {
+    text-size-adjust: 10px;
+}
+#mySidenav a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#first {
+    top: 20px;
+    background-color: #04AA6D;
+}
+
+#second {
+    top: 80px;
+    background-color: #2196F3;
+}
+
+#third {
+    top: 140px;
+    background-color: #f44336;
+}
+
+#fourth {
+    top: 200px;
+    background-color: #555
+}
+
+#fiveth {
+    top: 240px;
+    background-color: #8e04aa
+}
