@@ -18,8 +18,16 @@
             <a href="help.html" id="fiveth">Help</a>
         </div>
         <div id="body_one">
-            <h1>Site de NSI</h1>
-            <p>Hello World!</p>
+            <h1>Carte du ciel</h1>
+            <!-- insert this snippet where you want Aladin Lite viewer to appear -->
+            <div id="aladin-lite-div" style="width:400px;height:400px;"></div>
+            <script type="text/javascript" src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js" charset="utf-8"></script>
+            <script type="text/javascript">
+            let aladin;
+            A.init.then(() => {
+                aladin = A.aladin('#aladin-lite-div', {survey: "P/DSS2/color", fov:60, target: "M81"});
+            });
+            </script>
         </div>
     </body>
 </html>
