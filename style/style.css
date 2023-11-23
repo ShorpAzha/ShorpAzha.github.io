@@ -12,6 +12,20 @@ h2 {
     text-size-adjust: 20px;
 }
 
+.image_leda {
+    position: absolute;
+    left: 30%;
+    height: 80px;
+    width: 82px;
+}
+
+.image_obs_lyon {
+    position: absolute;
+    right: 25%;
+    height: 82px;
+    width: 141px;
+}
+
 #map_text {
     position: absolute;
     left: 600px;
