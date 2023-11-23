@@ -1,6 +1,6 @@
 body {
     /*background-image: src("images/fond");*/
-    background-color: brown;
+    background-color: rgb(235, 168, 168);
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
 
 #body_one {
     text-align: center;
-    color: grey;
+    color: #7a7aad;
     margin-left: 80px;
 }
 #body_one>p {
