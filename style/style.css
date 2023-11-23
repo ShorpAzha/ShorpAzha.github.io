@@ -9,8 +9,8 @@ h1 {
 
 #map_text {
     position: absolute;
-    left: 50%;
-    top: 400px;
+    left: 75%;
+    top: -400px;
 }
 
 #body_one {
