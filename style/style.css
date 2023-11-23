@@ -7,6 +7,12 @@ h1 {
     text-size-adjust: 20px;
 }
 
+#map_text {
+    position: absolute;
+    left: 50%;
+    top: 400px;
+}
+
 #body_one {
     text-align: center;
     color: #7a7aad;
