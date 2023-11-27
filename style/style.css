@@ -1,6 +1,6 @@
 body {
     background-color: rgb(235, 168, 168);
-    
+
 }
 
 h1 {
@@ -15,14 +15,14 @@ h2 {
 
 .image_leda {
     position: absolute;
-    left: 30%;
+    left: 65%;
     height: 80px;
     width: 82px;
 }
 
 .image_obs_lyon {
     position: absolute;
-    right: 25%;
+    right: 65%;
     height: 82px;
     width: 141px;
 }
