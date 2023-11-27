@@ -46,6 +46,11 @@ h2 {
     width: 141px;
 }
 
+.image_indexcatalog {
+    width: 820px;
+    height: 820px;
+}
+
 .easter {
     text-align: center;
     color: rebeccapurple;
