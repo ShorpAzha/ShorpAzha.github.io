@@ -22,7 +22,7 @@ h2 {
 .ezreal {
     position: absolute;
     right: 60%;
-    top: auto+10px;
+    top: 50%;
     height: 39px;
     width: 	127px;
 }
@@ -30,6 +30,7 @@ h2 {
 .image_leda {
     position: absolute;
     left: 65%;
+    top: 50%;
     height: 80px;
     width: 82px;
 }
