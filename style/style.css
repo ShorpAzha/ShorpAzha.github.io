@@ -12,6 +12,8 @@ h2 {
     text-size-adjust: 20px;
 }
 
+/* CLASS */
+
 .atsouky {
     position: absolute;
     left: 60%;
@@ -42,6 +44,13 @@ h2 {
     width: 141px;
 }
 
+.easter {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+/* ID */
+
 #map_text {
     position: absolute;
     left: 50%;
@@ -52,11 +61,6 @@ h2 {
     text-align: center;
     color: #7a7aad;
     margin-left: 80px;
-}
-
-.easter {
-    text-align: center;
-    color: rebeccapurple;
 }
 
 #body_one>p {
