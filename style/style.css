@@ -102,16 +102,6 @@ h2 {
     text-align: center;
 }
 
-.image_text {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background-color: rgba(0, 0, 0, 0);
-    color: rgba(255, 0, 0, 0);
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
 /* ID */
 
 #map_text {
