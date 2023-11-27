@@ -53,6 +53,14 @@ h2 {
     margin-left: auto;
     margin-right: auto;
 }
+/* 	4096 × 3843 px */
+.image_hubble_1 {
+    width: 409px;
+    height: 384px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .easter {
     text-align: center;
