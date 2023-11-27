@@ -1,6 +1,5 @@
 body {
     background-color: rgb(235, 168, 168);
-
 }
 
 h1 {
@@ -11,6 +10,10 @@ h1 {
 h2 {
     color: purple;
     text-size-adjust: 20px;
+}
+
+.invisible {
+    color: rgb(235, 168, 168);
 }
 
 .image_leda {
