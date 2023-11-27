@@ -12,7 +12,16 @@ h2 {
     text-size-adjust: 20px;
 }
 
-.invisible {
+.atsouky {
+    position: absolute;
+    left: 60%;
+    height: 280px;
+    width: 260px;
+}
+
+.ezreal {
+    position: absolute;
+    right: 60%;
     height: 280px;
     width: 260px;
 }
