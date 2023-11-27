@@ -11,9 +11,11 @@ h2 {
     color: purple;
     text-size-adjust: 20px;
 }
+/* ========= *
+ * | CLASS | *
+ * ========= */
 
-/* CLASS */
-
+/* IMAGES */
 .atsouky {
     position: absolute;
     left: 60%;
@@ -60,10 +62,15 @@ h2 {
     height:0;
     transition: .5s ease;
 }
+
+.container {
+    position: relative;
+    width: 50%;
+}
   
 .container:hover .overlay {
     bottom: 0;
-    height: 25%;
+    height: 100%;
 }
   
 .text {
