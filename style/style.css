@@ -17,6 +17,7 @@ h2 {
 .atsouky {
     position: absolute;
     left: 60%;
+    top: 50%;
     height: 140px;
     width: 130px;
 }
