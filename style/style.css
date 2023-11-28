@@ -130,7 +130,7 @@ h2 {
     position: fixed;
     top: auto;
     left: 50%;
-    transform: translate(auto, -50%);
+    transform: translate(-50%,auto);
     width: 351px;
     height: 86px;
 }
