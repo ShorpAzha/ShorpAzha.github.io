@@ -63,11 +63,12 @@
     font-size: 20px;
     position: absolute;
     left: 120px;
-    top: auto;
+    top: 250px;
     text-align: center;
 }
 
 .text_bas {
+    text-align: center;
     position: absolute;
     top: 1200px;
 }
