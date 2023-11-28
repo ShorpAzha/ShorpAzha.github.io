@@ -148,11 +148,25 @@ h2 {
 
 #body_one {
     text-align: center;
+    color: #00008d;
+    margin-left: 80px;
+}
+
+#body_one>h1 {
+    color: rgb(0, 102, 34);
+}
+
+#body_one>p {
+    color: #660000;
+}
+
+#body_help {
+    text-align: center;
     color: #7a7aad;
     margin-left: 80px;
 }
 
-#body_one>p {
+#body_help>p {
     color: #ff0000;
     text-size-adjust: 10px;
 }
