@@ -26,7 +26,7 @@
 /* 	4096 × 3843 px */
 .image_hubble_1 {
     position: absolute;
-    top: 80%;
+    top: 800px;
     width: 409px;
     height: 384px;
     margin-left: auto;
@@ -62,10 +62,12 @@
     color: white;
     font-size: 20px;
     position: absolute;
-    top: 1000px;
     left: 120px;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    top: auto;
     text-align: center;
+}
+
+.text_bas {
+    position: absolute;
+    top: 1200px;
 }
