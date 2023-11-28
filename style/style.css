@@ -127,6 +127,8 @@ h2 {
 /* ID */
 
 #image_sry {
+    position: fixed;
+    left: 50%;
     width: 351px;
     height: 86px;
 }
