@@ -127,7 +127,7 @@ h2 {
 /* ID */
 
 #image_sry {
-    position: fixed;
+    position: absolute;
     top: auto;
     left: 50%;
     transform: translate(-50%,auto);
