@@ -27,11 +27,8 @@
 .image_hubble_1 {
     position: absolute;
     top: 80%;
-    left: 20px;
-    transform: translate(80%,50%);
     width: 409px;
     height: 384px;
-    display: block;
     margin-left: auto;
     margin-right: auto;
 }
