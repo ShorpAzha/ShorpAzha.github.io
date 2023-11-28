@@ -128,7 +128,9 @@ h2 {
 
 #image_sry {
     position: fixed;
+    top: auto;
     left: 50%;
+    transform: translate(auto, -50%);
     width: 351px;
     height: 86px;
 }
