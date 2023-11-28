@@ -18,7 +18,7 @@
 
 .image_indexcatalog {
     position: absolute;
-    left: 25%;
+    left: 20px;
     width: 410px;
     height: 410px;
     margin-left: auto;
@@ -28,7 +28,7 @@
 .image_hubble_1 {
     position: absolute;
     top: 80%;
-    left: 25%;
+    left: 20px;
     transform: translate(80%,50%);
     width: 409px;
     height: 384px;
@@ -66,8 +66,8 @@
     color: white;
     font-size: 20px;
     position: absolute;
-    top: 100%;
-    left: 50%;
+    top: 1000px;
+    left: 120px;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
