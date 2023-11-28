@@ -126,6 +126,11 @@ h2 {
 
 /* ID */
 
+#image_sry {
+    width: 50%;
+    height: 50%;
+}
+
 #map_text {
     position: absolute;
     left: 50%;
