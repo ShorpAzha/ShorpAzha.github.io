@@ -1,0 +1,35 @@
+#body_astro {
+    text-align: center;
+    color: #4646c7;
+    margin-left: 80px;
+}
+
+#body_astro>h1 {
+    color: rgb(102, 100, 0);
+}
+
+#body_astro>p {
+    color: #460066;
+}
+
+#map_text {
+    position: absolute;
+    left: 50%;
+    top: 200px;
+}
+
+/* Class */
+
+.image_leda {
+    position: absolute;
+    left: 65%;
+    height: 80px;
+    width: 82px;
+}
+
+.image_obs_lyon {
+    position: absolute;
+    right: 65%;
+    height: 82px;
+    width: 141px;
+}

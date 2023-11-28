@@ -1,0 +1,17 @@
+#image_sry {
+    position: fixed;
+    left: 10%;
+    width: 351px;
+    height: 86px;
+}
+
+#body_one {
+    text-align: center;
+    color: #7a7aad;
+    margin-left: 80px;
+}
+
+#body_one>p {
+    color: #ff0000;
+    text-size-adjust: 10px;
+}

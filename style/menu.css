@@ -1,0 +1,10 @@
+#body_menu {
+    text-align: center;
+    color: #7a7aad;
+    margin-left: 80px;
+}
+
+#body_menu>p {
+    color: #ff0000;
+    text-size-adjust: 10px;
+}

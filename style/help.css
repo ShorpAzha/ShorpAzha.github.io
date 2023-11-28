@@ -1,0 +1,30 @@
+#body_help {
+    text-align: center;
+    color: #00008d;
+    margin-left: 80px;
+}
+
+#body_help>h1 {
+    color: rgb(0, 102, 34);
+}
+
+#body_help>p {
+    color: #660000;
+}
+
+/* Class */
+
+.atsouky {
+    position: absolute;
+    left: 60%;
+    height: 140px;
+    width: 130px;
+}
+
+.ezreal {
+    position: absolute;
+    right: 55%;
+    top: 50%;
+    height: 39px;
+    width: 	127px;
+}
