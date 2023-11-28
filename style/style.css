@@ -152,12 +152,9 @@ h2 {
     margin-left: 80px;
 }
 
-#body_one>h1 {
-    color: rgb(0, 102, 34);
-}
-
 #body_one>p {
-    color: #660000;
+    color: #ff0000;
+    text-size-adjust: 10px;
 }
 
 #body_help {
@@ -166,9 +163,12 @@ h2 {
     margin-left: 80px;
 }
 
+#body_help>h1 {
+    color: rgb(0, 102, 34);
+}
+
 #body_help>p {
-    color: #ff0000;
-    text-size-adjust: 10px;
+    color: #660000;
 }
 
 #mySidenav a {
