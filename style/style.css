@@ -73,7 +73,9 @@ h2 {
 /* 	4096 × 3843 px */
 .image_hubble_1 {
     position: absolute;
-    top: 60%;
+    top: 80%;
+    left: 50%;
+    transform: translate(80%,50%);
     width: 409px;
     height: 384px;
     display: block;
@@ -155,6 +157,25 @@ h2 {
     color: #ff0000;
     text-size-adjust: 10px;
 }
+
+#body_galerie {
+    text-align: center;
+    color: #0000ff;
+    margin-left: 80px;
+}
+
+#body_galerie>h1 {
+    color: #ce6262;
+}
+
+#body_galerie>h2 {
+    color: #7c2d2d;
+}
+
+#body_galerie>p {
+    color: #530d0d;
+}
+
 
 #body_help {
     text-align: center;
