@@ -25,10 +25,8 @@
 }
 /* 	4096 × 3843 px */
 .image_hubble_1 {
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(80%,50%);
+    position: relative;
+    top: 85%;
     width: 409px;
     height: 384px;
     display: block;
