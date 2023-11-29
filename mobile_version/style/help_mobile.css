@@ -1,0 +1,17 @@
+#body_help {
+    text-align: center;
+    color: #0000ff;
+    margin-left: 80px;
+}
+
+#body_help>h1 {
+    color: #ce6262;
+}
+
+#body_help>h2 {
+    color: #7c2d2d;
+}
+
+#body_help>p {
+    color: #530d0d;
+}
