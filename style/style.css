@@ -17,16 +17,16 @@
 }
 
 body {
-    background-color: rgb(235, 168, 168);
+    background-color: #606060;
 }
 
 h1 {
-    color: blueviolet;
+    color: blue;
     text-size-adjust: 30px;
 }
 
 h2 {
-    color: purple;
+    color: green;
     text-size-adjust: 20px;
 }
 
