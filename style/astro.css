@@ -1,15 +1,15 @@
 #body_astro {
     text-align: center;
-    color: #4646c7;
+    color: #5858ff;
     margin-left: 80px;
 }
 
 #body_astro>h1 {
-    color: rgb(102, 100, 0);
+    color: rgb(255, 251, 0);
 }
 
 #body_astro>p {
-    color: #460066;
+    color: #ae00ff;
 }
 
 #map_text {

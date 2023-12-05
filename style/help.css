@@ -1,15 +1,15 @@
 #body_help {
     text-align: center;
-    color: #00008d;
+    color: #0000ff;
     margin-left: 80px;
 }
 
 #body_help>h1 {
-    color: rgb(0, 102, 34);
+    color: rgb(0, 255, 85);
 }
 
 #body_help>p {
-    color: #660000;
+    color: #ff0000;
 }
 
 /* Class */
