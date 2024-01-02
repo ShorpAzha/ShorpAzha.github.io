@@ -10,7 +10,7 @@
 }
 
 #body_menu>iframe {
-    position: fixed;
+    position: absolute;
     left: 12.5%;
     height: 300px;
     width: 75%;
