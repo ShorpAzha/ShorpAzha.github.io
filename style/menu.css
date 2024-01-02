@@ -8,3 +8,10 @@
     color: #ff0000;
     text-size-adjust: 10px;
 }
+
+#body_menu>iframe {
+    position: fixed;
+    left: 25%;
+    height: 300px;
+    width: 50%;
+}
