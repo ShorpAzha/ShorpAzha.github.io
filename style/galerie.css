@@ -42,6 +42,12 @@
 }
 
 /* 700 × 674 px */
+#images>img {
+    width: 75%;
+    display: block;
+    margin: auto;
+}
+
 .m_74 {
     width: 75%;
     display: block;
