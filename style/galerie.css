@@ -20,8 +20,7 @@
     width: 820px;
     height: 820px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 /* 	4096 × 3843 px */
 .image_hubble_1 {
@@ -30,8 +29,7 @@
     width: 818px;
     height: 768px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 .image_hubble_2 {
@@ -40,8 +38,7 @@
     width: 768px;
     height: 614px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 .overlay {

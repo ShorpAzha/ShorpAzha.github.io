@@ -11,7 +11,13 @@
 
 #body_menu>iframe {
     position: fixed;
-    left: 25%;
+    left: 12.5%;
     height: 300px;
-    width: 50%;
+    width: 75%;
+}
+
+.sncfr_logo {
+    /* 212 × 150 px */
+    height: 150px;
+    margin: auto;
 }
