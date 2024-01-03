@@ -25,3 +25,14 @@
 #body_one>table {
     margin: auto;
 }
+
+#body_one>table>tr>th {
+    column-span: all;
+    border: 1px solid black;
+    width: 25%
+}
+
+#body_one>table>tr>td {
+    border: 1px solid black;
+    width: 25%
+}
