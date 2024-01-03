@@ -21,3 +21,7 @@
     color: #ff0000;
     text-size-adjust: 10px;
 }
+
+#body_one>table {
+    margin: auto;
+}
