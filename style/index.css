@@ -24,7 +24,7 @@
 
 #body_one>table {
     margin: auto;
-    background-color: aquamarine;
+    background: aquamarine;
 }
 
 #body_one>table>tr>th {
