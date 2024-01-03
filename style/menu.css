@@ -1,11 +1,27 @@
 #body_menu {
-    text-align: center;
+    text-align: justify;
     color: #b8b8ff;
     margin-left: 80px;
 }
 
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+
 #body_menu>p {
-    color: #ff0000;
+    color: green;
     text-size-adjust: 10px;
 }
 
@@ -15,10 +31,6 @@
     margin: auto;
 }
 
-#body_one>ul>li {
-    margin: auto;
-    color: green;
-}
 
 .sncfr_logo {
     /* 212 × 150 px */
