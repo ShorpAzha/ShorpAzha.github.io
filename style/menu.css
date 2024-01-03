@@ -18,6 +18,8 @@ h3 {
 
 img {
     text-align: center;
+    width: 50%;
+    margin: auto;
 }
 
 #body_menu>p {
@@ -35,12 +37,6 @@ img {
 .sncfr_logo {
     /* 212 × 150 px */
     height: 150px;
-    margin: auto;
-}
-
-.tgv {
-    width: 50%;
-    margin: auto;
 }
 
 .ab {
