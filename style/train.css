@@ -1,0 +1,16 @@
+#body_menu {
+    text-align: center;
+    color: #b8b8ff;
+    margin-left: 80px;
+}
+
+#body_menu>p {
+    color: #ff0000;
+    text-size-adjust: 10px;
+}
+
+#body_menu>iframe {
+    height: 300px;
+    width: 75%;
+    margin: auto;
+}
