@@ -24,12 +24,13 @@
 
 #body_one>table {
     margin: auto;
+    border: 2px solid black;
     background: aquamarine;
-    color: #ff0000;
 }
 
 #body_one>table>tr>th {
-    border: 3px solid black;
+    color:chocolate;
+    background: chartreuse;
     width: 25%
 }
 
