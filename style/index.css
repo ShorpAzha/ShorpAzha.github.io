@@ -1,3 +1,7 @@
+body {
+    background-image: url(https://shorpazha.github.io/images/M82_Chandra_HST_Spitzer.jpg);
+}
+
 #image_sry {
     position: fixed;
     left: 10%;
