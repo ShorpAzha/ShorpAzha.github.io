@@ -1,5 +1,7 @@
 .backgroundImage {
     background-image: url(https://shorpazha.github.io/images/M82_Chandra_HST_Spitzer.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #image_sry {
