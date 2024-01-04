@@ -1,5 +1,6 @@
 body {
     background: black;
+
 }
 
 .backgroundImage {
@@ -17,11 +18,19 @@ body {
 
 #body_one {
     text-align: center;
-    color: rebeccapurple;
+    color: black;
+}
+
+#body_one>h1 {
+    color: red;
+}
+
+#body_one>h2 {
+    color: black;
 }
 
 #body_one>p {
-    color: #ff0000;
+    color: #black;
     text-size-adjust: 10px;
 }
 

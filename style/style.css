@@ -34,12 +34,16 @@ h3 {
     color: mediumseagreen;
 }
 
+h4 {
+    color: rebeccapurple;
+}
+
 p {
     color: black;
 }
 
 a {
-    color: #8e04aa;
+    color: red;
 }
 
 /* ID */
