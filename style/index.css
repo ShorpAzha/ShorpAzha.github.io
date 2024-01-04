@@ -34,7 +34,7 @@ body {
     text-size-adjust: 10px;
 }
 
-#body_one>table {
+table {
     margin: auto;
     border: 2px solid black;
     background: aquamarine;
