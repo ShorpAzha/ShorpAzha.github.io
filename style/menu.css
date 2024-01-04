@@ -13,6 +13,10 @@ img {
     color: black;
 }
 
+#body_menu>h2 {
+    color: blueviolet;
+}
+
 #body_menu>iframe {
     height: 300px;
     width: 75%;
