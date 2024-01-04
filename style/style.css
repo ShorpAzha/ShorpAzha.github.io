@@ -17,7 +17,7 @@
 }
 
 body {
-    background-color: #666666;
+    background-color: #D9D9D9;
 }
 
 h1 {
@@ -28,6 +28,14 @@ h1 {
 h2 {
     color: rgb(3, 255, 3);
     text-size-adjust: 20px;
+}
+
+h3 {
+    color: mediumseagreen;
+}
+
+p {
+    color: black;
 }
 
 a {

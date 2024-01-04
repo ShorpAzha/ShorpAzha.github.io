@@ -1,3 +1,7 @@
+body {
+    background: black;
+}
+
 #body_galerie {
     text-align: center;
     color: #0000ff;
@@ -14,6 +18,10 @@
 
 #body_galerie>p {
     color: #ff2929;
+}
+
+a {
+    color: white;
 }
 
 .image_indexcatalog {

@@ -4,6 +4,7 @@
     margin-left: 80px;
 }
 
+/*
 #body_astro>h1 {
     color: rgb(255, 251, 0);
 }
@@ -11,6 +12,7 @@
 #body_astro>p {
     color: #ae00ff;
 }
+*/
 
 #map_text {
     position: absolute;
