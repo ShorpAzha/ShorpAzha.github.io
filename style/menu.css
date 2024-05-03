@@ -23,6 +23,10 @@ img {
     margin: auto;
 }
 
+#body_menu>img {
+    width: 50%;
+}
+
 .sncfr_logo {
     /* 212 × 150 px */
     width: 212px;
@@ -44,8 +48,4 @@ img {
 
 #body_>h2 {
     color: blueviolet;
-}
-
-#body_>img {
-    height: 50%;
 }
