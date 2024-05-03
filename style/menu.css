@@ -31,3 +31,17 @@ img {
 .ab {
     color: red;
 }
+
+#body_ {
+    text-align: center;
+    color: #3a3a3a;
+    margin-left: 80px;
+}
+
+#body_>p {
+    color: black;
+}
+
+#body_>h2 {
+    color: blueviolet;
+}
