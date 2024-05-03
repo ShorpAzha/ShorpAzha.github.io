@@ -45,3 +45,7 @@ img {
 #body_>h2 {
     color: blueviolet;
 }
+
+#body_>img {
+    height: 50%;
+}
