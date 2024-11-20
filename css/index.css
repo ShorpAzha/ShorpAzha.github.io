@@ -1,9 +1,9 @@
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
-    text-align: center;
     color:aqua;
 }
 
@@ -56,5 +56,4 @@ h1 {
 .easter_egg {
     color: black;
     margin: auto;
-    text-align: center;
 }
