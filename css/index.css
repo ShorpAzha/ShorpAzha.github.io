@@ -1,18 +1,20 @@
 body {
     background-color: black;
-    text-align: center;
 }
 
 h1 {
     color:aqua;
+    text-align: center;
 }
 
 h2 {
     color: greenyellow;
+    text-align: center;
 }
 
 p {
     color: powderblue;
+    text-align: center;
 }
 
 .sidepanel  {
