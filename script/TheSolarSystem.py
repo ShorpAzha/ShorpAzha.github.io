@@ -112,5 +112,5 @@ while loop==True:
     if Pause == False:
         u+=1
     frequence.tick(time)
-    pyscript.display(pygame.display.update())
+    display(pygame.display.update())
 pygame.quit()
