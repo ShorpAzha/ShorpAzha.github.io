@@ -1,3 +1,3 @@
 name = 'Solar system in class'
 description = 'A simple solar system lol'
-packages = ['pygame', 'math']
+packages = ['pygame']
