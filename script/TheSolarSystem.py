@@ -93,6 +93,7 @@ time=60
 Pause = False
 loop=True
 
+display(fenetre)
 while loop==True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
@@ -112,5 +113,5 @@ while loop==True:
     if Pause == False:
         u+=1
     frequence.tick(time)
-    display(pygame.display.update())
+    pygame.display.update()
 pygame.quit()
