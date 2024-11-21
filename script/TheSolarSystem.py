@@ -1,5 +1,49 @@
+import asyncio
+
+# Try to declare all your globals at once to facilitate compilation later.
+COUNT_DOWN = 3
+
+# Do init here
+# Load any assets right now to avoid lag at runtime or network errors.
+
+
+async def main():
+    global COUNT_DOWN
+
+    # avoid this kind declaration, prefer the way above
+    COUNT_DOWN = 3
+
+    while True:
+
+        # Do your rendering here, note that it's NOT an infinite loop,
+        # and it is fired only when VSYNC occurs
+        # Usually 1/60 or more times per seconds on desktop
+        # could be less on some mobile devices
+
+        print(f"""
+
+            Hello[{COUNT_DOWN}] from Python
+
+""")
+        # pygame.display.update() should go right next line
+
+        await asyncio.sleep(0)  # Very important, and keep it 0
+
+        if not COUNT_DOWN:
+            return
+
+        COUNT_DOWN = COUNT_DOWN - 1
+
+# This is the program entry point:
+asyncio.run(main())
+
+# Do not add anything from here, especially sys.exit/pygame.quit
+# asyncio.run is non-blocking on pygame-wasm and code would be executed
+# right before program start main()
+'''
 from math import *
 
+import panel as pn
 import pygame
 
 Largeur,Hauteur=1000,800
@@ -12,7 +56,7 @@ frequence = pygame.time.Clock()
 
 base_x,base_y = Largeur//2,Hauteur//2
 
-'''
+#
 soleil=pygame.image.load('')
 mercure=pygame.image.load('')
 venus=pygame.image.load('')
@@ -30,9 +74,8 @@ class BuildAstroObj:
     
     def draw_obj(self, color=(255,255,255)):
         
+#
 
-
-'''
 
 class BuildObjects:
     def __init__(self, name, heigh, periode, distance, depend):
@@ -61,11 +104,11 @@ class BuildObjects:
          
         
 # Réelles data 
-'''
+#
 #   [Name, Heigh(km), Periode(h), distance(km), (Barycentre)]
 Sun=['Soleil', 149597870, 1, 0, (base_x, base_y)]
 Mer=['Mercure', 2439, 2111, 57909050, (Sun[])]
-'''
+##
 
 Star1=BuildObjects('Star', 26, 1, 0, (base_x, base_y))
 Star1.x = base_x; Star1.y = base_y
@@ -113,3 +156,4 @@ while loop==True:
     frequence.tick(time)
     pygame.display.update()
 pygame.quit()
+'''
