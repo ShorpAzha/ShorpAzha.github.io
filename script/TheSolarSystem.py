@@ -20,11 +20,7 @@ async def main():
         # Usually 1/60 or more times per seconds on desktop
         # could be less on some mobile devices
 
-        print(f"""
-
-            Hello[{COUNT_DOWN}] from Python
-
-""")
+        print(f"Hello[{COUNT_DOWN}] from Python")
         # pygame.display.update() should go right next line
 
         await asyncio.sleep(0)  # Very important, and keep it 0
