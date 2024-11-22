@@ -18,6 +18,10 @@ p {
     text-align: center;
 }
 
+img {
+  background-color: aliceblue;
+}
+
 .sidepanel  {
     width: 0;
     position: fixed;
