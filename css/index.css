@@ -75,7 +75,8 @@ p {
 }
 
 .pagination a {
-  color: black;
+  text-align: center;
+  color: red;
   float: left;
   padding: 8px 16px;
   text-decoration: none;
