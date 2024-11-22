@@ -9,8 +9,6 @@ p2 = figure(height=200, sizing_mode='stretch_width')
 p1.line([1, 2, 3], [1, 2, 3])
 p2.circle([1, 2, 3], [1, 2, 3])
 
-pn.Row(p1, p2)
-
 pn.extension(sizing_mode="stretch_width")
 
 slider = pn.widgets.FloatSlider(start=0, end=360, name='Amplitude')
@@ -20,3 +18,4 @@ def callback(new):
 
 
 pn.Row(slider, pn.bind(callback, slider)).servable(target='simple_app')
+pn.Row(p1, p2)
