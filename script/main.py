@@ -17,5 +17,4 @@ def callback(new):
     return f'Cosinus: {cos((new*pi)/180)} & Sinus: {sin((new*pi)/180)}'
 
 
-pn.Row(slider, pn.bind(callback, slider)).servable(target='simple_app')
-pn.Row(p1, p2)
+pn.Row(slider, pn.bind(callback, slider),p1,p2).servable(target='simple_app')
