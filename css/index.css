@@ -70,12 +70,18 @@ p {
 }
 
 .script_python {
-  text-align: center;
-  margin: auto;
+  color: wheat;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .pagination a {
-  text-align: center;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: red;
   float: left;
   padding: 8px 16px;
