@@ -1,4 +1,4 @@
-from math import *
+from math import cos, sin, pi
 import panel as pn
 
 pn.extension(sizing_mode="stretch_width")
