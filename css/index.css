@@ -18,10 +18,6 @@ p {
     text-align: center;
 }
 
-img {
-  background-color: aliceblue;
-}
-
 .sidepanel  {
     width: 0;
     position: fixed;
@@ -73,7 +69,7 @@ img {
     margin: auto;
 }
 
-.git {
+.logo {
   width: 30px;
   height: 30px;
 }
