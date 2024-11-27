@@ -73,6 +73,11 @@ img {
     margin: auto;
 }
 
+.git {
+  width: 30px;
+  height: 30px;
+}
+
 .script_python {
   color: wheat;
   height: 50px;
