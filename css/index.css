@@ -76,35 +76,13 @@ p {
   height: 30px;
 }
 
-.script_python {
-  color: wheat;
-  height: 50px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.first-card {
+  margin-left: 10%;
 }
 
-.pagination {
-  height: 30px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.second-card {
+  margin-right: 10%;
 }
-
-.pagination a {
-  color: red;
-  float: left;
-  padding: 8px 16px;
-  text-decoration: none;
-  transition: background-color .3s;
-}
-
-.pagination a.active {
-  background-color: dodgerblue;
-  color: white;
-}
-
-.pagination a:hover:not(.active) {background-color: #ddd;}
 
 .flip-card {
   background-color: transparent;
