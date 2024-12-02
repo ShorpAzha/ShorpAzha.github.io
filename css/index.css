@@ -76,14 +76,6 @@ p {
   height: 30px;
 }
 
-.first-card {
-  margin-left: 10%;
-}
-
-.second-card {
-  margin-right: 10%;
-}
-
 .flip-card {
   background-color: transparent;
   width: 300px;
@@ -128,3 +120,26 @@ p {
   width:100%;
   height:100%;
 }
+
+.centred {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+* {box-sizing: border-box}
+
+.hardness {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.level {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.mindustry {width: 20%; background-color: #04AA6D;}
+.minetest {width: 40%; background-color: #93e412;}
