@@ -10,7 +10,7 @@
     <div id="mySidepanel" class="sidepanel">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
         <a href="index.html">Acceuil</a>
-        <a href="modding.html">'</a>
+        <a href="modding.html">Modding</a>
         <a href="help.html">Contact</a>
     </div>
     <button class="openbtn" onclick="openNav()">☰</button>      
@@ -23,32 +23,25 @@
     document.getElementById("mySidepanel").style.width = "0";
     }
     </script>
-    <h1>Les mods</h1>
-    <h2>Quel language pour quel jeu?</h2>
-    <p>Voici quelques exemples de jeux, avec le ou les languages utilisés principalement</p>
-    <div class="centred">
-        <div class="flip-card">
-        <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <img src="images/mindustry_icon.png" alt="Mindustry's dummy image" class="carde">
-        </div>
-        <div class="flip-card-back">
-            <h1>Mindustry</h1> 
-            <p>Language(s): hjson, js, lua</p> 
-            <p>Difficulté:</p>
-            <div class="hardness"><div class="level mindustry">20%</div></div>
-        </div></div></div>
-        <div class="flip-card">
-        <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <img src="images/minetest_logo.png" alt="Minetest's dummy image" class="carde">
-        </div>
-        <div class="flip-card-back">
-            <h1>Minetest</h1> 
-            <p>Language(s): Lua</p> 
-            <p>Difficulté:</p>
-            <div class="hardness"><div class="level minetest">40%</div></div>
-        </div></div></div>
-    </div>
+    <h1>Modding</h1>
+    <p>Beaucoup de jeu peuvent avoir des mods, exemples: Minecraft, Mindustry et bien d'autres...</p>
+    <ul id="myUL">
+        <li><span class="caret">Mindustry</span>
+          <ul class="nested">
+            <li>Items</li>
+            <li>Blocks</li>
+            <li>Crafting</li>
+            <li>Energy</li>  
+          </ul>
+        </li>
+        <li><span class="caret">Minetest</span>
+            <ul class="nested">
+                <li>Items</li>
+                <li>Blocks</li>
+                <li>Craft</li>
+                <li>Others</li>
+            </ul>
+        </li>
+      </ul>
 </body>
 </html>
