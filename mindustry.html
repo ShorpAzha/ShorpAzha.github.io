@@ -14,22 +14,14 @@
         <a href="help.html">Contact</a>
     </div>
     <button class="openbtn" onclick="openNav()">☰</button>      
-    <script>
-    function openNav() {
-    document.getElementById("mySidepanel").style.width = "250px";
-    }
-
-    function closeNav() {
-    document.getElementById("mySidepanel").style.width = "0";
-    }
-    </script>
+    <script src="script/hud_menu.js"></script>
     <h1>Nothing</h1>
     <ul id="myUL">
         <li><span class="caret">bundles</span></li>
         <li><span class="caret">content</span>
             <ul class="nested">
                 <li><span class="caret">blocks</span>
-                    <ul>
+                    <ul class="nested">
                         <li>defense</li>
                         <li><span class="caret">distribution</span>
                             <ul class="nested">
@@ -47,7 +39,7 @@
                         <li>walls</li>
                     </ul>
                 </li>
-                <li>items</li>
+                <li><a href="mind_items.html">items</a></li>
                 <li>liquids</li>
             </ul>
         </li>
@@ -57,7 +49,7 @@
         <li><span class="caret">sprites</span>
             <ul class="nested">
                 <li><span class="caret">blocks</span>
-                    <ul>
+                    <ul class="nested">
                         <li>defense</li>
                         <li><span class="caret">distribution</span>
                             <ul class="nested">
