@@ -16,97 +16,99 @@
     </div>
     <button class="openbtn" onclick="openNav()">☰</button>      
     <script src="script/hud_menu.js"></script>
-    <h1>Comment faire un mod Mindustry</h1>
-    <h2>Avant de commencer à coder</h2>
-    <p>Pour fonctionner, un mod mindustry necessite:</p>
-    <p>Un fichier icon.png, pour l'icon du mod,</p>
-    <p>Un fichier <a href="#mod-hjson">mod.hjson</a> pour les informations concernant le mod.</p>
-    <p>Ensuite, il faut créer un dossier nommé "content", dans lequel iront les scripts ainsi qu'un dossier "sprites" pour les images.</p>
-    <h2>La dispositions des </h2>
-    <div class="centred">
-        <ul id="myUL">
-            <li><span class="caret">bundles</span></li>
-            <li><span class="caret"><a href="#content">content</a></span>
-                <ul class="nested">
-                    <li><span class="caret">blocks</span>
-                        <ul class="nested">
-                            <li>defense</li>
-                            <li><span class="caret">distribution</span>
-                                <ul class="nested">
-                                    <li>conveyors</li>
-                                </ul>
-                            </li>
-                            <li>drills</li>
-                            <li>environement</li>
-                            <li>liquid</li>
-                            <li>logic</li>
-                            <li>production</li>
-                            <li>storage</li>
-                            <li>turrets</li>
-                            <li>units</li>
-                            <li>walls</li>
-                        </ul>
-                    </li>
-                    <li>items</li>
-                    <li>liquids</li>
-                </ul>
-            </li>
-            <li>maps</li>
-            <li>schmatics</li>
-            <li>scripts</li>
-            <li><span class="caret"><a href="#sprites">sprites</a></span>
-                <ul class="nested">
-                    <li><span class="caret">blocks</span>
-                        <ul class="nested">
-                            <li>defense</li>
-                            <li><span class="caret">distribution</span>
-                                <ul class="nested">
-                                    <li>conveyors</li>
-                                </ul>
-                            </li>
-                            <li>drills</li>
-                            <li>environement</li>
-                            <li>liquid</li>
-                            <li>logic</li>
-                            <li>production</li>
-                            <li>storage</li>
-                            <li>turrets</li>
-                            <li>units</li>
-                            <li>walls</li>
-                        </ul>
-                    </li>
-                    <li>items</li>
-                    <li>liquids</li>
-                </ul>
-            </li>
-            <li>icon.png</li>
-            <li>LICENSE (optionel)</li>
-            <li>mod.hjson</li>
-        </ul>
-        <script src="script/repositeries.js"></script>
-    </div>
-    <div class="main" id="mod-hjson">
-        <h2>mod.hjson</h2>
-        <input type="text" value="
+    <div class="text">
+        <h1>Comment faire un mod Mindustry</h1>
+        <h2>Avant de commencer à coder</h2>
+        <p>Pour fonctionner, un mod mindustry necessite:</p>
+        <p>Un fichier icon.png, pour l'icon du mod,</p>
+        <p>Un fichier <a href="#mod-hjson">mod.hjson</a> pour les informations concernant le mod.</p>
+        <p>Ensuite, il faut créer un dossier nommé "content", dans lequel iront les scripts ainsi qu'un dossier "sprites" pour les images.</p>
+        <h2>La dispositions des </h2>
+        <div class="centred">
+            <ul id="myUL">
+                <li><span class="caret">bundles</span></li>
+                <li><span class="caret"><a href="#content">content</a></span>
+                    <ul class="nested">
+                        <li><span class="caret">blocks</span>
+                            <ul class="nested">
+                                <li>defense</li>
+                                <li><span class="caret">distribution</span>
+                                    <ul class="nested">
+                                        <li>conveyors</li>
+                                    </ul>
+                                </li>
+                                <li>drills</li>
+                                <li>environement</li>
+                                <li>liquid</li>
+                                <li>logic</li>
+                                <li>production</li>
+                                <li>storage</li>
+                                <li>turrets</li>
+                                <li>units</li>
+                                <li>walls</li>
+                            </ul>
+                        </li>
+                        <li>items</li>
+                        <li>liquids</li>
+                    </ul>
+                </li>
+                <li>maps</li>
+                <li>schmatics</li>
+                <li>scripts</li>
+                <li><span class="caret"><a href="#sprites">sprites</a></span>
+                    <ul class="nested">
+                        <li><span class="caret">blocks</span>
+                            <ul class="nested">
+                                <li>defense</li>
+                                <li><span class="caret">distribution</span>
+                                    <ul class="nested">
+                                        <li>conveyors</li>
+                                    </ul>
+                                </li>
+                                <li>drills</li>
+                                <li>environement</li>
+                                <li>liquid</li>
+                                <li>logic</li>
+                                <li>production</li>
+                                <li>storage</li>
+                                <li>turrets</li>
+                                <li>units</li>
+                                <li>walls</li>
+                            </ul>
+                        </li>
+                        <li>items</li>
+                        <li>liquids</li>
+                    </ul>
+                </li>
+                <li>icon.png</li>
+                <li>LICENSE (optionel)</li>
+                <li>mod.hjson</li>
+            </ul>
+            <script src="script/repositeries.js"></script>
+        </div>
+        <div class="main" id="mod-hjson">
+            <h2>mod.hjson</h2>
+            <input type="text" value="
 name: [Le nom du mod et du dossier]
 displayName: [Le nom qui sera afficher]
 description: [Une description du mod]
 author: [Le créteur du mod]
 version: [version du mod]
 minGameVersion: [version du jeu]" id="myInput">
-        <button onclick="myFunction()">Copier</button>
-    </div>
-    <div class="main" id="content">
-        <h2>Content</h2>
-        <h3>Blocks</h3>
-        <h4>Mur</h4>
-        <h4>Producteur d'énergie</h4>
-        <h4>Producteur de ressource</h4>
-        <h3>Items</h3>
-        <h3>Liquides</h3>
-    </div>
-    <div class="main" id="sprites">
-        <h2>Sprites</h2><br><br><br><br><br><br><br><br><br>
+            <button onclick="myFunction()">Copier</button>
+        </div>
+        <div class="main" id="content">
+            <h2>Content</h2>
+            <h3>Blocks</h3>
+            <h4>Mur</h4>
+            <h4>Producteur d'énergie</h4>
+            <h4>Producteur de ressource</h4>
+            <h3>Items</h3>
+            <h3>Liquides</h3>
+        </div>
+        <div class="main" id="sprites">
+            <h2>Sprites</h2><br><br><br><br><br><br><br><br><br>
+        </div>
     </div>
 </body>
 </html>
