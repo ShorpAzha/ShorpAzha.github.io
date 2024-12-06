@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     background-color: #20000a;
     color: whitesmoke;
@@ -116,4 +120,14 @@ ul, #myUL {
 
 .active {
   display: block;
+}
+
+#mod-hjson {
+  height: 90%;
+  background-color: pink;
+}
+
+#sprites {
+  height: 90%;
+  background-color: yellow;
 }
