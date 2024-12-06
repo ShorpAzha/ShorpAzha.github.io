@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/index.css">
     <title>ShorpAzha | Mindustry</title>
+    <script src="script/copy.js"></script>
 </head>
 <body>
     <div id="mySidepanel" class="sidepanel">
@@ -85,7 +86,15 @@
         <script src="script/repositeries.js"></script>
     </div>
     <div class="main" id="mod-hjson">
-        <h2>mod.hjson</h2><br><br><br><br><br><br><br><br><br>
+        <h2>mod.hjson</h2>
+        <input type="text" value="
+name: [Le nom du mod et du dossier]
+displayName: [Le nom qui sera afficher]
+description: [Une description du mod]
+author: [Le créteur du mod]
+version: [version du mod]
+minGameVersion: [version du jeu]" id="myInput">
+        <button onclick="myFunction()">Copier</button>
     </div>
     <div class="main" id="content">
         <h2>Content</h2>

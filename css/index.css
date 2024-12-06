@@ -5,26 +5,27 @@ html {
 body {
     background-color: #20000a;
     color: whitesmoke;
+    text-align: center;
 }
 
 h1 {
     color:aqua;
-    text-align: center;
 }
 
 h2 {
     color: greenyellow;
-    text-align: center;
 }
 
 h3 {
     color: royalblue;
-    text-align: center;
+}
+
+h4 {
+  color: palevioletred;
 }
 
 p {
     color: powderblue;
-    text-align: center;
 }
 
 .sidepanel  {
