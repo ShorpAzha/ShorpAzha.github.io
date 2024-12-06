@@ -17,6 +17,11 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    color: royalblue;
+    text-align: center;
+}
+
 p {
     color: powderblue;
     text-align: center;
@@ -122,45 +127,6 @@ ul, #myUL {
   display: block;
 }
 
-.dropbtn {
-  background-color: #3498DB;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-}
-
-.dropup {
-  position: relative;
-  display: inline-block;
-}
-
-.dropup-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 160px;
-  bottom: 50px;
-  z-index: 1;
-}
-
-.dropup-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropup-content a:hover {background-color: #ccc}
-
-.dropup:hover .dropup-content {
-  display: block;
-}
-
-.dropup:hover .dropbtn {
-  background-color: #2980B9;
-}
-
 #mod-hjson {
   color: lightseagreen
 }
@@ -171,12 +137,4 @@ ul, #myUL {
 
 #sprites {
   color: aquamarine;
-}
-
-#items {
-  color: lightcoral;
-}
-
-#liquids {
-  color: lightskyblue;
 }
