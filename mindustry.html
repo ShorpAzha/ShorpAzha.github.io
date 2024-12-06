@@ -15,14 +15,23 @@
     </div>
     <button class="openbtn" onclick="openNav()">☰</button>      
     <script src="script/hud_menu.js"></script>
-    <h1>Principe d'un mod</h1>
+    <h1>Comment faire un mod Mindustry</h1>
+    <h2>Avant de commencer à coder</h2>
     <p>Pour fonctionner, un mod mindustry necessite:</p>
     <p>Un fichier icon.png, pour l'icon du mod,</p>
-    <p>Un fichier <a href="#mod-hjson">mod.hjson</a> pour les informations concernant le mod</p>
+    <p>Un fichier <a href="#mod-hjson">mod.hjson</a> pour les informations concernant le mod.</p>
+    <p>Ensuite, il faut créer un dossier nommé "content", dans lequel iront les scripts ainsi qu'un dossier "sprites" pour les images.</p>
+    <h2>La dispositions des </h2>
     <div class="centred">
         <ul id="myUL">
             <li><span class="caret">bundles</span></li>
             <li><span class="caret">content</span>
+                <div class="dropup">
+                <button class="dropbtn">Dropup</button>
+                <div class="dropup-content">
+                  <p>Ici iront les scripts: nom_item.hjson</p>
+                  <a href="#content">Content</a>
+                </div></div>
                 <ul class="nested">
                     <li><span class="caret">blocks</span>
                         <ul class="nested">
@@ -43,14 +52,20 @@
                             <li>walls</li>
                         </ul>
                     </li>
-                    <li><a href="mind_items.html">items</a></li>
-                    <li>liquids</li>
+                    <li><a href="#items">items</a></li>
+                    <li><a href="#liquids">liquids</a></li>
                 </ul>
             </li>
             <li>maps</li>
             <li>schmatics</li>
             <li>scripts</li>
-            <li><span class="caret"></span><a href="#sprites">sprites</a>
+            <li><span class="caret">sprites</span>
+                <div class="dropup">
+                <button class="dropbtn">Dropup</button>
+                <div class="dropup-content">
+                    <p>Ici iront les images: nom_item.hjson</p>
+                    <a href="#sprites">Sprites</a>
+                </div></div>
                 <ul class="nested">
                     <li><span class="caret">blocks</span>
                         <ul class="nested">
@@ -82,11 +97,19 @@
         <script src="script/repositeries.js"></script>
     </div>
     <div class="main" id="mod-hjson">
-        <h2>Section 1</h2>
+        <h2>mod.hjson</h2><br><br><br><br><br><br><br><br><br>
+    </div>
+    <div class="main" id="content">
+        <h2>Content</h2><br><br><br><br><br><br><br><br><br>
+    </div>
+    <div class="main" id="items">
+        <h2>Items</h2><br><br><br><br><br><br><br><br><br>
+    </div>
+    <div class="main" id="liquids">
+        <h2>Liquides</h2><br><br><br><br><br><br><br><br><br>
     </div>
     <div class="main" id="sprites">
-        <h2>Section 2</h2>
+        <h2>Sprites</h2><br><br><br><br><br><br><br><br><br>
     </div>
-
 </body>
 </html>
