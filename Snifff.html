@@ -3,23 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/video.css">
     <title>ShorpAzha | Rick Roll</title>
 </head>
 <body>
     <video autoplay muted loop id="myVideo">
-  <source src="images/video.mp4" type="video/mp4">
-  Your broswer does not support HTML5 video.
+    <source src="images/video.mp4" type="video/mp4">
+    Your broswer does not support HTML5 video.
     </video>
-    <div id="mySidepanel" class="sidepanel">
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
-        <a href="index.html">Acceuil</a>
-        <p>Chemin de fer</p>
-        <a href="history.html">Histoire</a>
-        <a href="now.html">De nos jours</a>
-        <a href="help.html">Contact</a>
+    <script src="script/video.js"></script>    
+    <div class="content">
+        <h1>Snifff</h1>
+        <a href="index.html">Retour Home</a>
+        <button id="myBtn" onclick="myFunction()">Pause</button>
     </div>
-    <button class="openbtn" onclick="openNav()">☰</button>      
-    <script src="script/hud_menu.js"></script>
 </body>
 </html>
