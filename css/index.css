@@ -11,6 +11,14 @@ h3 {color: royalblue;}
 h4 {color: palevioletred;}
 p {color: powderblue;}
 
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
 iframe {
   height: 300px;
   width: 75%;
