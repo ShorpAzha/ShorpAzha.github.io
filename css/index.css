@@ -1,35 +1,23 @@
-html {
-  scroll-behavior: smooth;
-}
+html {scroll-behavior: smooth;}
 
 body {
     background-color: #20000a;
     color: whitesmoke;
 }
 
-h1 {
-    color:aqua;
+h1 {color:aqua;}
+h2 {color: greenyellow;}
+h3 {color: royalblue;}
+h4 {color: palevioletred;}
+p {color: powderblue;}
+
+iframe {
+  height: 300px;
+  width: 75%;
+  margin: auto;
 }
 
-h2 {
-    color: greenyellow;
-}
-
-h3 {
-    color: royalblue;
-}
-
-h4 {
-  color: palevioletred;
-}
-
-p {
-    color: powderblue;
-}
-
-.text {
-  text-align: center;
-}
+.text {text-align: center;}
 
 .sidepanel  {
     width: 0;
@@ -129,16 +117,4 @@ ul, #myUL {
 
 .active {
   display: block;
-}
-
-#mod-hjson {
-  color: lightseagreen
-}
-
-#content {
-  color: rosybrown;
-}
-
-#sprites {
-  color: aquamarine;
 }

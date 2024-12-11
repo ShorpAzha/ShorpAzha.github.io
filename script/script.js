@@ -1,8 +1,7 @@
 var quotes = [
+    "Hello bienvenue",
     "Bonjour",
-    "Au revoir",
-    "Bonsoir",
-    "Bonne nuit"
+    "Bonne nuit du matin"
 ]
 
 var randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
