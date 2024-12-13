@@ -71,7 +71,7 @@ iframe {
   }
   
   .openbtn:hover {
-    background-color:#444;
+    background-image: linear-gradient(#222,#666);
   }
 
 .easter_egg {
