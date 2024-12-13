@@ -26,7 +26,7 @@ iframe {
     height: 500px;
     top: 0;
     left: 0;
-    background-image: linear-gradient(#222, #666);
+    background-image: linear-gradient(darkred, #20000a);
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
