@@ -100,9 +100,10 @@ iframe {
 }
 
 .container {
+  text-align: center;
   width: 100%;
   width: max-content;
-  background-image: linear-gradient(red, orange, greenyellow);
+  background-color: rosybrown;
 }
 
 ul, #myUL {
