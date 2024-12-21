@@ -26,7 +26,7 @@ iframe {
     height: 500px;
     top: 0;
     left: 0;
-    background-image: linear-gradient(darkred, #20000a);
+    background-image: linear-gradient(darkred, #666);
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -75,7 +75,7 @@ iframe {
   }
 
 .easter_egg {
-    color: #20000a;
+    color: #666;
     margin: auto;
 }
 
