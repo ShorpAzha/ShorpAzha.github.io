@@ -88,6 +88,7 @@ iframe {
 
 .carte {
   width: 50%;
+  margin: auto;
   display: flex;
   align-items: center;
   justify-content: center;
