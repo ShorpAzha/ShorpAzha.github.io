@@ -86,6 +86,13 @@ iframe {
   height: 30px;
 }
 
+.carte {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .centred {
   display: flex;
   align-items: center;
