@@ -1,15 +1,15 @@
 html {scroll-behavior: smooth;}
 
 body {
-    background-color: #20000a;
+    background-color: #666;
     color: whitesmoke;
 }
 
-h1 {color:aqua;}
-h2 {color: greenyellow;}
-h3 {color: royalblue;}
-h4 {color: palevioletred;}
-p {color: powderblue;}
+h1 {color: #3d0a49;}
+h2 {color: #9aff00;}
+h3 {color: #111d41;}
+h4 {color: #640827;}
+p {color: white;}
 
 iframe {
   height: 300px;
