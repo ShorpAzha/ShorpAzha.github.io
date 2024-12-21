@@ -94,6 +94,14 @@ iframe {
   justify-content: center;
 }
 
+.centered_ {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
 .centred {
   display: flex;
   align-items: center;
