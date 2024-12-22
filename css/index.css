@@ -102,6 +102,15 @@ iframe {
   gap: 20px;
 }
 
+.button_on_train {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
 .centred {
   display: flex;
   align-items: center;
@@ -117,56 +126,6 @@ table, th, td {
 .center {
   margin-left: auto;
   margin-right: auto;
-}
-
-.home {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}
-
-.container {
-  text-align: center;
-  width: 100%;
-  width: max-content;
-  background-color: rosybrown;
-}
-
-ul, #myUL {
-  list-style-type: none;
-}
-
-#myUL {
-  margin: 0;
-  padding: 0;
-}
-
-.caret {
-  cursor: pointer;
-  -webkit-user-select: none; /* Safari 3.1+ */
-  -moz-user-select: none; /* Firefox 2+ */
-  -ms-user-select: none; /* IE 10+ */
-  user-select: none;
-}
-
-.caret::before {
-  content: "\25B6";
-  color: rgb(255, 0, 0);
-  display: inline-block;
-  margin-right: 6px;
-}
-
-.caret-down::before {
-  transform: rotate(90deg);  
-}
-
-.nested {
-  display: none;
-}
-
-.active {
-  display: block;
 }
 
 .btn {
