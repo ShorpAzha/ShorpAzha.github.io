@@ -143,3 +143,12 @@ table, th, td {
   background-color: #3e8e41;
   color: white;
 }
+
+.galery {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
