@@ -1,7 +1,8 @@
 body {
     background-image: url(../images/ParisEstBanlieue.jpg);
     background-size: cover;
-    background-position: center top;   
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .ThisIsNotAFish {
