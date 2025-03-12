@@ -155,6 +155,7 @@ table, th, td {
 }
 
 .list {
+  line-height: 10px;
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
