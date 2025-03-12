@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "nom": "SNCF Renault ABV1",
+            "nom_": "X100",
+            "description": "",
+            "epoque": "III",
+            "construction": 1936,
+            "constructeurs": {
+                "name": "Renault"
+            },
+            "motorisation": "diesel",
+            "vitesse-max": 120,
+            "ecartement": "standard",
+            "qantite-transport": {
+                "fret": 0,
+                "1ere": 0,
+                "2eme": 36,
+                "3eme": 48
+            }
+        },
+        {
+            "nom": "SNCF Renault ABV2",
+            "nom_": "X100",
+            "description": "",
+            "epoque": "III",
+            "construction": 1936,
+            "constructeurs": {
+                "name": "Renault"
+            },
+            "motorisation": "diesel",
+            "vitesse-max": 120,
+            "ecartement": "standard",
+            "qantite-transport": {
+                "fret": 0,
+                "1ere": 0,
+                "2eme": 36,
+                "3eme": 48
+            }
+        },
+        {
+            "nom": "SNCF Renault VH",
+            "nom_": "X2000",
+            "description": "",
+            "epoque": "III",
+            "construction": 1933,
+            "constructeurs": {
+                "name": "Renault"
+            },
+            "motorisation": "diesel",
+            "vitesse-max": 100,
+            "ecartement": "standard",
+            "qantite-transport": {
+                "fret": 0,
+                "1ere": 0,
+                "2eme": 0,
+                "3eme": 0
+            }
+        },
+        {
+            "nom": "SNCF X2051",
+            "nom_": "X2051",
+            "description": "Prototype, la Flèche d'Argent",
+            "epoque": "III",
+            "construction": 1954,
+            "constructeurs": {
+                "name": "Carel-Fouché"
+            },
+            "motorisation": "diesel",
+            "vitesse-max": 120,
+            "ecartement": "standard",
+            "qantite-transport": {
+                "fret": 0,
+                "1ere": 16,
+                "2eme": 80,
+                "3eme": 0
+            }
+        }
+    ]
+}
