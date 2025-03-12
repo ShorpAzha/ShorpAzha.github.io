@@ -1,5 +1,3 @@
-const data = ['A', 'B', 'C']
-
 function wiki() {
-    document.getElementById('name').innerText = data[0];
+    document.getElementById('name').innerText = "A";
 }
