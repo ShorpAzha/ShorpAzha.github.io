@@ -153,12 +153,3 @@ table, th, td {
   justify-content: center;
   gap: 20px;
 }
-
-.list {
-  line-height: 10px;
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  display: table;
-  border: 1px solid #ccc;
-}
