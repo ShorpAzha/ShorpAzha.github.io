@@ -36,6 +36,6 @@ const trainVitesseMax = datas.data;
 const trainEcartement = datas.data;
 
 trainNames.forEach((trains) => {
-  document.getElementById('name').innerText = trains.name
+  document.getElementById('name').innerHTML = trains.name
 });
 
