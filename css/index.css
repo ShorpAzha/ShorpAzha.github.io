@@ -74,11 +74,6 @@ iframe {
     background-image: linear-gradient(#222,#666);
   }
 
-.easter_egg {
-    color: #666;
-    margin: auto;
-}
-
 .logo {
   position: relative;
   top: 10px;
@@ -191,5 +186,12 @@ table, th, td {
 }
 
 h1 span {
-  background: black;
+  background: rgba(24, 118, 206, 0.5);
+}
+
+.shadowed {
+  text-shadow: 
+    1px 1px 2px red,
+    0 0 3em blue,
+    0 0 0.6em blue;
 }
