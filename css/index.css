@@ -189,3 +189,7 @@ table, th, td {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+h1 span {
+  background: black;
+}
