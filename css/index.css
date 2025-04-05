@@ -186,12 +186,10 @@ table, th, td {
 }
 
 h1 span {
-  background: rgba(24, 118, 206, 0.5);
+  background: rgba(71, 149, 254, 0.75);
 }
 
 .shadowed {
   text-shadow: 
-    1px 1px 2px red,
-    0 0 3em blue,
-    0 0 0.6em blue;
+    1px 1px 2px red;
 }
