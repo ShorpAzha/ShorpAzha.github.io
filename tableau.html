@@ -1,0 +1,91 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Wiki test</title>
+</head>
+<body>
+    <!-- sidenav bar -->
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">Accueil</a>
+        <a href="#">L'histoire du chemin de fer</a>
+        <a href="#">Le materiel ferroviaire</a>
+        <a href="#">Les lignes fran&ccedil;aises</a>
+        <a href="#">Lexique ferroviaire</a>
+        <a href="#">Cr&eacute;dit photos</a>
+        <a href="#">Contact</a>
+    </div>
+    <span class="menu_sidebar" onclick="openNav()">&#9776;</span>
+    <!-- end sidenav bar -->
+    <h2></h2>
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Recherche par nom..." title="Taper un nom">
+    <table id="myTable">
+        <tr class="header">
+            <th style="width:50%;" onclick="sortTable(0)">Nom</th>
+            <th style="width:15%;" onclick="sortTable(1)">Département</th>
+            <th style="width:30%;" onclick="sortTable(2)">Compagnie</th>
+            <th style="width:5%;" onclick="sortTable(3)">Ouverture</th>
+        </tr>
+        <tr onclick="location.href='#chartres'">
+            <td>Chartres</td>
+            <td>Eure-et-Loir (28)</td>
+            <td>Ouest</td>
+            <td>1849</td>
+        </tr>
+        <tr onclick="location.href='#paris_montparnasse'">
+            <td>Paris-Montparnasse</td>
+            <td>Paris (75)</td>
+            <td>Cf de Paris à Versailles-RG</td>
+            <td>1840</td>
+        </tr>
+        <tr onclick="location.href='#paris_austerlitz'">
+            <td>Paris-Austerlitz, ex: Paris-Orléans</td>
+            <td>Paris (75)</td>
+            <td>P.O.</td>
+            <td>1840</td>
+        </tr>
+        <tr onclick="location.href='#le_mans'">
+            <td>Le Mans</td>
+            <td>Sarthe (72)</td>
+            <td>Ouest</td>
+            <td>1854</td>
+        </tr>
+        <tr onclick="location.href='#tours'">
+            <td>Tours</td>
+            <td>Indre-et-Loire (37)</td>
+            <td>P.O.</td>
+            <td>1846</td>
+        </tr>
+        <tr onclick="location.href='#tours_vendee'">
+            <td>Tours-Vendée</td>
+            <td>Indre-et-Loire (37)</td>
+            <td>Cf de Vendée</td>
+            <td>1846</td>
+        </tr>
+        <tr onclick="location.href='#orleans'">
+            <td>Orléans</td>
+            <td>Loiret (45)</td>
+            <td>P.O.</td>
+            <td>1843</td>
+        </tr>
+        <tr onclick="location.href='#rennes'">
+            <td>Rennes</td>
+            <td>Ille-et-Vilaine (35)</td>
+            <td>Ouest</td>
+            <td>1857</td>
+        </tr>
+        <tr onclick="location.href='#caen'">
+            <td>Caen</td>
+            <td>Calvados (14)</td>
+            <td>Cf de Paris à Caen et à Cherbourg</td>
+            <td>1857</td>
+        </tr>
+    </table>
+    <!-- script import -->
+    <script src="js/menu.js"></script>
+    <script src="js/tablesearch.js"></script>
+    <script src="js/tablesort.js"></script>
+</body>
+</html> 
