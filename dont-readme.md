@@ -1,5 +1,5 @@
 # Nouveau site
-* [Accueil](index.html) [Lien](https://ShorpAzha.github.io/index.html), redirection
+* [Accueil](index.html) [Lien](https://ShorpAzha.github.io/index.html){:target="_blank"}, redirection
 # Ancien site
 * [Ancienne Accueil](old_index.html) [Lien](https://ShorpAzha.github.io/old_index.html)
 ## Pages publiées
