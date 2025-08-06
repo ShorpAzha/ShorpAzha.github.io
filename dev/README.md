@@ -48,7 +48,7 @@
 ## Icons
 * <a href='https://ShorpAzha.github.io/favicon.ico' target='_blank'>Favicon</a>
 * <a href='https://ShorpAzha.github.io/images/factorio.png' target='_blank'>Flond3</a>
-* <a href='https://ShorpAzha.github.io/images/icon_atsouky.png' target='_blank'>Atsouky></a>
+* <a href='https://ShorpAzha.github.io/images/icon_atsouky.png' target='_blank'>Atsouky</a>
 * <a href='https://ShorpAzha.github.io/images/icon_ezreal.png' target='_blank'>Ezreal</a>
 * <a href='https://ShorpAzha.github.io/images/logo_aucunnan.png' target='_blank'>Aucunnan</a>
 * <a href='https://ShorpAzha.github.io/images/logo_github.png' target='_blank'>GitHub</a>
