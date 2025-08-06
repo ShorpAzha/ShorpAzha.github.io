@@ -1,6 +1,7 @@
-# Nouveau site
+# DEV Links
+## Nouveau site
 * <a href='https://ShorpAzha.github.io/' target='_blank'>Accueil</a>, redirection
-# Ancien site
+## Ancien site
 * <a href='https://ShorpAzha.github.io/old_index.html' target='_blank'>Ancienne Accueil</a>
 ## Pages publiées
 * <a href='https://ShorpAzha.github.io/credits.html' target='_blank'>Crédits</a>
