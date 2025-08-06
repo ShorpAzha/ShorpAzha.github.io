@@ -25,6 +25,7 @@
 * <a href='https://ShorpAzha.github.io/dev/basewiki.html' target='_blank'>Base Wiki</a>
 * <a href='https://ShorpAzha.github.io/dev/leaflet.html' target='_blank'>Leaflet</a>
 * <a href='https://ShorpAzha.github.io/dev/tableau.html' target='_blank'>Tableau</a>
+* <a href='https://ShorpAzha.github.io/dev/test-sidebar.html' target='_blank'>Tests Sidebar</a>
 ## CSS
 * <a href='https://ShorpAzha.github.io/css/gridbox.css' target='_blank'>Gridbox</a>
 * <a href='https://ShorpAzha.github.io/css/home.css' target='_blank'>Home</a>
