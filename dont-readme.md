@@ -1,5 +1,5 @@
 # Nouveau site
-* [Accueil](index.html) [Lien](https://ShorpAzha.github.io/index.html){:target="_blank"}, redirection
+* [Accueil](index.html) [Lien](https://ShorpAzha.github.io/index.html){target="_blank"}, redirection
 # Ancien site
 * [Ancienne Accueil](old_index.html) [Lien](https://ShorpAzha.github.io/old_index.html)
 ## Pages publiées
@@ -56,4 +56,5 @@
 * [NSI Eliott](images/logo_nsi_eliott.png) [Lien](https://ShorpAzha.github.io/images/logo_nsi_eliott.png)
 * [ShorpAzha](images/logo_shorpazha.png) [Lien](https://ShorpAzha.github.io/images/logo_shorpazha.png)
 * [ShorpAzha²](images/logo.png) [Lien](https://ShorpAzha.github.io/images/logo.png)
+
 * [Sorry](images/sorry.png) [Lien](https://ShorpAzha.github.io/images/sorry.png)
