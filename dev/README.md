@@ -5,19 +5,19 @@
 * <a href='https://ShorpAzha.github.io/old_index.html' target='_blank'>Ancienne Accueil</a>
 ## Pages publiées
 * <a href='https://ShorpAzha.github.io/credits.html' target='_blank'>Crédits</a>
-* <a href='https://ShorpAzha.github.io/histoire-ferroviaire.html' target='_blank'>L'histoire du ferroviaire</a>
 * <a href='https://ShorpAzha.github.io/galerie-moderne.html' target='_blank'>Galerie</a>
-* <a href='https://ShorpAzha.github.io/contact.html' target='_blank'>Aide</a>
+* <a href='https://ShorpAzha.github.io/contact.html' target='_blank'>Contact</a>
+* <a href='https://ShorpAzha.github.io/histoire-ferroviaire.html' target='_blank'>L'histoire du ferroviaire</a>
 * <a href='https://ShorpAzha.github.io/histoire-part1.html' target='_blank'>Histoire Partie 1</a>
 * <a href='https://ShorpAzha.github.io/histoire-part2.html' target='_blank'>Histoire Partie 2</a>
 * <a href='https://ShorpAzha.github.io/histoire-part3.html' target='_blank'>Histoire Partie 3</a>
 * <a href='https://ShorpAzha.github.io/lexique.html' target='_blank'>Lexique</a>
+* <a href='https://ShorpAzha.github.io/materiel-ferroviaire.html' target='_blank'>Materiel Ferroviaire</a>
 * <a href='https://ShorpAzha.github.io/materiel-part1' target='_blank'>Materiel partie 1</a>
 * <a href='https://ShorpAzha.github.io/materiel-part2' target='_blank'>Materiel partie 2</a>
 * <a href='https://ShorpAzha.github.io/materiel-part3' target='_blank'>Materiel partie 3</a>
 * <a href='https://ShorpAzha.github.io/tramway-moderne.html' target='_blank'>Tramways modernes</a>
 * <a href='https://ShorpAzha.github.io/tramway-d-antan.html' target='_blank'>Anciens tramways</a>
-* <a href='https://ShorpAzha.github.io/materiel-histoire-ferroviaire.html' target='_blank'>Materiel Ferroviaire</a>
 ## Pages cachées
 * <a href='https://ShorpAzha.github.io/autorails.html' target='_blank'>Autorails</a>
 ## DEV
