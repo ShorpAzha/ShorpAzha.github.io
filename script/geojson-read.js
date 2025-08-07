@@ -8,6 +8,22 @@ function geoJsonMiniMap(geoJsonFile) {
             return response.json();
         })
         .then(data => {
+            var LeafIcon = L.Icon.extend({
+                options: {
+                iconSize:     [38, 95],
+                shadowSize:   [50, 64],
+                iconAnchor:   [22, 94],
+                shadowAnchor: [4, 62],
+                popupAnchor:  [-3, -76]
+                }
+            });
+            // Then create a new icon object like below:
+
+            var greenIcon = new LeafIcon({
+                iconUrl: 'http://leafletjs.com/examples/custom-icons/leaf-green.png',
+                shadowUrl: 'http://leafletjs.com/examples/custom-icons/leaf-shadow.png'
+            })
+
             // Création de la carte Leaflet
             const map = L.map('map').setView([45.6062, 2.7449], 13);
 
@@ -32,6 +48,8 @@ function geoJsonMiniMap(geoJsonFile) {
                 layer.bindPopup(popupContent);
             }
 
+            L.marker([51.5, -0.09], {icon: greenIcon}).addTo(map);
+
             // Ajout des données GeoJSON à la carte
             const dataLayer = L.geoJSON(data, {
                 style: function(feature) {
@@ -39,6 +57,7 @@ function geoJsonMiniMap(geoJsonFile) {
                         case 'PO': return {color: "#999"};
                     }
                 },
+
                 filter(feature, layer) {
                     if (feature.properties) {
                         // If the property "underConstruction" exists and is true, return false (don't render features under construction)
