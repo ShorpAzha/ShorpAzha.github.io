@@ -10,16 +10,11 @@ function geoJsonMiniMap(geoJsonFile) {
         .then(data => {
             // Créer une nouvelle icône
             var myIcon = L.icon({
-                iconUrl: 'chemin/vers/votre/icône.png',
-                iconSize: [38, 95], // taille de l'icône
-                iconAnchor: [22, 94], // point d'ancrage de l'icône
-                popupAnchor: [-3, -76] // point d'ancrage de la popup
+                iconUrl: 'https://ShorpAzha.github.io/images/icon-marker.png',
+                iconSize: [64, 64], // taille de l'icône
+                iconAnchor: [32, 32], // point d'ancrage de l'icône
+                popupAnchor: [0, 0] // point d'ancrage de la popup
             });
-
-            // Ajouter un marqueur avec la nouvelle icône
-            L.marker([45.6062, 2.7449], { icon: myIcon }).addTo(map)
-                .bindPopup('Test')
-                .openPopup();
 
             // Création de la carte Leaflet
             const map = L.map('map').setView([45.6062, 2.7449], 13);
@@ -62,6 +57,11 @@ function geoJsonMiniMap(geoJsonFile) {
                 },
                 onEachFeature
             }).addTo(map);
+
+            // Ajouter un marqueur avec la nouvelle icône
+            L.marker([45.6062, 2.7449], { icon: myIcon }).addTo(map)
+                .bindPopup('Test')
+                .openPopup();
         })
         .catch(error => console.error('Erreur:', error));
     }
