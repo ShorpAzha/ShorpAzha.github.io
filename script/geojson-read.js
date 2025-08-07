@@ -27,9 +27,6 @@ function geoJsonMiniMap(geoJsonFile) {
 
             // Ajout de Pop-Up 
             function onEachFeature(feature, layer) {
-                if( layer instanceof L.Marker ) {
-                    layer.setIcon(myIcon);
-                }
                 let popupContent = "Default popup content"; // Declare and initialize popupContent
                 if (feature.properties.description != undefined) {
                     let popupContent = `<p>${feature.properties.name}<br>${feature.properties.description}</p>`;
@@ -62,7 +59,7 @@ function geoJsonMiniMap(geoJsonFile) {
             }).addTo(map);
             L.layerGroup.eachLayer(function(layer) {
                 if( layer instanceof L.Marker ) {
-                    layer.setIcon(iconSmall);
+                    layer.setIcon(myIcon);
                 }
             });
         })
