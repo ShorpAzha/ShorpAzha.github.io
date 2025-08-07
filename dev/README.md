@@ -31,6 +31,7 @@
 * <a href='https://ShorpAzha.github.io/css/home.css' target='_blank'>Home</a>
 * <a href='https://ShorpAzha.github.io/css/index.css' target='_blank'>Index</a>
 * <a href='https://ShorpAzha.github.io/css/leaflet.css' target='_blank'>Leaflet</a>
+* <a href='https://ShorpAzha.github.io/css/sidebar-new.css' target='_blank'>Tests sidebar</a>
 * <a href='https://ShorpAzha.github.io/css/style.css' target='_blank'>Style</a>
 ## Script
 ### JavaScript
@@ -39,6 +40,7 @@
 * <a href='https://ShorpAzha.github.io/script/leaflet.js' target='_blank'>Leaflet</a>
 * <a href='https://ShorpAzha.github.io/script/listsearch.js' target='_blank'>List Search</a>
 * <a href='https://ShorpAzha.github.io/script/offline.js' target='_blank'>Off-line</a>
+* <a href='https://ShorpAzha.github.io/script/sidebar-new.js' target='_blank'>Tests sidebar</a>
 * <a href='https://ShorpAzha.github.io/script/tablesearch.js' target='_blank'>Table Search</a>
 * <a href='https://ShorpAzha.github.io/script/tablesort.js' target='_blank'>Table Sort</a>
 * <a href='https://ShorpAzha.github.io/script/wiki_train.js' target='_blank'>Wiki train</a>
