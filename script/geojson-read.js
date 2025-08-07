@@ -60,6 +60,11 @@ function geoJsonMiniMap(geoJsonFile) {
                 },
                 onEachFeature
             }).addTo(map);
+            L.layerGroup.eachLayer(function(layer) {
+                if( layer instanceof L.Marker ) {
+                    layer.setIcon(iconSmall);
+                }
+            });
         })
         .catch(error => console.error('Erreur:', error));
     }
