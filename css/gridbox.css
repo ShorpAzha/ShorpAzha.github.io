@@ -1,5 +1,5 @@
 body {
-  background: hsl(210deg 15% 6%);
+  background: blanchedalmond;
 }
 
 .parent {
@@ -15,11 +15,11 @@ body {
 
 .main {
   grid-area: main;
-  background-image: linear-gradient(rgb(48, 0, 0), rgb(32, 16, 0));
+  background-color: burlywood;
 }
 
 .main p {
-  color: #ffffff;
+  color: #3f3f3f;
 }
 
 .main h1 {
@@ -37,18 +37,18 @@ body {
 .sidebar {
   text-align: start;
   grid-area: sidebar;
-  background-image: linear-gradient(rgb(0, 48, 0), rgb(0, 32, 16));
+  background-color: rosybrown;
 }
 
 .header {
   text-align: center;
   grid-area: header;
-  background-image: linear-gradient(rgb(0, 0, 48), rgb(16, 0, 32));
+  background-color: tan;
 }
 
 .ligne {
   grid-area: ligne;
-  background-image: linear-gradient(rgb(16, 48, 32), rgb(48, 32, 16));
+  background-color: wheat;
 }
 
 section {
