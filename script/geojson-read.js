@@ -8,14 +8,6 @@ function geoJsonMiniMap(geoJsonFile) {
             return response.json();
         })
         .then(data => {
-            // Créer une nouvelle icône
-            var myIcon = L.icon({
-                iconUrl: 'https://ShorpAzha.github.io/images/icon-marker.png',
-                iconSize: [16, 16], // taille de l'icône
-                iconAnchor: [8, 8], // point d'ancrage de l'icône
-                popupAnchor: [0, 0] // point d'ancrage de la popup
-            });
-
             // Création de la carte Leaflet
             const map = L.map('map').setView([45.6062, 2.7449], 13);
 
@@ -57,12 +49,6 @@ function geoJsonMiniMap(geoJsonFile) {
                 },
                 onEachFeature
             }).addTo(map);
-            const a = L.layerGroup();
-            a.eachLayer(function(layer) {
-                if( layer instanceof L.Marker ) {
-                    layer.setIcon(myIcon);
-                }
-            });
         })
         .catch(error => console.error('Erreur:', error));
     }
