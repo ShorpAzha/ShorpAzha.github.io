@@ -9,8 +9,8 @@ body {
 .parent {
   display: grid;
   gap: 4px;
-  grid-template-columns: 2fr 5fr --fraction;
-  grid-template-rows: 120px --fraction 1fr;
+  grid-template-columns: 2fr 5fr var(--fraction);
+  grid-template-rows: 120px var(--fraction) 1fr;
   grid-template-areas:
     'header header header'
     'sidebar main ligne'
