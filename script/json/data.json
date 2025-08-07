@@ -6,9 +6,7 @@
             "description": "",
             "epoque": "III",
             "construction": 1936,
-            "constructeurs": {
-                "name": "Renault"
-            },
+            "constructeurs": ["Renault"],
             "motorisation": "diesel",
             "vitesse-max": 120,
             "ecartement": "standard",
@@ -25,9 +23,7 @@
             "description": "",
             "epoque": "III",
             "construction": 1936,
-            "constructeurs": {
-                "name": "Renault"
-            },
+            "constructeurs": ["Renault"],
             "motorisation": "diesel",
             "vitesse-max": 120,
             "ecartement": "standard",
@@ -44,9 +40,7 @@
             "description": "",
             "epoque": "III",
             "construction": 1933,
-            "constructeurs": {
-                "name": "Renault"
-            },
+            "constructeurs": ["Renault"],
             "motorisation": "diesel",
             "vitesse-max": 100,
             "ecartement": "standard",
@@ -63,9 +57,7 @@
             "description": "Prototype, la Flèche d'Argent",
             "epoque": "III",
             "construction": 1954,
-            "constructeurs": {
-                "name": "Carel-Fouché"
-            },
+            "constructeurs": ["Carel-Fouché"],
             "motorisation": "diesel",
             "vitesse-max": 120,
             "ecartement": "standard",
