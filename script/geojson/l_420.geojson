@@ -1,0 +1,2791 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.386434,
+          48.438739
+        ]
+      },
+      "properties": {
+        "name": "Amilly / Ouerray"
+      },
+      "id": "QxOTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32319,
+          48.843134
+        ]
+      },
+      "properties": {
+        "name": "Ancienne Gare de PmP"
+      },
+      "id": "UyNzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.313985,
+              48.838516
+            ],
+            [
+              2.314382,
+              48.838297
+            ],
+            [
+              2.312955,
+              48.837182
+            ],
+            [
+              2.312622,
+              48.837393
+            ],
+            [
+              2.313985,
+              48.838516
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Batiment Gare Vaugirard en 1950"
+      },
+      "id": "YwOTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.314553,
+              48.838304
+            ],
+            [
+              2.315009,
+              48.83805
+            ],
+            [
+              2.313051,
+              48.836461
+            ],
+            [
+              2.312601,
+              48.836723
+            ],
+            [
+              2.314553,
+              48.838304
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Batiment Gare Vaugirard en 1950"
+      },
+      "id": "Y4NDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.315114,
+              48.838128
+            ],
+            [
+              2.314953,
+              48.838213
+            ],
+            [
+              2.315345,
+              48.838543
+            ],
+            [
+              2.315495,
+              48.838477
+            ],
+            [
+              2.315114,
+              48.838128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Batiment SNCF"
+      },
+      "id": "E4OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.315275,
+              48.838089
+            ],
+            [
+              2.315583,
+              48.837951
+            ],
+            [
+              2.315929,
+              48.83831
+            ],
+            [
+              2.315817,
+              48.838354
+            ],
+            [
+              2.31605,
+              48.838582
+            ],
+            [
+              2.315843,
+              48.838652
+            ],
+            [
+              2.315275,
+              48.838089
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Batiment SNCF"
+      },
+      "id": "Q4ODM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480094,
+          48.387715
+        ]
+      },
+      "properties": {
+        "name": "Brest"
+      },
+      "id": "E5MzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.897427,
+          48.140653
+        ]
+      },
+      "properties": {
+        "name": "Breteil"
+      },
+      "id": "gxMzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.892221,
+          48.432607
+        ]
+      },
+      "properties": {
+        "name": "Bretoncelles"
+      },
+      "id": "M4MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.235648,
+          48.333416
+        ]
+      },
+      "properties": {
+        "name": "Broons"
+      },
+      "id": "g1Mzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.155359,
+          48.284467
+        ]
+      },
+      "properties": {
+        "name": "Caulnes"
+      },
+      "id": "k5Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.602303,
+          48.112716
+        ]
+      },
+      "properties": {
+        "name": "Cesson-Sévigné"
+      },
+      "id": "A5ODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.335035,
+          48.019647
+        ]
+      },
+      "properties": {
+        "name": "Champagné"
+      },
+      "id": "Y1Nzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.481137,
+          48.448319
+        ]
+      },
+      "properties": {
+        "name": "Chartres"
+      },
+      "id": "EwMDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.405199,
+          48.106281
+        ]
+      },
+      "properties": {
+        "name": "Châteaubourg"
+      },
+      "id": "gxMDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.921599,
+          48.743742
+        ]
+      },
+      "properties": {
+        "name": "Coignières"
+      },
+      "id": "Q3NDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.848876,
+          48.383426
+        ]
+      },
+      "properties": {
+        "name": "Condé sur Huisne"
+      },
+      "id": "IxODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.011517,
+          48.127207
+        ]
+      },
+      "properties": {
+        "name": "Conlie"
+      },
+      "id": "A5NzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.235436,
+          48.451485
+        ]
+      },
+      "properties": {
+        "name": "Courville sur Eure"
+      },
+      "id": "M1OTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.065542,
+          48.16806
+        ]
+      },
+      "properties": {
+        "name": "Crissé"
+      },
+      "id": "QwMjc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.026291,
+          48.107872
+        ]
+      },
+      "properties": {
+        "name": "Domfront"
+      },
+      "id": "EwMTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68152,
+          48.605213
+        ]
+      },
+      "properties": {
+        "name": "Epernon"
+      },
+      "id": "UyNjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.397176,
+          48.155562
+        ]
+      },
+      "properties": {
+        "name": "Évron"
+      },
+      "id": "YzMTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.481628,
+              48.448301
+            ],
+            [
+              1.481482,
+              48.448377
+            ],
+            [
+              1.481442,
+              48.448401
+            ],
+            [
+              1.481285,
+              48.448286
+            ],
+            [
+              1.481316,
+              48.448266
+            ],
+            [
+              1.481183,
+              48.448171
+            ],
+            [
+              1.481156,
+              48.448188
+            ],
+            [
+              1.481,
+              48.448076
+            ],
+            [
+              1.481042,
+              48.44805
+            ],
+            [
+              1.481191,
+              48.447968
+            ],
+            [
+              1.481094,
+              48.447897
+            ],
+            [
+              1.480947,
+              48.44798
+            ],
+            [
+              1.480917,
+              48.447995
+            ],
+            [
+              1.480891,
+              48.447975
+            ],
+            [
+              1.480728,
+              48.448071
+            ],
+            [
+              1.480722,
+              48.448066
+            ],
+            [
+              1.480689,
+              48.448088
+            ],
+            [
+              1.481392,
+              48.448595
+            ],
+            [
+              1.481561,
+              48.448496
+            ],
+            [
+              1.481529,
+              48.448474
+            ],
+            [
+              1.481711,
+              48.448369
+            ],
+            [
+              1.481628,
+              48.448301
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gare de Chartres en 1950"
+      },
+      "id": "Q1ODg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.306163,
+              48.829065
+            ],
+            [
+              2.30611,
+              48.828993
+            ],
+            [
+              2.307166,
+              48.828756
+            ],
+            [
+              2.307199,
+              48.828825
+            ],
+            [
+              2.306163,
+              48.829065
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gare de Ouest Ceinture sur la petite ceinture"
+      },
+      "id": "MwMDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.306069,
+              48.829116
+            ],
+            [
+              2.306285,
+              48.829286
+            ],
+            [
+              2.306379,
+              48.829237
+            ],
+            [
+              2.306169,
+              48.829064
+            ],
+            [
+              2.306069,
+              48.829116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gare de Ouset Ceinture (sur ligne classique)"
+      },
+      "id": "U4NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.323169,
+              48.843671
+            ],
+            [
+              2.323608,
+              48.843445
+            ],
+            [
+              2.322278,
+              48.84228
+            ],
+            [
+              2.321827,
+              48.842478
+            ],
+            [
+              2.323169,
+              48.843671
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gare Montparnasse en 1950"
+      },
+      "id": "g4NTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.771803,
+          48.625839
+        ]
+      },
+      "properties": {
+        "name": "Gazeran"
+      },
+      "id": "g4Nzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.143345,
+          48.555657
+        ]
+      },
+      "properties": {
+        "name": "Guimgamp"
+      },
+      "id": "Q1NDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.557521,
+          48.510153
+        ]
+      },
+      "properties": {
+        "name": "Jouy"
+      },
+      "id": "c1Mjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.388027,
+          48.409591
+        ]
+      },
+      "properties": {
+        "name": "Kerhuon"
+      },
+      "id": "g5NDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81924,
+          48.12329
+        ]
+      },
+      "properties": {
+        "name": "L'Hermitage-Mordelles"
+      },
+      "id": "Y3NTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.110325,
+          48.213531
+        ]
+      },
+      "properties": {
+        "name": "La Brohinière"
+      },
+      "id": "EwMDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.642883,
+          48.129664
+        ]
+      },
+      "properties": {
+        "name": "La Chapelle Anthenaise"
+      },
+      "id": "E1Nzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63917,
+          48.186554
+        ]
+      },
+      "properties": {
+        "name": "La Ferté Bernard"
+      },
+      "id": "cwMDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.306941,
+          48.426353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Forest-Landerneau"
+      },
+      "id": "I1MTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.010828,
+          48.473889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Loupe"
+      },
+      "id": "YxNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.138643,
+          48.08234
+        ]
+      },
+      "properties": {
+        "name": "La Milesse - La Bazoge"
+      },
+      "id": "AyNjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.943663,
+          48.755598
+        ]
+      },
+      "properties": {
+        "name": "La Verrière"
+      },
+      "id": "c4NjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.523049,
+          48.482716
+        ]
+      },
+      "properties": {
+        "name": "La Villette - Saint-Prest"
+      },
+      "id": "UxNDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.511497,
+          48.466085
+        ]
+      },
+      "properties": {
+        "name": "Lamballe"
+      },
+      "id": "Y2MjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.4743,
+              48.445504
+            ],
+            [
+              1.474302,
+              48.445446
+            ],
+            [
+              1.474508,
+              48.445453
+            ],
+            [
+              1.474504,
+              48.445512
+            ],
+            [
+              1.4743,
+              48.445504
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lampisterie de Chartres"
+      },
+      "id": "c4MDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.082234,
+          48.495926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Landivisiau"
+      },
+      "id": "M5MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.761077,
+          48.076305
+        ]
+      },
+      "properties": {
+        "name": "Laval"
+      },
+      "id": "Y1Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.889828,
+          48.096039
+        ]
+      },
+      "properties": {
+        "name": "Le Genest"
+      },
+      "id": "A3MTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.191891,
+          47.995587
+        ]
+      },
+      "properties": {
+        "name": "Le Mans"
+      },
+      "id": "I4MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.694263,
+          48.267155
+        ]
+      },
+      "properties": {
+        "name": "Le Theil La rouge"
+      },
+      "id": "cwMDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.856164,
+          48.69317
+        ]
+      },
+      "properties": {
+        "name": "Le-Perray-en-Yvelines"
+      },
+      "id": "UzNzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.322114,
+          48.108928
+        ]
+      },
+      "properties": {
+        "name": "Les Lacs"
+      },
+      "id": "IxNzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.890121,
+          48.722293
+        ]
+      },
+      "properties": {
+        "name": "Les-Essart-le-Roi"
+      },
+      "id": "Y1NzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.714583,
+          48.108871
+        ]
+      },
+      "properties": {
+        "name": "Louverné"
+      },
+      "id": "E4NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.592309,
+          48.585394
+        ]
+      },
+      "properties": {
+        "name": "Maintenon"
+      },
+      "id": "k5NDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.306587,
+              48.829743
+            ],
+            [
+              2.30652,
+              48.82978
+            ],
+            [
+              2.305906,
+              48.829286
+            ],
+            [
+              2.305997,
+              48.829256
+            ],
+            [
+              2.306587,
+              48.829743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Marquise de Ouest-Ceinture"
+      },
+      "id": "AwNjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.306391,
+              48.829824
+            ],
+            [
+              2.306432,
+              48.8298
+            ],
+            [
+              2.305828,
+              48.829314
+            ],
+            [
+              2.305764,
+              48.829334
+            ],
+            [
+              2.306391,
+              48.829824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Marquise de Ouest-Ceinture"
+      },
+      "id": "YzMzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.313814,
+              48.836332
+            ],
+            [
+              2.313875,
+              48.836299
+            ],
+            [
+              2.315632,
+              48.837778
+            ],
+            [
+              2.315562,
+              48.837814
+            ],
+            [
+              2.313814,
+              48.836332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Marquise de Vaugirard avec poste d'aiguillage"
+      },
+      "id": "M2Mjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.315138,
+              48.83727
+            ],
+            [
+              2.313824,
+              48.836126
+            ],
+            [
+              2.313899,
+              48.836073
+            ],
+            [
+              2.315235,
+              48.837213
+            ],
+            [
+              2.315138,
+              48.83727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Marquise Montparnasse ou Vaugirard ?"
+      },
+      "id": "Y1OTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.40952,
+          48.041437
+        ]
+      },
+      "properties": {
+        "name": "Monfort le Gesnois"
+      },
+      "id": "kxMTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.94929,
+          48.139058
+        ]
+      },
+      "properties": {
+        "name": "Monfort-sur-Meu"
+      },
+      "id": "M5OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.052692,
+          48.190163
+        ]
+      },
+      "properties": {
+        "name": "Montauban-de-Bretagne"
+      },
+      "id": "A0NTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55158,
+          48.14107
+        ]
+      },
+      "properties": {
+        "name": "Montsûrs"
+      },
+      "id": "IzNDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.479316,
+          48.156861
+        ]
+      },
+      "properties": {
+        "name": "Néau"
+      },
+      "id": "gyNjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.810188,
+          48.325933
+        ]
+      },
+      "properties": {
+        "name": "Nogent le Rotrou"
+      },
+      "id": "Y0NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52836,
+          48.118776
+        ]
+      },
+      "properties": {
+        "name": "Noyal - Acigné"
+      },
+      "id": "g1MzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30619,
+          48.82918
+        ]
+      },
+      "properties": {
+        "name": "Ouest Ceinture"
+      },
+      "id": "EzODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.319124,
+          48.840027
+        ]
+      },
+      "properties": {
+        "name": "Paris Montparnasse"
+      },
+      "id": "k5MDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.319124,
+          48.840027
+        ]
+      },
+      "properties": {
+        "name": "Paris Montparnasse"
+      },
+      "id": "gwNTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315809,
+          48.838347
+        ]
+      },
+      "properties": {
+        "name": "Paris Montparnasse - Vaugirard"
+      },
+      "id": "A5NDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.354524,
+          48.376791
+        ]
+      },
+      "properties": {
+        "name": "Plénée-Jugon"
+      },
+      "id": "kxODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.443793,
+          48.426072
+        ]
+      },
+      "properties": {
+        "name": "Plestan"
+      },
+      "id": "A4MzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.141527,
+          48.477921
+        ]
+      },
+      "properties": {
+        "name": "Pontgouin"
+      },
+      "id": "cwNzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.973929,
+          48.110727
+        ]
+      },
+      "properties": {
+        "name": "Port-Brillet"
+      },
+      "id": "cwMzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.468033,
+              48.444137
+            ],
+            [
+              1.46804,
+              48.444081
+            ],
+            [
+              1.468116,
+              48.444087
+            ],
+            [
+              1.468123,
+              48.444043
+            ],
+            [
+              1.468226,
+              48.444049
+            ],
+            [
+              1.468217,
+              48.444095
+            ],
+            [
+              1.468284,
+              48.444099
+            ],
+            [
+              1.468276,
+              48.444156
+            ],
+            [
+              1.468033,
+              48.444137
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Poste d'aiguillage"
+      },
+      "id": "ExNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.480357,
+              48.44903
+            ],
+            [
+              1.480609,
+              48.448867
+            ],
+            [
+              1.480665,
+              48.448904
+            ],
+            [
+              1.480697,
+              48.448892
+            ],
+            [
+              1.480891,
+              48.44903
+            ],
+            [
+              1.480936,
+              48.449027
+            ],
+            [
+              1.480963,
+              48.449011
+            ],
+            [
+              1.481068,
+              48.449098
+            ],
+            [
+              1.481011,
+              48.449132
+            ],
+            [
+              1.480987,
+              48.449126
+            ],
+            [
+              1.48074,
+              48.449272
+            ],
+            [
+              1.480357,
+              48.44903
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Poste d'aiguillage avec batiment Sncf"
+      },
+      "id": "cwMTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.145166,
+          48.248787
+        ]
+      },
+      "properties": {
+        "name": "Quédillac"
+      },
+      "id": "MxNjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475141,
+            48.385748
+          ],
+          [
+            -4.475405,
+            48.385668
+          ],
+          [
+            -4.475735,
+            48.385529
+          ],
+          [
+            -4.476009,
+            48.385415
+          ],
+          [
+            -4.476129,
+            48.385373
+          ],
+          [
+            -4.476265,
+            48.385334
+          ],
+          [
+            -4.476433,
+            48.385297
+          ],
+          [
+            -4.477177,
+            48.385172
+          ],
+          [
+            -4.478691,
+            48.384938
+          ],
+          [
+            -4.480898,
+            48.384591
+          ],
+          [
+            -4.4818,
+            48.384453
+          ],
+          [
+            -4.482813,
+            48.384299
+          ],
+          [
+            -4.483444,
+            48.38414
+          ],
+          [
+            -4.484538,
+            48.383682
+          ],
+          [
+            -4.485286,
+            48.383365
+          ],
+          [
+            -4.485997,
+            48.383084
+          ],
+          [
+            -4.488409,
+            48.382093
+          ],
+          [
+            -4.488642,
+            48.382034
+          ],
+          [
+            -4.488996,
+            48.381969
+          ],
+          [
+            -4.489331,
+            48.381908
+          ],
+          [
+            -4.489645,
+            48.381867
+          ],
+          [
+            -4.490477,
+            48.381771
+          ],
+          [
+            -4.490806,
+            48.38176
+          ],
+          [
+            -4.491174,
+            48.381792
+          ],
+          [
+            -4.49156,
+            48.381847
+          ],
+          [
+            -4.49181,
+            48.381951
+          ],
+          [
+            -4.492673,
+            48.382268
+          ],
+          [
+            -4.493124,
+            48.382482
+          ],
+          [
+            -4.493513,
+            48.382702
+          ],
+          [
+            -4.493891,
+            48.383002
+          ],
+          [
+            -4.494076,
+            48.383176
+          ],
+          [
+            -4.494162,
+            48.383312
+          ],
+          [
+            -4.49421,
+            48.383563
+          ],
+          [
+            -4.494216,
+            48.383723
+          ],
+          [
+            -4.494143,
+            48.383901
+          ],
+          [
+            -4.494106,
+            48.384006
+          ],
+          [
+            -4.493684,
+            48.385043
+          ],
+          [
+            -4.493454,
+            48.385583
+          ],
+          [
+            -4.493333,
+            48.385879
+          ],
+          [
+            -4.493322,
+            48.385989
+          ],
+          [
+            -4.493338,
+            48.386151
+          ],
+          [
+            -4.493427,
+            48.386281
+          ],
+          [
+            -4.493588,
+            48.386413
+          ],
+          [
+            -4.494146,
+            48.38683
+          ],
+          [
+            -4.49454,
+            48.387108
+          ],
+          [
+            -4.494677,
+            48.387268
+          ],
+          [
+            -4.494714,
+            48.387425
+          ],
+          [
+            -4.494704,
+            48.387662
+          ],
+          [
+            -4.494478,
+            48.38798
+          ],
+          [
+            -4.494189,
+            48.388429
+          ],
+          [
+            -4.494111,
+            48.388625
+          ],
+          [
+            -4.494092,
+            48.388827
+          ],
+          [
+            -4.494084,
+            48.389546
+          ],
+          [
+            -4.494116,
+            48.389708
+          ],
+          [
+            -4.494191,
+            48.389852
+          ],
+          [
+            -4.494784,
+            48.39064
+          ],
+          [
+            -4.494875,
+            48.390839
+          ],
+          [
+            -4.495082,
+            48.391356
+          ],
+          [
+            -4.495275,
+            48.391851
+          ],
+          [
+            -4.495648,
+            48.392782
+          ],
+          [
+            -4.495967,
+            48.393568
+          ],
+          [
+            -4.496225,
+            48.394223
+          ],
+          [
+            -4.496334,
+            48.394506
+          ],
+          [
+            -4.496375,
+            48.394839
+          ],
+          [
+            -4.496439,
+            48.395331
+          ],
+          [
+            -4.496595,
+            48.395766
+          ],
+          [
+            -4.496831,
+            48.396225
+          ],
+          [
+            -4.497212,
+            48.396595
+          ],
+          [
+            -4.4977,
+            48.396834
+          ],
+          [
+            -4.498322,
+            48.396959
+          ],
+          [
+            -4.499084,
+            48.397137
+          ],
+          [
+            -4.500473,
+            48.397454
+          ],
+          [
+            -4.501358,
+            48.397586
+          ],
+          [
+            -4.502077,
+            48.397639
+          ],
+          [
+            -4.503129,
+            48.3976
+          ],
+          [
+            -4.504277,
+            48.397486
+          ],
+          [
+            -4.506143,
+            48.397208
+          ],
+          [
+            -4.506658,
+            48.397144
+          ],
+          [
+            -4.507361,
+            48.397126
+          ],
+          [
+            -4.508096,
+            48.397066
+          ],
+          [
+            -4.508552,
+            48.396937
+          ],
+          [
+            -4.508933,
+            48.396724
+          ],
+          [
+            -4.509201,
+            48.396521
+          ],
+          [
+            -4.509421,
+            48.396221
+          ],
+          [
+            -4.509577,
+            48.395812
+          ],
+          [
+            -4.50955,
+            48.395452
+          ],
+          [
+            -4.509351,
+            48.394768
+          ],
+          [
+            -4.509233,
+            48.394587
+          ],
+          [
+            -4.509008,
+            48.394508
+          ],
+          [
+            -4.508675,
+            48.394519
+          ],
+          [
+            -4.50749,
+            48.394426
+          ],
+          [
+            -4.506025,
+            48.394266
+          ],
+          [
+            -4.504496,
+            48.394049
+          ],
+          [
+            -4.504201,
+            48.393985
+          ],
+          [
+            -4.503633,
+            48.393803
+          ],
+          [
+            -4.502962,
+            48.393482
+          ],
+          [
+            -4.502528,
+            48.393247
+          ],
+          [
+            -4.501975,
+            48.392863
+          ],
+          [
+            -4.501594,
+            48.392474
+          ],
+          [
+            -4.501278,
+            48.3921
+          ],
+          [
+            -4.500489,
+            48.391505
+          ],
+          [
+            -4.500146,
+            48.391181
+          ],
+          [
+            -4.499937,
+            48.39075
+          ],
+          [
+            -4.499813,
+            48.390241
+          ],
+          [
+            -4.499604,
+            48.389329
+          ],
+          [
+            -4.499497,
+            48.388955
+          ],
+          [
+            -4.499475,
+            48.388702
+          ],
+          [
+            -4.499636,
+            48.388339
+          ],
+          [
+            -4.499894,
+            48.387858
+          ],
+          [
+            -4.500146,
+            48.387031
+          ],
+          [
+            -4.500709,
+            48.38598
+          ],
+          [
+            -4.501922,
+            48.383825
+          ],
+          [
+            -4.503112,
+            48.381651
+          ],
+          [
+            -4.50337,
+            48.381224
+          ],
+          [
+            -4.504078,
+            48.380376
+          ],
+          [
+            -4.505489,
+            48.379026
+          ],
+          [
+            -4.506471,
+            48.378192
+          ],
+          [
+            -4.506948,
+            48.377647
+          ],
+          [
+            -4.507157,
+            48.377141
+          ],
+          [
+            -4.507366,
+            48.376364
+          ],
+          [
+            -4.507495,
+            48.375822
+          ],
+          [
+            -4.507678,
+            48.375316
+          ],
+          [
+            -4.508064,
+            48.374803
+          ],
+          [
+            -4.509126,
+            48.374148
+          ],
+          [
+            -4.511808,
+            48.372466
+          ],
+          [
+            -4.519286,
+            48.367904
+          ],
+          [
+            -4.522762,
+            48.365666
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Raccordemment Arsenal de Brest"
+      },
+      "id": "U5OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.83153,
+          48.643717
+        ]
+      },
+      "properties": {
+        "name": "Rambouillet"
+      },
+      "id": "I2NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.672253,
+          48.103416
+        ]
+      },
+      "properties": {
+        "name": "Rennes"
+      },
+      "id": "kxNzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.476726,
+              48.446966
+            ],
+            [
+              1.476626,
+              48.446981
+            ],
+            [
+              1.476514,
+              48.446966
+            ],
+            [
+              1.476427,
+              48.446927
+            ],
+            [
+              1.476367,
+              48.446868
+            ],
+            [
+              1.476341,
+              48.446797
+            ],
+            [
+              1.476352,
+              48.446762
+            ],
+            [
+              1.476085,
+              48.446725
+            ],
+            [
+              1.476104,
+              48.446664
+            ],
+            [
+              1.476006,
+              48.446651
+            ],
+            [
+              1.476022,
+              48.446605
+            ],
+            [
+              1.475857,
+              48.446578
+            ],
+            [
+              1.475793,
+              48.446793
+            ],
+            [
+              1.475855,
+              48.447004
+            ],
+            [
+              1.475865,
+              48.447012
+            ],
+            [
+              1.475894,
+              48.447065
+            ],
+            [
+              1.476072,
+              48.447017
+            ],
+            [
+              1.476155,
+              48.447103
+            ],
+            [
+              1.476187,
+              48.447089
+            ],
+            [
+              1.476376,
+              48.447174
+            ],
+            [
+              1.476622,
+              48.447207
+            ],
+            [
+              1.476855,
+              48.447177
+            ],
+            [
+              1.476726,
+              48.446966
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rotonde de Chartres"
+      },
+      "id": "A1NTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.199677,
+          48.160198
+        ]
+      },
+      "properties": {
+        "name": "Rouessé-Vassé"
+      },
+      "id": "MyNTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.332516,
+          48.447497
+        ]
+      },
+      "properties": {
+        "name": "Saint Aubin / Saint Luperce"
+      },
+      "id": "EwMzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.764934,
+          48.507546
+        ]
+      },
+      "properties": {
+        "name": "Saint Brieuc",
+        "description": "Santez Brieg"
+      },
+      "id": "ExODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.072505,
+          48.798931
+        ]
+      },
+      "properties": {
+        "name": "Saint Cyr"
+      },
+      "id": "kxOTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.365607,
+          48.028548
+        ]
+      },
+      "properties": {
+        "name": "Saint Mars la Briére"
+      },
+      "id": "g1NDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.590341,
+          48.542882
+        ]
+      },
+      "properties": {
+        "name": "Saint-Piat"
+      },
+      "id": "U3MzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.025371,
+          48.11371
+        ]
+      },
+      "properties": {
+        "name": "Saint-Pierre-la-Cour"
+      },
+      "id": "IzMTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.044487,
+          48.787499
+        ]
+      },
+      "properties": {
+        "name": "Saint-Quentin-en-Yvelines",
+        "description": "créer aprés 1975"
+      },
+      "id": "M1ODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.572383,
+          48.122409
+        ]
+      },
+      "properties": {
+        "name": "Sceaux Boësse"
+      },
+      "id": "cwNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.465988,
+          48.112106
+        ]
+      },
+      "properties": {
+        "name": "Servon"
+      },
+      "id": "U1OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12888,
+          48.181769
+        ]
+      },
+      "properties": {
+        "name": "Sillé-le-Guillaume"
+      },
+      "id": "U5MDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.466723,
+              48.443609
+            ],
+            [
+              1.466722,
+              48.443558
+            ],
+            [
+              1.466413,
+              48.44356
+            ],
+            [
+              1.466408,
+              48.443486
+            ],
+            [
+              1.466832,
+              48.44347
+            ],
+            [
+              1.466834,
+              48.443429
+            ],
+            [
+              1.467162,
+              48.443424
+            ],
+            [
+              1.467163,
+              48.443551
+            ],
+            [
+              1.466841,
+              48.443562
+            ],
+            [
+              1.466842,
+              48.443608
+            ],
+            [
+              1.466723,
+              48.443609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sous-station de Chartres"
+      },
+      "id": "QxNjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.006598,
+          48.774989
+        ]
+      },
+      "properties": {
+        "name": "Trappes"
+      },
+      "id": "g1OTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.135886,
+          48.795663
+        ]
+      },
+      "properties": {
+        "name": "Versailles - Chantier"
+      },
+      "id": "MyMDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.211811,
+          48.122606
+        ]
+      },
+      "properties": {
+        "name": "Vitré"
+      },
+      "id": "YxMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.293133,
+          48.134246
+        ]
+      },
+      "properties": {
+        "name": "Voutré"
+      },
+      "id": "QyODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.652576,
+          48.470026
+        ]
+      },
+      "properties": {
+        "name": "Yffiniac"
+      },
+      "id": "QxNTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.279872,
+          48.007712
+        ]
+      },
+      "properties": {
+        "name": "Yvré l'évêque"
+      },
+      "id": "cxNzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.486824,
+          48.073708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Connerré - Beillé"
+      },
+      "id": "Q5NDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.171329,
+          48.800974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Viroflay-Rive-Gauche"
+      },
+      "id": "E3NTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.188548,
+          48.804765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chaville-Rive-Gauche"
+      },
+      "id": "c1NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.214754,
+          48.8214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sèvres-Rive-Gauche"
+      },
+      "id": "g2MDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.229871,
+          48.818902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bellevue"
+      },
+      "id": "E3MDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.240889,
+          48.814893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Meudon"
+      },
+      "id": "ExNzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.274406,
+          48.814219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Clamart"
+      },
+      "id": "EwMjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.29147,
+          48.818228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vanves-Malakoff"
+      },
+      "id": "UwMTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.844043,
+          48.499703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Méaugon"
+      },
+      "id": "E5MDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.892408,
+          48.508744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Plouvara - Pleurneuf"
+      },
+      "id": "cwMDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -2.974699,
+          48.533267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Châtelaudren - Plouagat"
+      },
+      "id": "kyMDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.079007,
+          48.551245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gwern an Punso (?)"
+      },
+      "id": "AxMjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.322763,
+          48.59342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Belle-Isle-Bégard"
+      },
+      "id": "g4MjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.261588,
+          48.575745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pédernec - Tréglamus (?)"
+      },
+      "id": "MxMDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.397425,
+          48.605816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Trégrom - Pluzunet"
+      },
+      "id": "Q0NDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.466723,
+          48.60638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Plouaret - Trégor"
+      },
+      "id": "cxNTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.56803,
+          48.581537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Plounérin"
+      },
+      "id": "AxNDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.636598,
+          48.56839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Ponthou - Plouégat-Moysan"
+      },
+      "id": "g5NTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.710563,
+          48.564961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Plouigneau"
+      },
+      "id": "c2MTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.832818,
+          48.577956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Morlaix"
+      },
+      "id": "MyNjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.767651,
+          48.570751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Chapelle du Mur"
+      },
+      "id": "Y3NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.882691,
+          48.507549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pleyber-Christ"
+      },
+      "id": "UyMTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.999597,
+          48.485303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Guimiliau"
+      },
+      "id": "Q4NjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.947713,
+          48.494426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Thégonnec"
+      },
+      "id": "A4NDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.256489,
+          48.453656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Landerneau"
+      },
+      "id": "kxOTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.205111,
+          48.474146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Roche-Maurice"
+      },
+      "id": "AxNjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.42793,
+          48.398743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Rody"
+      },
+      "id": "I0MjA"
+    }
+  ]
+}
