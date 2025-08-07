@@ -36,7 +36,7 @@
 ## Script
 ### JavaScript
 * <a href='https://ShorpAzha.github.io/script/data-lignes-par-statut.js' target='_blank'>Data - Lignes par statut</a>
-* <a href='https://ShorpAzha.github.io/script/hud_menu.js' target='_blank'>Hud menu</a>
+* <a href='https://ShorpAzha.github.io/script/sidebar.js' target='_blank'>Sidebar</a>
 * <a href='https://ShorpAzha.github.io/script/leaflet.js' target='_blank'>Leaflet</a>
 * <a href='https://ShorpAzha.github.io/script/listsearch.js' target='_blank'>List Search</a>
 * <a href='https://ShorpAzha.github.io/script/offline.js' target='_blank'>Off-line</a>
