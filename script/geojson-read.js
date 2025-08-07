@@ -1,8 +1,5 @@
-var data = fetchJSON('placesgj.geojson').then(function(data) { 
-    // do what you want to do with `data` here...
-    data.features.forEach(function(feature) {
-        console.log(feature);
-        var symbol = feature.properties['icon'];
-        console.log(symbol);
+let data = fetch("https://ShorpAzha.github.io/script/geojson/l_600.geojson").then(response => {
+        return response.json();
     });
-});
+
+console.log(data)

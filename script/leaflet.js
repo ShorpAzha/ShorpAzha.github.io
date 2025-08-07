@@ -1,12 +1,3 @@
-function fetchJSON(url) {
-	return fetch(url).then(function(response) {
-		return response.json();
-	});
-}
-
-var trainLines2 = fetchJSON('https://ShorpAzha.github.io/script/geojson/l_600.geojson')
-console.log(trainLines2.feature)
-console.log(trainLines)
 
 const map = L.map('map').setView([47, 0], 5);
 
