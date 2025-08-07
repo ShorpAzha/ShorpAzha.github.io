@@ -11,8 +11,8 @@ function geoJsonMiniMap(geoJsonFile) {
             // Créer une nouvelle icône
             var myIcon = L.icon({
                 iconUrl: 'https://ShorpAzha.github.io/images/icon-marker.png',
-                iconSize: [64, 64], // taille de l'icône
-                iconAnchor: [32, 32], // point d'ancrage de l'icône
+                iconSize: [16, 16], // taille de l'icône
+                iconAnchor: [8, 8], // point d'ancrage de l'icône
                 popupAnchor: [0, 0] // point d'ancrage de la popup
             });
 
@@ -27,7 +27,10 @@ function geoJsonMiniMap(geoJsonFile) {
 
             // Ajout de Pop-Up 
             function onEachFeature(feature, layer) {
-                 let popupContent = "Default popup content"; // Declare and initialize popupContent
+                if( layer instanceof L.Marker ) {
+                    layer.setIcon(myIcon);
+                }
+                let popupContent = "Default popup content"; // Declare and initialize popupContent
                 if (feature.properties.description != undefined) {
                     let popupContent = `<p>${feature.properties.name}<br>${feature.properties.description}</p>`;
                 } else {
@@ -37,7 +40,6 @@ function geoJsonMiniMap(geoJsonFile) {
                 if (feature.properties && feature.properties.popupContent) {
                     popupContent += feature.properties.popupContent;
                 }
-
                 layer.bindPopup(popupContent);
             }
 
@@ -58,11 +60,6 @@ function geoJsonMiniMap(geoJsonFile) {
                 },
                 onEachFeature
             }).addTo(map);
-
-            // Ajouter un marqueur avec la nouvelle icône
-            L.marker([45.6062, 2.7449], { icon: myIcon }).addTo(map)
-                .bindPopup('Test')
-                .openPopup();
         })
         .catch(error => console.error('Erreur:', error));
     }
