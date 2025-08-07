@@ -19,12 +19,7 @@ function geoJsonMiniMap(geoJsonFile) {
 
             // Ajout de Pop-Up 
             function onEachFeature(feature, layer) {
-                let popupContent = "Default popup content"; // Declare and initialize popupContent
-                if (feature.properties.description != undefined) {
-                    let popupContent = `<p>${feature.properties.name}<br>${feature.properties.description}</p>`;
-                } else {
-                    let popupContent = `<p>${feature.properties.name}</p>`;
-                }
+                let popupContent = `<p>${feature.properties.name}</p>`;
 
                 if (feature.properties && feature.properties.popupContent) {
                     popupContent += feature.properties.popupContent;
