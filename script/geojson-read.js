@@ -8,21 +8,18 @@ function geoJsonMiniMap(geoJsonFile) {
             return response.json();
         })
         .then(data => {
-            var LeafIcon = L.Icon.extend({
-                options: {
-                iconSize:     [38, 95],
-                shadowSize:   [50, 64],
-                iconAnchor:   [22, 94],
-                shadowAnchor: [4, 62],
-                popupAnchor:  [-3, -76]
-                }
+            // Créer une nouvelle icône
+            var myIcon = L.icon({
+                iconUrl: 'chemin/vers/votre/icône.png',
+                iconSize: [38, 95], // taille de l'icône
+                iconAnchor: [22, 94], // point d'ancrage de l'icône
+                popupAnchor: [-3, -76] // point d'ancrage de la popup
             });
-            // Then create a new icon object like below:
 
-            var greenIcon = new LeafIcon({
-                iconUrl: 'http://leafletjs.com/examples/custom-icons/leaf-green.png',
-                shadowUrl: 'http://leafletjs.com/examples/custom-icons/leaf-shadow.png'
-            })
+            // Ajouter un marqueur avec la nouvelle icône
+            L.marker([45.6062, 2.7449], { icon: myIcon }).addTo(map)
+                .bindPopup('Test')
+                .openPopup();
 
             // Création de la carte Leaflet
             const map = L.map('map').setView([45.6062, 2.7449], 13);
@@ -47,8 +44,6 @@ function geoJsonMiniMap(geoJsonFile) {
 
                 layer.bindPopup(popupContent);
             }
-
-            L.marker([51.5, -0.09], {icon: greenIcon}).addTo(map);
 
             // Ajout des données GeoJSON à la carte
             const dataLayer = L.geoJSON(data, {
