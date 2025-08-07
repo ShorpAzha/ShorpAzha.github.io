@@ -4,7 +4,16 @@ function fetchJSON(url) {
 	});
 }
 
-var trainLines2 = fetchJSON('https://ShorpAzha.github.io/script/geojson/l_600.geojson')
+var trainLines2 = fetchJSON('https://ShorpAzha.github.io/script/geojson/l_600.geojson').then(function(data) { 
+
+        // do what you want to do with `data` here...
+        data.features.forEach(function(feature) {
+                console.log(feature);
+                var symbol = feature.properties['icon'];
+                console.log(symbol);
+            });
+
+});
 console.log(trainLines2)
 console.log(trainLines)
 
