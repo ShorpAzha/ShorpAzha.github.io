@@ -14,7 +14,7 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 function onEachFeature(feature, layer) {
-	let popupContent = `<p>Ligne n°${feature.properties.code_ligne}<br>${feature.properties.lib_ligne}<br>Statut: ${feature.properties.statut}</p>`;
+	let popupContent = `<p>${feature.properties.name}</p>`; //`<p>Ligne n°${feature.properties.code_ligne}<br>${feature.properties.lib_ligne}<br>Statut: ${feature.properties.statut}</p>`;
 
 	if (feature.properties && feature.properties.popupContent) {
 		popupContent += feature.properties.popupContent;
@@ -24,7 +24,7 @@ function onEachFeature(feature, layer) {
 }
 
 const trainLinesLayer = L.geoJSON(trainLines, {
-	style: function(feature) {
+	/*style: function(feature) {
 		switch (feature.properties.statut) {
 			case 'Exploitée': return {color: "#8a2be2"};
 			case 'Fermée': return {color: "#dc143c"};
@@ -39,7 +39,7 @@ const trainLinesLayer = L.geoJSON(trainLines, {
 			case 'Neutralisée et conservée pour les besoins de la Défense': return {color: "#d2691e"};
 			case 'Retranchée (Plus utilisable)': return {color: "#696969"};
 		}
-	},
+	},*/
 	filter(feature, layer) {
 		if (feature.properties) {
 			// If the property "underConstruction" exists and is true, return false (don't render features under construction)
