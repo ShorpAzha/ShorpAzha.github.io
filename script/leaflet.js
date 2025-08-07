@@ -1,4 +1,4 @@
-var trainLines = myfunction();
+var trainLines = myFunction();
 
 const map = L.map('map').setView([47, 0], 5);
 
