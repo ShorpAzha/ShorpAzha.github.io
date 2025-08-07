@@ -57,7 +57,8 @@ function geoJsonMiniMap(geoJsonFile) {
                 },
                 onEachFeature
             }).addTo(map);
-            L.layerGroup.eachLayer(function(layer) {
+            const a = L.layerGroup();
+            a.eachLayer(function(layer) {
                 if( layer instanceof L.Marker ) {
                     layer.setIcon(myIcon);
                 }
