@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.43874,
+          47.561306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Argent-sur-Sauldre"
+      },
+      "id": "Q3OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.417317,
+          47.124772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Asnières-lès-Bourges"
+      },
+      "id": "IyMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.432576,
+          47.486219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Aubigny-sur-Nère"
+      },
+      "id": "AzMTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.483978,
+          48.087121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Auxy - Juranville"
+      },
+      "id": "Y2NTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.45659,
+          47.942224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Beauchamps-sur-Huillard"
+      },
+      "id": "AzOTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.431659,
+          48.067677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Beaune-la-Rolande-Parville (ex: Beaune-la-Rolande-Ville)"
+      },
+      "id": "U1Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.441969,
+          47.994596
+        ]
+      },
+      "properties": {
+        "name": "Bellegarde - Quiers"
+      },
+      "id": "k5ODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.394295,
+          47.094191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bourges"
+      },
+      "id": "c3MzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.440789,
+          47.84489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Garage de la Forêt d'Orlèans",
+        "name": "Carrefour de Sully ?"
+      },
+      "id": "E0MTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.359759,
+          47.634692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cerdon-du-Loiret"
+      },
+      "id": "k1MjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.401435,
+          47.434445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ennordres"
+      },
+      "id": "kxOTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.421429,
+          47.15147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fussy"
+      },
+      "id": "k0MTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.504502,
+          47.295826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Henrichemont"
+      },
+      "id": "kyMzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.456394,
+          47.329774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ivoy-le-Pré"
+      },
+      "id": "k1Nzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.441811,
+          47.364185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Chapelle-d'Angillon"
+      },
+      "id": "U2Nzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.408838,
+          47.405426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Gué-de-la-Pierre"
+      },
+      "id": "I4NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.398592,
+          47.81162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Bordes"
+      },
+      "id": "I2MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.510896,
+          47.889998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lorris"
+      },
+      "id": "M4ODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.477476,
+          47.226658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Menetou-Salon"
+      },
+      "id": "U1OTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.42756,
+          48.040074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Loup-des-Vignes - Boiscommun"
+      },
+      "id": "I4MjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.425031,
+          47.195272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Martin - Saint-Georges"
+      },
+      "id": "A2OTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.369541,
+          47.759746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sully-sur-Loire"
+      },
+      "id": "U4OTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.360478,
+          47.692996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Villemurlin"
+      },
+      "id": "k2MDI"
+    }
+  ]
+}

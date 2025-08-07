@@ -1,0 +1,249 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.652576,
+          47.034808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Avord"
+      },
+      "id": "gxNTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.749575,
+          47.000118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bengy-sur-Craon"
+      },
+      "id": "E3MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.394295,
+          47.094191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bourges"
+      },
+      "id": "AzNTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.599897,
+          47.058838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. base aérienne d'Avord"
+      },
+      "id": "k5MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.631998,
+          47.040416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. militaire de la base aérienne d'Avord"
+      },
+      "id": "QxODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.162614,
+          47.175757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Foëcy"
+      },
+      "id": "kyMTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.948491,
+          46.947754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Guerche-sur-l'Aubois"
+      },
+      "id": "k0MjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.055851,
+          46.937008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Guétin"
+      },
+      "id": "QzMDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.282732,
+          47.100045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marmagne"
+      },
+      "id": "E0NzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.207319,
+          47.139468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mehun-sur-Yèvre"
+      },
+      "id": "E2MDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.517346,
+          47.082626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Moulins-sur-Yèvre"
+      },
+      "id": "U5OTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.822424,
+          46.999547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Nérondes"
+      },
+      "id": "UxODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.071854,
+          46.93144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saincaize"
+      },
+      "id": "QxMjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.484466,
+          47.096563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Germain-du-Puy"
+      },
+      "id": "Q2MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.583246,
+          47.049635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Savigny-en-Septaine"
+      },
+      "id": "IxNDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.099274,
+          47.21008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vierzon-Forges"
+      },
+      "id": "MxNjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.059829,
+          47.2266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vierzon-Ville"
+      },
+      "id": "AyOTM"
+    }
+  ]
+}

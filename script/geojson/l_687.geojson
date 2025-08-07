@@ -1,0 +1,235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.365708,
+          47.830422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bray"
+      },
+      "id": "I1ODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.226561,
+          47.868481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Châteauneuf-sur-Loire"
+      },
+      "id": "YxNzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.039015,
+          47.896593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chécy - Mardié"
+      },
+      "id": "I2ODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.136755,
+          47.874634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. des Usines de Saint-Denis-de-l'Hôtel"
+      },
+      "id": "UyODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.607129,
+          47.730376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. du centre de stockage de Nevoy"
+      },
+      "id": "AxODM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.636241,
+          47.699119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gien"
+      },
+      "id": "Q0Njg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.938432,
+          47.908277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Rue d'Ambert"
+      },
+      "id": "kwOTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.550915,
+          47.762674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Buisson-Réau"
+      },
+      "id": "gxNDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.011254,
+          47.904325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Godet"
+      },
+      "id": "MxODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.906165,
+          47.926893
+        ]
+      },
+      "properties": {
+        "name": "Les Aubrais"
+      },
+      "id": "AxOTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.398592,
+          47.81162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Bordes"
+      },
+      "id": "g0MDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.500125,
+          47.763705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ouzouer - Dampierre"
+      },
+      "id": "Y3MjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.321978,
+          47.841923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Benoit - Saint-Aignan"
+      },
+      "id": "UzNjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.128993,
+          47.873806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Denis - Jargeau"
+      },
+      "id": "cwNDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.977861,
+          47.909784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Jean-de-Braye"
+      },
+      "id": "kwMzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.272255,
+          47.858684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Martin-d'Abbat"
+      },
+      "id": "ExMDk"
+    }
+  ]
+}

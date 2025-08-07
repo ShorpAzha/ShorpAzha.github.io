@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.441969,
+          47.994596
+        ]
+      },
+      "properties": {
+        "name": "Bellegarde - Quiers"
+      },
+      "id": "U1ODY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354068,
+          48.016891
+        ]
+      },
+      "properties": {
+        "name": "Boiscommun - Nibelle"
+      },
+      "id": "I3OTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.29059,
+          47.958155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Combreux"
+      },
+      "id": "Y1NTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.105346,
+          47.922281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Donnery"
+      },
+      "id": "Y0NjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13539,
+          47.929328
+        ]
+      },
+      "properties": {
+        "name": "Fay-aux-Loges"
+      },
+      "id": "E5MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.542973,
+          48.001924
+        ]
+      },
+      "properties": {
+        "name": "Ladon"
+      },
+      "id": "Q0Nzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.906165,
+          47.926893
+        ]
+      },
+      "properties": {
+        "name": "Les Aubrais"
+      },
+      "id": "UxNTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.742741,
+          48.006879
+        ]
+      },
+      "properties": {
+        "name": "Montargis"
+      },
+      "id": "k5OTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.398614,
+          48.012391
+        ]
+      },
+      "properties": {
+        "name": "Montliard"
+      },
+      "id": "EzNjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.672596,
+          48.01579
+        ]
+      },
+      "properties": {
+        "name": "Pannes"
+      },
+      "id": "g4NjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.624461,
+          47.994323
+        ]
+      },
+      "properties": {
+        "name": "Saint Maurice sur Fessard"
+      },
+      "id": "kyMzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.93103,
+          47.941999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Semoy (?)"
+      },
+      "id": "cwNzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.049712,
+          47.943492
+        ]
+      },
+      "properties": {
+        "name": "Vennecy"
+      },
+      "id": "A4NTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.262848,
+          47.946121
+        ]
+      },
+      "properties": {
+        "name": "Vitry-les-Loges"
+      },
+      "id": "kyOTM"
+    }
+  ]
+}

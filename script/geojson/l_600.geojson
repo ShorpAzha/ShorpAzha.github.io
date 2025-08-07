@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.440969,
+          46.938772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Argy"
+      },
+      "id": "M1OTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.093193,
+          46.670801
+        ]
+      },
+      "properties": {
+        "name": "Azé"
+      },
+      "id": "U1NDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.681933,
+          47.320214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Base Aérienne"
+      },
+      "id": "ExMDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.421276,
+          46.875793
+        ]
+      },
+      "properties": {
+        "name": "Bonneau - Habilly"
+      },
+      "id": "M5NDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.418577,
+          46.885183
+        ]
+      },
+      "properties": {
+        "name": "Buzançais"
+      },
+      "id": "A3NzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.646082,
+          47.254963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chalbris"
+      },
+      "id": "I1ODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.402645,
+          46.852678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chaventon"
+      },
+      "id": "kyNDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.109667,
+          46.706823
+        ]
+      },
+      "properties": {
+        "name": "Douadic"
+      },
+      "id": "AyNzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.357394,
+          47.079955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ecueillé"
+      },
+      "id": "EzNjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.740201,
+          47.367025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Faubourg-Orlèans"
+      },
+      "id": "E2NzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.667795,
+          47.278845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gièvres"
+      },
+      "id": "gyNzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.414007,
+          47.014582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Heugnes"
+      },
+      "id": "IwOTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.432836,
+          46.957864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Juscop"
+      },
+      "id": "Y4OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.958066,
+          47.383674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Ferté-Imbault"
+      },
+      "id": "kwOTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.396583,
+          47.105547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Foulquetière"
+      },
+      "id": "A3NDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.491534,
+          47.139792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Gauterie"
+      },
+      "id": "A3Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.066312,
+          46.640848
+        ]
+      },
+      "properties": {
+        "name": "Le Blanc"
+      },
+      "id": "gxMzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.702194,
+          47.332468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Quatres Roues"
+      },
+      "id": "k4OTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.132257,
+          46.749319
+        ]
+      },
+      "properties": {
+        "name": "Lingé"
+      },
+      "id": "YyNTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.834341,
+          47.390346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Loreux"
+      },
+      "id": "k4Mzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.435996,
+          47.132918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Luçay-le-Mâle"
+      },
+      "id": "MzODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.205197,
+          46.815664
+        ]
+      },
+      "properties": {
+        "name": "Méziéres-en-Brenne"
+      },
+      "id": "E4OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.420522,
+          46.98204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pellevoisin"
+      },
+      "id": "A4NjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.671971,
+          47.31301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pruniers-en-Sologne"
+      },
+      "id": "I3MDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.739155,
+          47.355564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Romorantin-Lanthenay"
+      },
+      "id": "UxOTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.161584,
+          46.802086
+        ]
+      },
+      "properties": {
+        "name": "Saint-Michel - Saint-Cryan"
+      },
+      "id": "AxMzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.312091,
+          46.803121
+        ]
+      },
+      "properties": {
+        "name": "Saint-Thérése"
+      },
+      "id": "E3MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.048135,
+          47.424926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Salbris"
+      },
+      "id": "czNjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.9222,
+          47.388373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Selles-Saint-Denis"
+      },
+      "id": "QzODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.251696,
+          46.821798
+        ]
+      },
+      "properties": {
+        "name": "Subtray"
+      },
+      "id": "E5NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.558594,
+          47.163097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Valençay"
+      },
+      "id": "k1MjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.614282,
+          47.214339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Varennes-sur-Frouzon"
+      },
+      "id": "IzODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.358646,
+          46.800908
+        ]
+      },
+      "properties": {
+        "name": "Vendœvres"
+      },
+      "id": "Q0MjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.797316,
+          47.369317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Villeherviers"
+      },
+      "id": "QzMTc"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.122169,
+          48.092506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chilleurs - Montigny"
+      },
+      "id": "Y2Njg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.192068,
+          48.127461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Escrennes"
+      },
+      "id": "Y3OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.148498,
+          48.098357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Brosse-Santeau"
+      },
+      "id": "E5NTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.913145,
+          47.953339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Foulonnerie",
+        "description": "Halte Militaire"
+      },
+      "id": "ExODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.906165,
+          47.926893
+        ]
+      },
+      "properties": {
+        "name": "Les Aubrais"
+      },
+      "id": "M0NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.379852,
+          48.258575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maisoncelle"
+      },
+      "id": "gyNTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.401371,
+          48.293451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Malesherbes"
+      },
+      "id": "k2MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.347614,
+          48.227421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marchecourt"
+      },
+      "id": "kyMDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.002564,
+          47.96107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marigny-les-Usages"
+      },
+      "id": "Y4NDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.291926,
+          48.207337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marsainvilliers"
+      },
+      "id": "IyNDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.058928,
+          48.068172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Neuville-aux-Bois"
+      },
+      "id": "k5Nzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.241763,
+          48.173513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pithiviers"
+      },
+      "id": "I2MDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.054443,
+          47.994517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Rebréchien"
+      },
+      "id": "cwMTE"
+    }
+  ]
+}

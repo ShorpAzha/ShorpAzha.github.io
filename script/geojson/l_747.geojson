@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.692418,
+          48.332785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bourron-Marlotte - Grez"
+      },
+      "id": "g4MzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.476757,
+          48.287384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Herbeauvilliers"
+      },
+      "id": "c1Njk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.567115,
+          48.321931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Chapelle-la-Reine"
+      },
+      "id": "c4MDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.401371,
+          48.293451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Malesherbes"
+      },
+      "id": "A2NjY"
+    }
+  ]
+}

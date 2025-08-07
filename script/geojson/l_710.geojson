@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.704922,
+          45.646891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Laqueuille"
+      },
+      "id": "Q0NzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.705598,
+          45.619869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Sauves"
+      },
+      "id": "UyMTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.746302,
+          45.590498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Bourboule"
+      },
+      "id": "A3NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.804936,
+          45.579394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Mont-Dore"
+      },
+      "id": "Y0MjI"
+    }
+  ]
+}

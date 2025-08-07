@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.43874,
+          47.561306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Argent-sur-Sauldre"
+      },
+      "id": "AyODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.497426,
+          47.618502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Coullons"
+      },
+      "id": "QyMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.636241,
+          47.699119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gien"
+      },
+      "id": "k1OTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.534516,
+          47.65025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Salons"
+      },
+      "id": "I5MDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.595928,
+          47.675379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Poilly-lez-Gien"
+      },
+      "id": "Y5MDA"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.882699,
+          47.3889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bannay"
+      },
+      "id": "A5ODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.931955,
+          47.413968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cosne-sur-Loire"
+      },
+      "id": "UxNzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.57991,
+          47.19744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Aix-d'Angillon"
+      },
+      "id": "MzNjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.517768,
+          47.101323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maubranche"
+      },
+      "id": "QyOTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.690148,
+          47.213826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Montigny - Azy"
+      },
+      "id": "c1NDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.484466,
+          47.096563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Germain-du-Puy"
+      },
+      "id": "g5NTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.854165,
+          47.343032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Satur"
+      },
+      "id": "c5OTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.858296,
+          47.341694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Satur-Gare-d'Eau"
+      },
+      "id": "E5MDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.545969,
+          47.138266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sainte-Solange"
+      },
+      "id": "I4NjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.852395,
+          47.329354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sancerre"
+      },
+      "id": "YwMTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.8574,
+          47.292424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Thauvenay"
+      },
+      "id": "cwODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.760497,
+          47.253918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Veaugues"
+      },
+      "id": "Y5OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.799658,
+          47.290921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vinon - Bué"
+      },
+      "id": "cyMDY"
+    }
+  ]
+}

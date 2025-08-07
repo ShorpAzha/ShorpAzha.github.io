@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.003366,
+          47.081338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. de la cimenterie de Marseilles-lès-Aubigny"
+      },
+      "id": "k3ODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.984153,
+          47.044538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jouet-sur-l'Aubois"
+      },
+      "id": "E5Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.948491,
+          46.947754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Guerche-sur-l'Aubois"
+      },
+      "id": "I0OTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.966341,
+          46.975084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Chautay"
+      },
+      "id": "I1ODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.963127,
+          46.956224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Gravier"
+      },
+      "id": "UxNzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.00453,
+          47.069497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marseilles-lès-Aubigny"
+      },
+      "id": "Y5NjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.981597,
+          47.009143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pattinges"
+      },
+      "id": "I0MjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.97855,
+          47.021257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Torteron"
+      },
+      "id": "YyODI"
+    }
+  ]
+}

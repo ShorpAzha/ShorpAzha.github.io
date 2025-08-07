@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.252632,
+          48.137438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ascoux"
+      },
+      "id": "E2Nzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.225796,
+          48.266696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Audeville"
+      },
+      "id": "Y0NDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.421488,
+          48.071599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Beaune-la-Rolande"
+      },
+      "id": "gzMjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.14544,
+          48.377736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Boissy-la-Rivière"
+      },
+      "id": "UyMDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.358415,
+          48.116081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Boynes"
+      },
+      "id": "UxODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.237906,
+          48.236622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Engenville"
+      },
+      "id": "cxMzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.132125,
+          48.309292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Estouches"
+      },
+      "id": "A4OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.159562,
+          48.436741
+        ]
+      },
+      "properties": {
+        "name": "Étampes"
+      },
+      "id": "M2NDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.103732,
+          48.318814
+        ]
+      },
+      "properties": {
+        "name": "Méréville"
+      },
+      "id": "M4Nzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.241763,
+          48.173513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pithiviers"
+      },
+      "id": "I1ODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.130031,
+          48.359658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saclas - Saint-Cyr-la-Rivière"
+      },
+      "id": "czMjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.145381,
+          48.427367
+        ]
+      },
+      "properties": {
+        "name": "Saint-Martin-d'Étampes (RER)"
+      },
+      "id": "gyODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.20807,
+          48.293442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sermaises-du-Loiret"
+      },
+      "id": "k4NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.327575,
+          48.122812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Yèvre-la-Ville"
+      },
+      "id": "I2Mjc"
+    }
+  ]
+}

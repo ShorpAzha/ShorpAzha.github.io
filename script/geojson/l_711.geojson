@@ -1,0 +1,241 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.100671,
+          45.778875
+        ],
+        "type": "Point"
+      },
+      "properties": {},
+      "id": "I3MTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.560587,
+          45.62739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bourg-Lastic - Messeix"
+      },
+      "id": "M5Mjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.746346,
+          45.697793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bourgeade"
+      },
+      "id": "Q4NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.022109,
+          45.836667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chanat"
+      },
+      "id": "cxOTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.090916,
+          45.768021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Clermont - La Rotonde"
+      },
+      "id": "g2MTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.04855,
+          45.794742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Durtol - Nohanent"
+      },
+      "id": "E0Mjc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.461007,
+          45.645275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Eygurande - Merlines"
+      },
+      "id": "I4NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.505805,
+          45.638887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Cellette"
+      },
+      "id": "A3NjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.827563,
+          45.763743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Miouze - Rochefort"
+      },
+      "id": "ExODg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.704922,
+          45.646891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Laqueuille"
+      },
+      "id": "QxMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.838045,
+          45.794497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Rosiers-sur-Sioule"
+      },
+      "id": "EwOTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.845918,
+          45.820966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pontgibaud"
+      },
+      "id": "U4NzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.0615,
+          45.767645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Royat - Chamalières"
+      },
+      "id": "cxMDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.908587,
+          45.833782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Ours-les-Roches"
+      },
+      "id": "MwODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.633763,
+          45.634278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saint-Sulpice"
+      },
+      "id": "Y3Mzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.920266,
+          45.860301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vauriat"
+      },
+      "id": "g1MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.003092,
+          45.864668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Volvic"
+      },
+      "id": "YxMTU"
+    }
+  ]
+}

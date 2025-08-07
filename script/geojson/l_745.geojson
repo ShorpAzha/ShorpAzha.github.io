@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.483978,
+          48.087121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Auxy - Juranville"
+      },
+      "id": "k3MDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.371266,
+          48.532127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ballancourt"
+      },
+      "id": "gzMjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.469325,
+          48.142863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Beaumont - Boësses"
+      },
+      "id": "M3NjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.378822,
+          48.342126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Boigneville"
+      },
+      "id": "kxMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.37633,
+          48.434956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Boutigny"
+      },
+      "id": "kwNDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.427372,
+          48.230323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Briarres-sur-Essonnes"
+      },
+      "id": "UxMjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.386796,
+          48.370335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Buno - Gironville"
+      },
+      "id": "c2OTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.473909,
+          48.614055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Corbeil-Essonnes"
+      },
+      "id": "M5ODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.648649,
+          48.038984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. "
+      },
+      "id": "U1MjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.665687,
+          48.037664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. "
+      },
+      "id": "U2NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.66912,
+          48.041537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "DarkMagenta"
+        },
+        "name": "E.P. de l'Autoroute de l'Arbre"
+      },
+      "id": "IyNDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.452118,
+          48.634454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Evry-Val-de-Seine"
+      },
+      "id": "UxMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.40526,
+          48.555826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fontenay-le-Vicomte"
+      },
+      "id": "E2NTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.435821,
+          48.648023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Grand-Bourg"
+      },
+      "id": "U5NzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.397114,
+          48.66809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Grigny-Val-de-Seine"
+      },
+      "id": "g1NTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38296,
+          48.68947
+        ]
+      },
+      "properties": {
+        "name": "Juvisy"
+      },
+      "id": "g4Mzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.351632,
+          48.484891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Ferté-Alais"
+      },
+      "id": "g1MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.408506,
+          48.248535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Labrosse - Augerville"
+      },
+      "id": "I5MDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.551317,
+          48.066257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lorcy - Corbeilles"
+      },
+      "id": "U4NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.393088,
+          48.393034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maisse (ex: Maisse - Milly)"
+      },
+      "id": "U1Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.401371,
+          48.293451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Malesherbes"
+      },
+      "id": "c3Njg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.433241,
+          48.571024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mennecy"
+      },
+      "id": "Y3MjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.632245,
+          48.042525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mignerette - Gondreville"
+      },
+      "id": "E2NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.742741,
+          48.006879
+        ]
+      },
+      "properties": {
+        "name": "Montargis"
+      },
+      "id": "MxMzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.4733,
+          48.586161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Moulin-Galant"
+      },
+      "id": "QwMzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.460498,
+          48.205778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Puiseaux"
+      },
+      "id": "k3OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.414423,
+          48.659402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ris-Orangis"
+      },
+      "id": "E2MzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.386428,
+          48.676167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Viry-Châtillon"
+      },
+      "id": "A2OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.414449,
+          48.708256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vigneux-sur-Seine"
+      },
+      "id": "MwNjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.446695,
+          48.730034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Villeneuve-Saint-Georges"
+      },
+      "id": "k4NDE"
+    }
+  ]
+}
