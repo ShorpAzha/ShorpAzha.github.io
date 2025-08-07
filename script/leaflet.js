@@ -1,3 +1,9 @@
+function fetchJSON(url) {
+	return fetch(url).then(function(response) {
+		return response.json();
+	});
+}
+
 var trainLines = fetchJSON('script/geojson/l_600.geojson')
 
 const map = L.map('map').setView([47, 0], 5);
