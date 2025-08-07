@@ -4,6 +4,7 @@ function fetchJSON(url) {
 	});
 }
 
+var trainLines2 = fetchJSON('https://ShorpAzha.github.io/script/geojson/l_600.geojson')
 console.log(trainLines2.feature)
 console.log(trainLines)
 
