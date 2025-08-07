@@ -9,7 +9,7 @@ function geoJsonMiniMap(geoJsonFile) {
         })
         .then(data => {
             // Création de la carte Leaflet
-            const map = L.map('map').setView([45.6062, 2.7449], 13);
+            const map = L.map('map').setView([45.6062, 2.7449], 14);
 
             // Ajout d'une couche de tuiles
             const tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
