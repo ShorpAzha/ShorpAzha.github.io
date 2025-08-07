@@ -1,3 +1,7 @@
+async function myFunction() {
+    let data = await fetch("https://ShorpAzha.github.io/script/geojson/l_600.geojson").then(response => response.json()); /*console.log(data);*/ return data; data.forEach(); }
+myFunction();
+
 var trainLines = myFunction();
 
 const map = L.map('map').setView([47, 0], 5);
