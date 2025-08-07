@@ -1,3 +1,7 @@
+:root {
+    --fraction: calc(200vw / 9);
+}
+
 body {
   background: blanchedalmond;
 }
@@ -5,8 +9,8 @@ body {
 .parent {
   display: grid;
   gap: 4px;
-  grid-template-columns: 2fr 5fr 2fr;
-  grid-template-rows: 120px 1fr 1fr;
+  grid-template-columns: 2fr 5fr --fraction;
+  grid-template-rows: 120px --fraction 1fr;
   grid-template-areas:
     'header header header'
     'sidebar main ligne'
