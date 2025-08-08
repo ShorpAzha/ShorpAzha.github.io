@@ -1,3 +1,4 @@
+const url = 'https://ShorpAzha.github.io/script/json/data.json';
 var count = 0;
 
 function increase() {
