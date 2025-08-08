@@ -1,4 +1,4 @@
-function readJsonData(jsonFile, num) {
+function readJsonData(jsonFile) {
     fetch(jsonFile)
         .then(response => {
             if (!response.ok) {
@@ -7,7 +7,7 @@ function readJsonData(jsonFile, num) {
             return response.json();
         })
         .then(data => {
-            console.log(data[num])
+            console.log(data)
             
         })
         .catch(error => console.error('Erreur:', error));
