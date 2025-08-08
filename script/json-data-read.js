@@ -7,8 +7,16 @@ function readJsonData(jsonFile) {
             return response.json();
         })
         .then(data => {
-            console.log(data)
-            console.log(data.data[0])            
+            var nom = document.getElementById('nom');
+            var nom_ = document.getElementById('nom_');
+            var epoque = document.getElementById('epoque');
+            console.log(data);
+            for (let i = 0; i < data.length; i++) {
+                console.log(data[i]);
+            }      
+            nom.innerHTML(data[0].nom);
+            nom_.innerHTML(data[0].nom_);
+            epoque.innerHTML(data[0].epoque);
         })
         .catch(error => console.error('Erreur:', error));
     }
