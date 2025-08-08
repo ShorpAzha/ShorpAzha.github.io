@@ -1,13 +1,13 @@
-var count = 0
+var count = 0;
 
 function increase() {
     if ( count == 3 ) { count = 0 } else { count++ }
-    readJsonData('https://ShorpAzha.github.io/script/json/data.json', count)
+    readJsonData(url, count);
 }
 
 function decrease() {
     if ( count == 0 ) { count = 3 } else { count-- }
-    readJsonData('https://ShorpAzha.github.io/script/json/data.json', count)
+    readJsonData(url, count);
 }
 
 function readJsonData(jsonFile, nb) {
@@ -22,6 +22,7 @@ function readJsonData(jsonFile, nb) {
             document.getElementById('nom').innerText = data.data[nb].nom;
             document.getElementById('nom_').innerHTML = data.data[nb].nom_;
             document.getElementById('description').innerHTML = data.data[nb].description;
+            document.getElementById('image').src = data.data[nb].image_url;
             document.getElementById('epoque').innerHTML = 'Epoque: '+data.data[nb].epoque;
             let constructeurs = '';
             for (let i = 0; i < data.data[nb].constructeurs.length; i++) {
@@ -35,3 +36,4 @@ function readJsonData(jsonFile, nb) {
         })
         .catch(error => console.error('Erreur:', error));
     }
+readJsonData(url, count);
