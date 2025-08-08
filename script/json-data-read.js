@@ -9,13 +9,13 @@ function updateCompteurInURL(nouvelleValeur) {
 
 
 function increase() {
-    if ( count == data_max-1 ) { count = 0 } else { count++ }
+    if ( count == data_max ) { count = 1 } else { count++ }
     readJsonData(data_url, count);
     updateCompteurInURL(count);
 }
 
 function decrease() {
-    if ( count == 0 ) { count = data_max-1 } else { count-- }
+    if ( count == 1 ) { count = data_max } else { count-- }
     readJsonData(data_url, count);
     updateCompteurInURL(count);
 }
@@ -48,4 +48,4 @@ function readJsonData(jsonFile, nb) {
         })
         .catch(error => console.error('Erreur:', error));
     }
-readJsonData(data_url, count);
+readJsonData(data_url, count-1);
