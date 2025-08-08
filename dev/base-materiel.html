@@ -39,6 +39,12 @@
     <button class="openbtn" onclick="openNav()">&#9776;</button>     
     <script src="../script/sidebar.js"></script>
     <script src="../script/sidebar-new.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const params = new URLSearchParams(window.location.search);
+            let compteur = parseInt(params.get('train')) || 1;
+        });
+    </script>
     <div id="padElements" class="main">
         <h1 id="nom"></h1>
         <h2 id="nom_"></h2>

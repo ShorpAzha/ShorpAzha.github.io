@@ -1,14 +1,22 @@
+// Récupérer la valeur du paramètre 'compteur' dans l'URL
+const params = new URLSearchParams(window.location.search);
+const count = params.get('train');
+console.log(count);
+
 const url = 'https://ShorpAzha.github.io/script/json/data.json';
-var count = 0;
+
+function updateCompteurInURL(nouvelleValeur) {
+    const url = new URL(window.location);
+    url.searchParams.set('train', nouvelleValeur);
+    window.history.replaceState({}, '', url);
+}
 
 function increase() {
-    if ( count == 3 ) { count = 0 } else { count++ }
-    readJsonData(url, count);
+    updateCompteurInURL(nouvelleValeur);
 }
 
 function decrease() {
-    if ( count == 0 ) { count = 3 } else { count-- }
-    readJsonData(url, count);
+    updateCompteurInURL(nouvelleValeur);
 }
 
 function readJsonData(jsonFile, nb) {
