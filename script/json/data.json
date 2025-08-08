@@ -10,11 +10,11 @@
             "motorisation": "diesel",
             "vitesse-max": 120,
             "ecartement": "standard",
-            "qantite-transport": {
+            "quantite-transport": {
                 "fret": 0,
-                "1ere": 0,
-                "2eme": 36,
-                "3eme": 48
+                "pere": 0,
+                "deme": 36,
+                "teme": 48
             }
         },
         {
@@ -27,11 +27,11 @@
             "motorisation": "diesel",
             "vitesse-max": 120,
             "ecartement": "standard",
-            "qantite-transport": {
+            "quantite-transport": {
                 "fret": 0,
-                "1ere": 0,
-                "2eme": 36,
-                "3eme": 48
+                "pere": 0,
+                "deme": 36,
+                "teme": 48
             }
         },
         {
@@ -44,11 +44,11 @@
             "motorisation": "diesel",
             "vitesse-max": 100,
             "ecartement": "standard",
-            "qantite-transport": {
+            "quantite-transport": {
                 "fret": 0,
-                "1ere": 0,
-                "2eme": 0,
-                "3eme": 0
+                "pere": 0,
+                "deme": 0,
+                "teme": 0
             }
         },
         {
@@ -61,11 +61,11 @@
             "motorisation": "diesel",
             "vitesse-max": 120,
             "ecartement": "standard",
-            "qantite-transport": {
+            "quantite-transport": {
                 "fret": 0,
-                "1ere": 16,
-                "2eme": 80,
-                "3eme": 0
+                "pere": 16,
+                "deme": 80,
+                "teme": 0
             }
         }
     ]

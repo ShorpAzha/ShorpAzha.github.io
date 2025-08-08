@@ -2,8 +2,9 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>DEV | Tests Sidebar</title>
+    <title>DEV | Base Materiel</title>
     <link rel="stylesheet" href="../css/sidebar-new.css">
+    <link rel="stylesheet" href="../css/materiel.css">
 </head>
 <body>
     <div class="sidenav" id="mySidepanel">
@@ -38,17 +39,22 @@
     <button class="openbtn" onclick="openNav()">&#9776;</button>     
     <script src="../script/sidebar.js"></script>
     <script src="../script/sidebar-new.js"></script>
-    <script src="../script/json-data-read.js"></script>
-    <script></script>
-
     <div id="padElements" class="main">
-        <h2>Sidebar Dropdown</h2>
-        <p>Click on the dropdown button to open the dropdown menu inside the side navigation.</p>
-        <p>This sidebar is of full height (100%) and always shown.</p>
-        <p>Some random text..</p>
         <h1 id="nom"></h1>
         <h2 id="nom_"></h2>
+        <p id="description"></p>
         <p id="epoque"></p>
+        <p id="construction"></p>
+        <p id="motorisation"></p>
+        <p id="vitesse_max"></p>
+        <p id="ecartement"></p>
+        <p id="quantite_transport"></p>
     </div>
+    <div class="centred">
+        <button class="btn" onclick="decrease()">Précédent</button>
+        <button class="btn" onclick="increase()">Suivant</button>
+    </div>
+    <script src="../script/json-data-read.js"></script>
+    <script>readJsonData('https://ShorpAzha.github.io/script/json/data.json', count)</script>
 </body>
 </html> 

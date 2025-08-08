@@ -39,6 +39,7 @@ body {
 
 /* Main content */
 .main {
+  text-align: center;
   transition: 0.4s;
   font-size: 20px; /* Increased text to enable scrolling */
 }

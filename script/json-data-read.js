@@ -1,4 +1,16 @@
-function readJsonData(jsonFile) {
+var count = 0
+
+function increase() {
+    if ( count == 3 ) { count = 0 } else { count++ }
+    readJsonData('https://ShorpAzha.github.io/script/json/data.json', count)
+}
+
+function decrease() {
+    if ( count == 0 ) { count = 3 } else { count-- }
+    readJsonData('https://ShorpAzha.github.io/script/json/data.json', count)
+}
+
+function readJsonData(jsonFile, nb) {
     fetch(jsonFile)
         .then(response => {
             if (!response.ok) {
@@ -7,16 +19,19 @@ function readJsonData(jsonFile) {
             return response.json();
         })
         .then(data => {
-            var nom = document.getElementById('nom');
-            var nom_ = document.getElementById('nom_');
-            var epoque = document.getElementById('epoque');
-            console.log(data);
-            for (let i = 0; i < data.length; i++) {
-                console.log(data[i]);
-            }      
-            nom.innerHTML(data[0].nom);
-            nom_.innerHTML(data[0].nom_);
-            epoque.innerHTML(data[0].epoque);
+            document.getElementById('nom').innerText = data.data[nb].nom;
+            document.getElementById('nom_').innerHTML = data.data[nb].nom_;
+            document.getElementById('description').innerHTML = data.data[nb].description;
+            document.getElementById('epoque').innerHTML = 'Epoque: '+data.data[nb].epoque;
+            let constructeurs = '';
+            for (let i = 0; i < data.data[nb].constructeurs.length; i++) {
+                constructeurs = constructeurs + data.data[nb].constructeurs[i];
+            }
+            document.getElementById('construction').innerHTML = 'Construit en '+data.data[nb].construction+' par '+constructeurs;
+            document.getElementById('motorisation').innerHTML = 'Motorisation '+data.data[nb].motorisation;
+            document.getElementById('vitesse_max').innerHTML = 'Vitesse maximale: '+data.data[nb].vitesse_max;
+            document.getElementById('ecartement').innerHTML = 'Ecartement '+data.data[nb].ecartement;
+            document.getElementById('quantite_transport').innerHTML = 'Caractéristique:<br>Fret: '+data.data[nb].quantite_transport.fret+' kg<br>Première classe: '+data.data[nb].quantite_transport.pere+'<br>Seconde classe: '+data.data[nb].quantite_transport.deme+'<br>Troisième classe: '+data.data[nb].quantite_transport.teme
         })
         .catch(error => console.error('Erreur:', error));
     }
