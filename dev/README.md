@@ -4,9 +4,9 @@
 ## Ancien site
 * <a href='https://ShorpAzha.github.io/old_index.html' target='_blank'>Ancienne Accueil</a>
 ## Pages publiées
+* <a href='https://ShorpAzha.github.io/contact.html' target='_blank'>Contact</a>
 * <a href='https://ShorpAzha.github.io/credits.html' target='_blank'>Crédits</a>
 * <a href='https://ShorpAzha.github.io/galerie-moderne.html' target='_blank'>Galerie</a>
-* <a href='https://ShorpAzha.github.io/contact.html' target='_blank'>Contact</a>
 * <a href='https://ShorpAzha.github.io/histoire-ferroviaire.html' target='_blank'>L'histoire du ferroviaire</a>
 * <a href='https://ShorpAzha.github.io/histoire-part1.html' target='_blank'>Histoire Partie 1</a>
 * <a href='https://ShorpAzha.github.io/histoire-part2.html' target='_blank'>Histoire Partie 2</a>
@@ -16,23 +16,28 @@
 * <a href='https://ShorpAzha.github.io/materiel-part1' target='_blank'>Materiel partie 1</a>
 * <a href='https://ShorpAzha.github.io/materiel-part2' target='_blank'>Materiel partie 2</a>
 * <a href='https://ShorpAzha.github.io/materiel-part3' target='_blank'>Materiel partie 3</a>
+* <a href='https://ShorpAzha.github.io/mentions-legales.html' target='_blank'>Mentions légales</a>
+* <a href='https://ShorpAzha.github.io/tramway-d-antan.html' target='_blank'>Tramways d'antan</a>
+* <a href='https://ShorpAzha.github.io/tramway-departementale.html' target='_blank'>Tramways départementales</a>
 * <a href='https://ShorpAzha.github.io/tramway-moderne.html' target='_blank'>Tramways modernes</a>
-* <a href='https://ShorpAzha.github.io/tramway-d-antan.html' target='_blank'>Anciens tramways</a>
+* <a href='https://ShorpAzha.github.io/voie-etroite.html' target='_blank'>Voie étroites</a>
 ## Pages cachées
 * <a href='https://ShorpAzha.github.io/autorails.html' target='_blank'>Autorails</a>
 ## DEV
 * <a href='https://ShorpAzha.github.io/dev' target='_blank'>Cette Page</a>
-* <a href='https://ShorpAzha.github.io/dev/basewiki.html' target='_blank'>Base Wiki</a>
-* <a href='https://ShorpAzha.github.io/dev/leaflet.html' target='_blank'>Leaflet</a>
-* <a href='https://ShorpAzha.github.io/dev/tableau.html' target='_blank'>Tableau</a>
-* <a href='https://ShorpAzha.github.io/dev/test-sidebar.html' target='_blank'>Tests Sidebar</a>
+* <a href='https://ShorpAzha.github.io/dev/base-lignes.html' target='_blank'>Base page ligne</a>
+* <a href='https://ShorpAzha.github.io/dev/base-materiel.html' target='_blank'>Base page matériel</a>
+* <a href='https://ShorpAzha.github.io/dev/leaflet.html' target='_blank'>Tests Leaflet</a>
+* <a href='https://ShorpAzha.github.io/dev/tableau.html' target='_blank'>Tests tableau</a>
+* <a href='https://ShorpAzha.github.io/dev/test-sidebar.html' target='_blank'>Tests sidebar</a>
 ## CSS
 * <a href='https://ShorpAzha.github.io/css/gridbox.css' target='_blank'>Gridbox</a>
-* <a href='https://ShorpAzha.github.io/css/home.css' target='_blank'>Home</a>
-* <a href='https://ShorpAzha.github.io/css/index.css' target='_blank'>Index</a>
-* <a href='https://ShorpAzha.github.io/css/leaflet.css' target='_blank'>Leaflet</a>
-* <a href='https://ShorpAzha.github.io/css/sidebar-new.css' target='_blank'>Tests sidebar</a>
+* <a href='https://ShorpAzha.github.io/css/accueil.css' target='_blank'>Accueil</a>
 * <a href='https://ShorpAzha.github.io/css/style.css' target='_blank'>Style</a>
+* <a href='https://ShorpAzha.github.io/css/leaflet.css' target='_blank'>Leaflet</a>
+* <a href='https://ShorpAzha.github.io/css/sidebar-new.css' target='_blank'>Sidebar</a>
+* <a href='https://ShorpAzha.github.io/css/tableau.css' target='_blank'>Tableau</a>
+* <a href='https://ShorpAzha.github.io/css/materiel.css' target='_blank'>Materiel</a>
 ## Script
 ### JavaScript
 * <a href='https://ShorpAzha.github.io/script/data-lignes-par-statut.js' target='_blank'>Data - Lignes par statut</a>
@@ -51,13 +56,15 @@
 * <a href='https://ShorpAzha.github.io/script/json/test.json' target='_blank'>Test</a>
 ## Icons
 * <a href='https://ShorpAzha.github.io/favicon.ico' target='_blank'>Favicon</a>
-* <a href='https://ShorpAzha.github.io/images/factorio.png' target='_blank'>Flond3</a>
-* <a href='https://ShorpAzha.github.io/images/icon_atsouky.png' target='_blank'>Atsouky</a>
-* <a href='https://ShorpAzha.github.io/images/icon_ezreal.png' target='_blank'>Ezreal</a>
-* <a href='https://ShorpAzha.github.io/images/logo_aucunnan.png' target='_blank'>Aucunnan</a>
-* <a href='https://ShorpAzha.github.io/images/logo_github.png' target='_blank'>GitHub</a>
-* <a href='https://ShorpAzha.github.io/images/logo_minecraft.png' target='_blank'>Minecraft</a>
-* <a href='https://ShorpAzha.github.io/images/logo_nsi_eliott.png' target='_blank'>NSI Eliott</a>
-* <a href='https://ShorpAzha.github.io/images/logo_shorpazha.png' target='_blank'>ShorpAzha</a>
-* <a href='https://ShorpAzha.github.io/images/logo.png' target='_blank'>ShorpAzha²</a>
+* <a href='https://ShorpAzha.github.io/images/icon-atsouky.png' target='_blank'>Atsouky</a>
+* <a href='https://ShorpAzha.github.io/images/icon-aucunnan.png' target='_blank'>Aucunnan</a>
+* <a href='https://ShorpAzha.github.io/images/icon-ezreal.png' target='_blank'>Ezreal</a>
+* <a href='https://ShorpAzha.github.io/images/icon-flond3.png' target='_blank'>Flond3</a>
+* <a href='https://ShorpAzha.github.io/images/icon-github.png' target='_blank'>GitHub</a>
+* <a href='https://ShorpAzha.github.io/images/icon-just0kami.png' target='_blank'>Just0kami</a>
+* <a href='https://ShorpAzha.github.io/images/icon-nsi_eliott.png' target='_blank'>NSI Eliott</a>
+* <a href='https://ShorpAzha.github.io/images/icon-shorpazha.png' target='_blank'>ShorpAzha</a>
+## Logos
+* <a href='https://ShorpAzha.github.io/images/logo-minecraft.png' target='_blank'>Minecraft</a>
+* <a href='https://ShorpAzha.github.io/images/logo-shorpazha.png' target='_blank'>ShorpAzha</a>
 * <a href='https://ShorpAzha.github.io/images/sorry.png' target='_blank'>Sorry</a>
