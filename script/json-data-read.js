@@ -1,24 +1,29 @@
-// Récupérer la valeur du paramètre 'compteur' dans l'URL
+/*
+// Récupérer la valeur du paramètre 'train' dans l'URL
 const params = new URLSearchParams(window.location.search);
 const count = params.get('train');
 console.log(count);
-
+*/
 const data_url = 'https://ShorpAzha.github.io/script/json/data.json';
-
+var count = 0;
+/*
 function updateCompteurInURL(nouvelleValeur) {
     const url = new URL(window.location);
     url.searchParams.set('train', nouvelleValeur);
     window.history.replaceState({}, '', url);
 }
+*/
 
 function increase() {
-    if ( count == 3 ) { count = 0; } else { count++; }
-    updateCompteurInURL(count);
+    if ( count == 3 ) { count = 0 } else { count++ }
+    readJsonData(data_url, count);
+    //updateCompteurInURL(count);
 }
 
 function decrease() {
-    if ( count == 0 ) { count = 3; } else { count--; }
-    updateCompteurInURL(count);
+    if ( count == 0 ) { count = 3 } else { count-- }
+    readJsonData(data_url, count);
+    //updateCompteurInURL(count);
 }
 
 function readJsonData(jsonFile, nb) {
