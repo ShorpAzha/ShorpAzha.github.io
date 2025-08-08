@@ -9,9 +9,9 @@
             "construction": 1936,
             "constructeurs": ["Renault"],
             "motorisation": "diesel",
-            "vitesse-max": 120,
+            "vitesse_max": 120,
             "ecartement": "standard",
-            "quantite-transport": {
+            "quantite_transport": {
                 "fret": 0,
                 "pere": 0,
                 "deme": 36,
@@ -27,9 +27,9 @@
             "construction": 1936,
             "constructeurs": ["Renault"],
             "motorisation": "diesel",
-            "vitesse-max": 120,
+            "vitesse_max": 120,
             "ecartement": "standard",
-            "quantite-transport": {
+            "quantite_transport": {
                 "fret": 0,
                 "pere": 0,
                 "deme": 36,
@@ -44,9 +44,9 @@
             "construction": 1933,
             "constructeurs": ["Renault"],
             "motorisation": "diesel",
-            "vitesse-max": 100,
+            "vitesse_max": 100,
             "ecartement": "standard",
-            "quantite-transport": {
+            "quantite_transport": {
                 "fret": 0,
                 "pere": 0,
                 "deme": 0,
@@ -61,9 +61,9 @@
             "construction": 1954,
             "constructeurs": ["Carel-Fouché"],
             "motorisation": "diesel",
-            "vitesse-max": 120,
+            "vitesse_max": 120,
             "ecartement": "standard",
-            "quantite-transport": {
+            "quantite_transport": {
                 "fret": 0,
                 "pere": 16,
                 "deme": 80,
