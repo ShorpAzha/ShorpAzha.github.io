@@ -3,7 +3,7 @@ const params = new URLSearchParams(window.location.search);
 const count = params.get('train');
 console.log(count);
 
-const url = 'https://ShorpAzha.github.io/script/json/data.json';
+const data_url = 'https://ShorpAzha.github.io/script/json/data.json';
 
 function updateCompteurInURL(nouvelleValeur) {
     const url = new URL(window.location);
@@ -45,4 +45,4 @@ function readJsonData(jsonFile, nb) {
         })
         .catch(error => console.error('Erreur:', error));
     }
-readJsonData(url, count);
+readJsonData(data_url, count);
