@@ -34,10 +34,12 @@ function readJsonData(jsonFile, nb) {
             document.getElementById('description').innerHTML = data.data[nb].description;
             document.getElementById('image').src = data.data[nb].image_url;
             document.getElementById('epoque').innerHTML = 'Epoque: '+data.data[nb].epoque;
-            let constructeurs = '';
-            for (let i = 0; i < data.data[nb].constructeurs.length; i++) {
-                constructeurs = constructeurs + data.data[nb].constructeurs[i];
-            }
+            let constructeurs = data.data[nb].constructeurs[0];
+            if (data.data[nb].constructeurs.length > 1) {
+                for (let i = 1; i < data.data[nb].constructeurs.length; i++) {
+                    constructeurs = constructeurs + ', ' + data.data[nb].constructeurs[i];
+                }
+            }                
             document.getElementById('construction').innerHTML = 'Construit en '+data.data[nb].construction+' par '+constructeurs;
             document.getElementById('motorisation').innerHTML = 'Motorisation '+data.data[nb].motorisation;
             document.getElementById('vitesse_max').innerHTML = 'Vitesse maximale: '+data.data[nb].vitesse_max;
