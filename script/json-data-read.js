@@ -1,10 +1,5 @@
-/*
-// Récupérer la valeur du paramètre 'train' dans l'URL
-const params = new URLSearchParams(window.location.search);
-const count = params.get('train');
-console.log(count);
-*/
 const data_url = 'https://ShorpAzha.github.io/script/json/data.json';
+const data_max = 4;
 var count = 0;
 
 function updateCompteurInURL(nouvelleValeur) {
@@ -15,13 +10,13 @@ function updateCompteurInURL(nouvelleValeur) {
 
 
 function increase() {
-    if ( count == 3 ) { count = 0 } else { count++ }
+    if ( count == data_max-1 ) { count = 0 } else { count++ }
     readJsonData(data_url, count);
     updateCompteurInURL(count);
 }
 
 function decrease() {
-    if ( count == 0 ) { count = 3 } else { count-- }
+    if ( count == 0 ) { count = data_max-1 } else { count-- }
     readJsonData(data_url, count);
     updateCompteurInURL(count);
 }
