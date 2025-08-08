@@ -8,7 +8,7 @@ function readJsonData(jsonFile) {
         })
         .then(data => {
             console.log(data)
-            
+            console.log(data.data[0])            
         })
         .catch(error => console.error('Erreur:', error));
     }
