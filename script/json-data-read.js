@@ -12,11 +12,13 @@ function updateCompteurInURL(nouvelleValeur) {
 }
 
 function increase() {
-    updateCompteurInURL(nouvelleValeur);
+    if ( count == 3 ) { count = 0; } else { count++; }
+    updateCompteurInURL(count);
 }
 
 function decrease() {
-    updateCompteurInURL(nouvelleValeur);
+    if ( count == 0 ) { count = 3; } else { count--; }
+    updateCompteurInURL(count);
 }
 
 function readJsonData(jsonFile, nb) {
