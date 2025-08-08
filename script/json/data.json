@@ -89,6 +89,24 @@
                 "deme": 78,
                 "teme": 0
             }
+        },
+        {
+            "nom": "SNCF X2400",
+            "nom_": "X2400",
+            "description": "",
+            "image_url": "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2400_TC_R.gif",
+            "epoque": "III",
+            "construction": "1951 à 1955",
+            "constructeurs": ["Régie Renault", "Décauville"],
+            "motorisation": "diesel",
+            "vitesse_max": 120,
+            "ecartement": "standard",
+            "quantite_transport": {
+                "fret": 0,
+                "pere": 12,
+                "deme": 56,
+                "teme": 0
+            }
         }
     ]
 }

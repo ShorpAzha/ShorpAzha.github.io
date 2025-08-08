@@ -1,5 +1,5 @@
 const data_url = 'https://ShorpAzha.github.io/script/json/data.json';
-const data_max = 4;
+const data_max = 6;
 
 function updateCompteurInURL(nouvelleValeur) {
     const url = new URL(window.location);
