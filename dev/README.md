@@ -56,15 +56,15 @@
 * <a href='https://ShorpAzha.github.io/script/json/test.json' target='_blank'>Test</a>
 ## Icons
 * <a href='https://ShorpAzha.github.io/favicon.ico' target='_blank'>Favicon</a>
-* <a href='https://ShorpAzha.github.io/images/icon-atsouky.png' target='_blank'>Atsouky</a>
-* <a href='https://ShorpAzha.github.io/images/icon-aucunnan.png' target='_blank'>Aucunnan</a>
-* <a href='https://ShorpAzha.github.io/images/icon-ezreal.png' target='_blank'>Ezreal</a>
-* <a href='https://ShorpAzha.github.io/images/icon-flond3.png' target='_blank'>Flond3</a>
-* <a href='https://ShorpAzha.github.io/images/icon-github.png' target='_blank'>GitHub</a>
-* <a href='https://ShorpAzha.github.io/images/icon-just0kami.png' target='_blank'>Just0kami</a>
-* <a href='https://ShorpAzha.github.io/images/icon-nsi_eliott.png' target='_blank'>NSI Eliott</a>
-* <a href='https://ShorpAzha.github.io/images/icon-shorpazha.png' target='_blank'>ShorpAzha</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-atsouky.png' target='_blank'>Atsouky</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-aucunnan.png' target='_blank'>Aucunnan</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-ezreal.png' target='_blank'>Ezreal</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-flond3.png' target='_blank'>Flond3</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-github.png' target='_blank'>GitHub</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-just0kami.png' target='_blank'>Just0kami</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-nsi_eliott.png' target='_blank'>NSI Eliott</a>
+* <a href='https://ShorpAzha.github.io/images/icon/icon-shorpazha.png' target='_blank'>ShorpAzha</a>
 ## Logos
-* <a href='https://ShorpAzha.github.io/images/logo-minecraft.png' target='_blank'>Minecraft</a>
-* <a href='https://ShorpAzha.github.io/images/logo-shorpazha.png' target='_blank'>ShorpAzha</a>
-* <a href='https://ShorpAzha.github.io/images/sorry.png' target='_blank'>Sorry</a>
+* <a href='https://ShorpAzha.github.io/images/logo/logo-minecraft.png' target='_blank'>Minecraft</a>
+* <a href='https://ShorpAzha.github.io/images/logo/logo-shorpazha.png' target='_blank'>ShorpAzha</a>
+* <a href='https://ShorpAzha.github.io/images/logo/sorry.png' target='_blank'>Sorry</a>
