@@ -10,13 +10,13 @@ function updateCompteurInURL(nouvelleValeur) {
 
 function increase() {
     if ( count == data_max ) { count = 1 } else { count++ }
-    readJsonData(data_url, count);
+    readJsonData(data_url, count-1);
     updateCompteurInURL(count);
 }
 
 function decrease() {
     if ( count == 1 ) { count = data_max } else { count-- }
-    readJsonData(data_url, count);
+    readJsonData(data_url, count-1);
     updateCompteurInURL(count);
 }
 
