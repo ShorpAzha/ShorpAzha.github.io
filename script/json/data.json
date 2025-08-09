@@ -19,8 +19,8 @@
         },
         {
             "nom": "Renault ABV1",
-            "nom_": "Est ZZ 100001 à 3, devenus PLM ZZ G 306 à 8, SNCF ZZ R 111 à 113 puis X 111 à 113,<br>SNCF ZZ R 123 puis X 123,<br>PO ZZ PEty 23879 à 23881, puis SNCF ZZ R 131-133 et enfin X 131, les 2 suivants ayant été détruits par un bombardement en 1944,<br>CFAE ZZyw A 1 à 3 ou CFA ZZ G 1 à 3",
-            "description": "",
+            "nom_": "X 111 à 113, X 123 & X 131",
+            "description": "Est ZZ 100001 à 3, devenus PLM ZZ G 306 à 8, SNCF ZZ R 111 à 113 puis X 111 à 113,<br>SNCF ZZ R 123 puis X 123,<br>PO ZZ PEty 23879 à 23881, puis SNCF ZZ R 131-133 et enfin X 131, les 2 suivants ayant été détruits par un bombardement en 1944,<br>CFAE ZZyw A 1 à 3 ou CFA ZZ G 1 à 3",
             "image_url": "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/ABV2.gif",
             "epoque": "III-IV",
             "type": "autorail bicaisse",
