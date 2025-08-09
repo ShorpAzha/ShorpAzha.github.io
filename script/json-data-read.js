@@ -42,9 +42,9 @@ function readJsonData(jsonFile, nb) {
             }                
             document.getElementById('construction').innerHTML = 'Construit en '+data.data[nb].construction+' par '+constructeurs;
             document.getElementById('motorisation').innerHTML = 'Motorisation '+data.data[nb].motorisation;
-            document.getElementById('vitesse_max').innerHTML = 'Vitesse maximale: '+data.data[nb].vitesse_max;
+            document.getElementById('vitesse_max').innerHTML = 'Vitesse maximale: '+data.data[nb].vitesse_max+' km/h';
             document.getElementById('ecartement').innerHTML = 'Ecartement '+data.data[nb].ecartement;
-            document.getElementById('quantite_transport').innerHTML = 'Caractéristique:<br>Fret: '+data.data[nb].quantite_transport.fret+' kg<br>Première classe: '+data.data[nb].quantite_transport.pere+'<br>Seconde classe: '+data.data[nb].quantite_transport.deme+'<br>Troisième classe: '+data.data[nb].quantite_transport.teme
+            document.getElementById('quantite_transport').innerHTML = 'Caractéristique:<br>Première classe: '+data.data[nb].quantite_transport.pere+' places<br>Seconde classe: '+data.data[nb].quantite_transport.deme+' places<br>Troisième classe: '+data.data[nb].quantite_transport.teme+' places';
         })
         .catch(error => console.error('Erreur:', error));
     }
