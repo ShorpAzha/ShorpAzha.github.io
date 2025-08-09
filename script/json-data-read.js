@@ -34,6 +34,7 @@ function readJsonData(jsonFile, nb) {
             document.getElementById('description').innerHTML = data.data[nb].description;
             document.getElementById('image').src = data.data[nb].image_url;
             document.getElementById('epoque').innerHTML = 'Epoque: '+data.data[nb].epoque;
+            document.getElementById('type').innerHTML = 'Type: '+data.data[nb].type;
             let constructeurs = data.data[nb].constructeurs[0];
             if (data.data[nb].constructeurs.length > 1) {
                 for (let i = 1; i < data.data[nb].constructeurs.length; i++) {
