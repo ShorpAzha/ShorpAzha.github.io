@@ -243,6 +243,72 @@
             "capacite": "12 places de 1ère classe et 50 places de 2nde classe"
         },
         {
+            "nom": "X 2700, RGP 2",
+            "nom_": "X 2701 à 2720",
+            "description": "",
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_V1_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP2_V1_R.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_OM_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP2_OM_R.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_O_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP2_O_R.gif", ""
+            ],
+            "livree": ["Livrée d'origine", "Livrée &laquo; façon turbotrain &raquo; gris metallique", "Livrée &laquo; façon turbotrain &raquo; gris mat"],
+            "epoque": "",
+            "type": "autorail bicaisse",
+            "ecartement": "standard",
+            "motorisation": "diesel",
+            "vitesse_max": 120,
+            "construction": [1954, 1955],
+            "constructeurs": ["De Dietrich", "Régie Renault", "Brissoneau et Lotz"],
+            "quantite": 20,
+            "mise_en_service": [1954, 1955],
+            "retrait": [1980, 1986],
+            "capacite": "60 places de 2nde classe dans la motrice, 24 places de 1ère et 52 places de 2nde dans la remorque"
+        },
+        {
+            "nom": "X 2720, RGP 1",
+            "nom_": "X 2721 à 2738",
+            "description": "",
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_V1_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1_V1_R.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_OM_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1_OM_R.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_OA_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1_OA_R.gif", ""
+            ],
+            "livree": ["Livrée d'origine", "Livrée &laquo; façon turbotrain &raquo; gris metallique", "Livrée Alpazur"],
+            "epoque": "III-IV-V",
+            "type": "autorail bicaisse",
+            "ecartement": "standard",
+            "motorisation": "diesel",
+            "vitesse_max": 140,
+            "construction": [1955, 1956],
+            "constructeurs": ["De Dietrich", "SACM"],
+            "quantite": 28,
+            "mise_en_service": [1955, 1956],
+            "retrait": [1999, 2006],
+            "capacite": "114 places de 2nde classe"
+        },
+        {
+            "nom": "X 2770, RGP TEE",
+            "nom_": "X 2771 à 2781 puis X 2739 à 2749",
+            "description": "",
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRTEE_R_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1TEE_R_R.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRTEE_OM_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1TEE_OM_R.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRTEE_O_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1TEE_O_R.gif", ""
+            ],
+            "livree": ["Livrée rouge TEE d'origine", "Livrée &laquo; façon turbotrain &raquo; gris metallique", "Livrée &laquo; façon turbotrain &raquo; gris mat"],
+            "epoque": "III-IV-V",
+            "type": "autorail bicaisse",
+            "ecartement": "standard",
+            "motorisation": "diesel",
+            "vitesse_max": 140,
+            "construction": [1955, 1956],
+            "constructeurs": ["De Dietrich", "SACM"],
+            "quantite": 29,
+            "mise_en_service": [1956],
+            "retrait": [2006],
+            "capacite": "24 places de 1ère et 114 places de 2nde classe"
+        },
+        {
             "nom": "",
             "nom_": "",
             "description": "",
