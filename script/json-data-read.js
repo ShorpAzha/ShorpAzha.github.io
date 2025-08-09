@@ -29,7 +29,7 @@ function readJsonData(jsonFile, nb) {
             return response.json();
         })
         .then(data => {
-            document.getElementById('nom').innerText = data.data[nb].nom;
+            document.getElementById('nom').innerHTML = data.data[nb].nom;
             document.getElementById('nom_').innerHTML = data.data[nb].nom_;
             document.getElementById('description').innerHTML = data.data[nb].description;
             document.getElementById('image').src = data.data[nb].image_url;
@@ -39,12 +39,31 @@ function readJsonData(jsonFile, nb) {
                 for (let i = 1; i < data.data[nb].constructeurs.length; i++) {
                     constructeurs = constructeurs + ', ' + data.data[nb].constructeurs[i];
                 }
-            }                
-            document.getElementById('construction').innerHTML = 'Construit en '+data.data[nb].construction+' par '+constructeurs;
+            }
+            let construction;
+            if (data.data[nb].construction.length > 1) {
+                construction = 'de ' + data.data[nb].construction[0] + ' à ' + data.data[nb].construction[1];
+            } else {
+                construction = 'en ' + data.data[nb].construction[0];
+            } 
+            document.getElementById('construction').innerHTML = 'Construit '+construction+' par '+constructeurs;
+            document.getElementById('quantite').innerHTML = 'Quantité: '+data.data[nb].quantite;
+            let mise_en_service, retrait;
+            if (data.data[nb].mise_en_service.length > 1) {
+                mise_en_service = 'de ' + data.data[nb].mise_en_service[0] + ' à ' + data.data[nb].mise_en_service[1];
+            } else {
+                mise_en_service = 'en ' + data.data[nb].mise_en_service[0];
+            }
+            if (data.data[nb].retrait.length > 1) {
+                retrait = 'de ' + data.data[nb].retrait[0] + ' à ' + data.data[nb].retrait[1];
+            } else {
+                retrait = 'en ' + data.data[nb].retrait[0];
+            }
+            document.getElementById('mise_en_service').innerHTML = 'Mise en service '+mise_en_service+' et radié '+retrait;
+            document.getElementById('ecartement').innerHTML = 'Ecartement '+data.data[nb].ecartement;
             document.getElementById('motorisation').innerHTML = 'Motorisation '+data.data[nb].motorisation;
             document.getElementById('vitesse_max').innerHTML = 'Vitesse maximale: '+data.data[nb].vitesse_max+' km/h';
-            document.getElementById('ecartement').innerHTML = 'Ecartement '+data.data[nb].ecartement;
-            document.getElementById('quantite_transport').innerHTML = 'Caractéristique:<br>Première classe: '+data.data[nb].quantite_transport.pere+' places<br>Seconde classe: '+data.data[nb].quantite_transport.deme+' places<br>Troisième classe: '+data.data[nb].quantite_transport.teme+' places';
+            document.getElementById('quantite_transport').innerHTML = data.data[nb].capacite;
         })
         .catch(error => console.error('Erreur:', error));
     }
