@@ -3,6 +3,7 @@ html {scroll-behavior: smooth;}
 body {
     background-color: #666;
     color: whitesmoke;
+    font-family: "Lato", sans-serif;
 }
 
 h1 {color: #3d0a49;}
@@ -17,52 +18,83 @@ iframe {
   margin: auto;
 }
 
-.text {text-align: center;}
-
-.sidepanel  {
-  width: 0;
-  position: fixed;
-  z-index: 1;
-  height: 500px;
-  top: 0;
-  left: 0;
-  background-image: linear-gradient(darkred, #666);
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
+/* Fixed sidenav, full height */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: darkred;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 32px;
 }
 
-.sidepanel a {
-  padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
-  transition: 0.3s;
+/* Style the sidenav links and the dropdown button */
+.sidenav a, .dropdown-btn {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
 }
 
-.sidepanel a:hover {
+/* On mouse-over */
+.sidenav a:hover, .dropdown-btn:hover {
   color: #f1f1f1;
 }
 
-.sidepanel .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
+/* Main content */
+.main {
+  text-align: center;
+  transition: 0.4s;
+  font-size: 20px; /* Increased text to enable scrolling */
+}
+
+/* Add an active class to the active dropdown button */
+.active {
+  color: white;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+  display: none;
+  padding-left: 8px;
+}
+
+/* Some media queries for responsiveness */
+@media screen and (max-height: 450px) {
+
+  .sidenav {
+    padding-top: 15px;
+  }
+
+  .sidenav a {
+    font-size: 10px;
+    padding-left: 15px;
+  }
 }
 
 .openbtn {
-  font-size: 20px;
-  cursor: pointer;
-  background-color: #111;
-  color: white;
-  padding: 10px 15px;
-  border: none;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
+    border: none;
 }
 
 .openbtn:hover {
-  background-image: linear-gradient(#222,#666);
+    background-color: #313131;
 }
 
 .icon {
