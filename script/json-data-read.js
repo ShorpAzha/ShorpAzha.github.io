@@ -1,5 +1,5 @@
 const data_url = 'https://ShorpAzha.github.io/script/json/data.json';
-const data_max = 7;
+const data_max = 10;
 
 function updateCompteurInURL(nouvelleValeur) {
     const url = new URL(window.location);
@@ -64,7 +64,7 @@ function readJsonData(jsonFile, nb) {
             document.getElementById('ecartement').innerHTML = 'Ecartement '+data.data[nb].ecartement;
             document.getElementById('motorisation').innerHTML = 'Motorisation '+data.data[nb].motorisation;
             document.getElementById('vitesse_max').innerHTML = 'Vitesse maximale: '+data.data[nb].vitesse_max+' km/h';
-            document.getElementById('quantite_transport').innerHTML = data.data[nb].capacite;
+            document.getElementById('quantite_transport').innerHTML = 'Capacité: '+data.data[nb].capacite;
         })
         .catch(error => console.error('Erreur:', error));
     }
