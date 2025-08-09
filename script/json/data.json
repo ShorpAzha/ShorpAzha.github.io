@@ -71,11 +71,11 @@
             "nom_": "X 2051",
             "description": "Prototype, la Flèche d'Argent",
             "image_url": [
-                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2051_R.gif", "", "",
-                "", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2051_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/XR8836_G_L.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/XR8836_R_L.gif", "", "",
                 "", "", ""
             ],
-            "livree": ["", "", ""],
+            "livree": ["X2051 & XR 8836: Ex-autorail allemand démotorisé. Livrée particulière pour le service &laquo; la Flèche d'Argent &raquo; ", "XR 8836 après le retrait du service Flèche d'Argent, retour à une livrée autorail plus conventionnelle.", ""],
             "epoque": "III-IV",
             "type": "autorail monocaisse",
             "ecartement": "standard",
