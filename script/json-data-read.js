@@ -32,7 +32,13 @@ function readJsonData(jsonFile, nb) {
             document.getElementById('nom').innerHTML = data.data[nb].nom;
             document.getElementById('nom_').innerHTML = data.data[nb].nom_;
             document.getElementById('description').innerHTML = data.data[nb].description;
-            document.getElementById('image').src = data.data[nb].image_url;
+            document.getElementById('image1').src = data.data[nb].image_url[0];
+            if (data.dat[nb].image_url.length == 2) {
+                document.getElementById('image2').src = data.data[nb].image_url[1];
+            }
+            if (data.dat[nb].image_url.length == 3) {
+                document.getElementById('image3').src = data.data[nb].image_url[2];
+            }
             document.getElementById('epoque').innerHTML = 'Epoque: '+data.data[nb].epoque;
             document.getElementById('type').innerHTML = 'Type: '+data.data[nb].type;
             let constructeurs = data.data[nb].constructeurs[0];
