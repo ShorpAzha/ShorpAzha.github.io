@@ -32,9 +32,21 @@ function readJsonData(jsonFile, nb) {
             document.getElementById('nom').innerHTML = data.data[nb].nom;
             document.getElementById('nom_').innerHTML = data.data[nb].nom_;
             document.getElementById('description').innerHTML = data.data[nb].description;
+            // Images
             document.getElementById('image1').src = data.data[nb].image_url[0];
             document.getElementById('image2').src = data.data[nb].image_url[1];
             document.getElementById('image3').src = data.data[nb].image_url[2];
+            document.getElementById('image11').src = data.data[nb].image_url[3];
+            document.getElementById('image12').src = data.data[nb].image_url[4];
+            document.getElementById('image13').src = data.data[nb].image_url[5];
+            document.getElementById('image21').src = data.data[nb].image_url[6];
+            document.getElementById('image22').src = data.data[nb].image_url[7];
+            document.getElementById('image23').src = data.data[nb].image_url[8];
+            // Legende images
+            document.getElementById('livree0').innerHTML = data.data[nb].livree[0];
+            document.getElementById('livree1').innerHTML = data.data[nb].livree[1];
+            document.getElementById('livree2').innerHTML = data.data[nb].livree[2];
+            // Caracteristiques
             document.getElementById('epoque').innerHTML = 'Epoque: '+data.data[nb].epoque;
             document.getElementById('type').innerHTML = 'Type: '+data.data[nb].type;
             let constructeurs = data.data[nb].constructeurs[0];

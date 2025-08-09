@@ -4,7 +4,12 @@
             "nom": "Renault ABV1",
             "nom_": "PLM ZZ G 301 à 305, SNCF ZZ R 101 à 105 puis X 101 à 105,<br>État ZZ 24103 & 4, SNCF ZZ R 121 & 122 puis X 121 & 122",
             "description": "",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/ABV1_VF.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/ABV1_VF.gif", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/ABV1_VN.gif", "", "",
+                "", "", ""
+            ],
+            "livree": ["X 101 à 105", "X 121 & 122", ""],
             "epoque": "III-IV",
             "type": "autorail bicaisse",
             "ecartement": "standard",
@@ -21,7 +26,12 @@
             "nom": "Renault ABV1",
             "nom_": "X 111 à 113, X 123 & X 131",
             "description": "Est ZZ 100001 à 3, devenus PLM ZZ G 306 à 8, SNCF ZZ R 111 à 113 puis X 111 à 113,<br>SNCF ZZ R 123 puis X 123,<br>PO ZZ PEty 23879 à 23881, puis SNCF ZZ R 131-133 et enfin X 131, les 2 suivants ayant été détruits par un bombardement en 1944,<br>CFAE ZZyw A 1 à 3 ou CFA ZZ G 1 à 3",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/ABV2.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/ABV2.gif", "", "",
+                "", "", "",
+                "", "", ""
+            ],
+            "livree": ["", "", ""],
             "epoque": "III-IV",
             "type": "autorail bicaisse",
             "ecartement": "standard",
@@ -38,7 +48,12 @@
             "nom": "Renault VH",
             "nom_": "X2001 à X2336",
             "description": "",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/VH_PPLM_R.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/VH_PPLM_R.gif", "", "",
+                "", "", "",
+                "", "", ""
+            ],
+            "livree": ["", "", ""],
             "epoque": "III",
             "type": "autorail",
             "ecartement": "standard",
@@ -55,7 +70,12 @@
             "nom": "X 2051, la Flèche d'Argent",
             "nom_": "X 2051",
             "description": "Prototype, la Flèche d'Argent",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2051_R.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2051_R.gif", "", "",
+                "", "", "",
+                "", "", ""
+            ],
+            "livree": ["", "", ""],
             "epoque": "III-IV",
             "type": "autorail monocaisse",
             "ecartement": "standard",
@@ -72,7 +92,12 @@
             "nom": "Z 3800, Ex-État Z 23800",
             "nom_": "Z 23801 à 23805 État puis Z 3801 à 3805 SNCF",
             "description": "Automotrice de ramassage",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3800_O.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3800_O.gif", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3800_CC_R.gif", "", "",
+                "", "", ""
+            ],
+            "livree": ["Livrée d'origine", "Après grande révision", ""],
             "epoque": "III-IV",
             "type": "automotrice monocaisse",
             "ecartement": "standard",
@@ -89,7 +114,12 @@
             "nom": "X 2400 ou XABDP 2400",
             "nom_": "X 2401 à X 2479",
             "description": "",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2400_TC_R.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2400_TC_R.gif", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2400_TR_R.gif", "", "",
+                "", "", ""
+            ],
+            "livree": ["Livrée rouge, toit crème", "Livrée rouge, toit rouge (après 1969)", ""],
             "epoque": "III-IV",
             "type": "autorail monocaisse",
             "ecartement": "standard",
@@ -106,7 +136,12 @@
             "nom": "Picasso",
             "nom_": "X 3800 à X 4051",
             "description": "",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X3800_TC1_R.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X3800_TC1_R.gif", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X3800_TR_R.gif", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/Serv/Exp/X3886_ARE_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/Serv/X3896_V_R.gif", ""
+            ],
+            "livree": ["Livrée rouge, toit crème", "Livrée rouge, toit rouge (après 1969)", "Livrée TER, X 3896 & X 3900"],
             "epoque": "III-IV",
             "type": "autorail monocaisse",
             "ecartement": "standard",
@@ -123,7 +158,12 @@
             "nom": "Z 3700, Ex-État Z 23700",
             "nom_": "Z 23701 à Z 23720 État puis Z 3701 à Z 3720 SNCF",
             "description": "",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3700_O_R.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3700_O_R.gif", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3700_R.gif", "", "",
+                "", "", ""
+            ],
+            "livree": ["Livrée d'origine", "Après grande révision", ""],
             "epoque": "III-IV",
             "type": "automotrice bicaisse",
             "ecartement": "standard",
@@ -140,7 +180,12 @@
             "nom": "Z 3600, Ex-État Z23600",
             "nom_": "Z 23681 à 23698 État puis Z 3601 à 3609 SNCF",
             "description": "Ancienne <a href='?train=10'>État 1001 à 1018</a>, 9 d'entre-elles deviendront les motrices Z 23600 après remotorisation en 1.5kVcc, et les autres, les remorques des Z 23600",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3600.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/ZS13600.gif", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3600.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/ZS13600.gif", "",
+                "", "", "",
+                "", "", ""
+            ],
+            "livree": ["", "", ""],
             "epoque": "III",
             "type": "automotrice bicaisse",
             "ecartement": "standard",
@@ -157,7 +202,12 @@
             "nom": "État 1001-1018",
             "nom_": "État 1001-1018 puis État Z 23011-23028",
             "description": "Deviendront les <a href='?train=9'>Z 23600</a> après 1938",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/ZS13600.gif", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/ZS13600.gif", "", "",
+                "", "", "",
+                "", "", ""
+            ],
+            "livree": ["", "", ""],
             "epoque": "III",
             "type": "automotrice monocaisse",
             "ecartement": "standard",
@@ -171,27 +221,37 @@
             "capacite": "16 places de 1ère classe et 48 places de 2nde classe"
         },
         {
-            "nom": "",
-            "nom_": "",
+            "nom": "X 2800",
+            "nom_": "X 2801 à 2919",
             "description": "",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/", "", ""],
-            "epoque": "",
-            "type": "",
-            "ecartement": "",
-            "motorisation": "",
-            "vitesse_max": 0,
-            "construction": [],
-            "constructeurs": [""],
-            "quantite": 0,
-            "mise_en_service": [],
-            "retrait": [],
-            "capacite": ""
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_RTC_R.gif", "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_RTR_R.gif", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_V_R.gif", "", "",
+                "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_B_R.gif", "", ""
+            ],
+            "livree": ["Livrée rouge, toit crème et toit rouge (après 1969)", "Livrée verte", "Livrée bleue, version rénovée: Massif central"],
+            "epoque": "III-IV-V",
+            "type": "autorail monocaisse",
+            "ecartement": "standard",
+            "motorisation": "diesel turbocompressé",
+            "vitesse_max": 140,
+            "construction": [1955, 1956],
+            "constructeurs": ["Decauville pour les X 2801 à 2816", "Régie Renault pour les X 2817 à 2919"],
+            "quantite": 119,
+            "mise_en_service": [1957, 1962],
+            "retrait": [1995, 2009],
+            "capacite": "12 places de 1ère classe et 50 places de 2nde classe"
         },
         {
             "nom": "",
             "nom_": "",
             "description": "",
-            "image_url": ["https://ShorpAzha.github.io/images/mlg_traffic/", "", ""],
+            "image_url": [
+                "https://ShorpAzha.github.io/images/mlg_traffic/", "", "",
+                "", "", "",
+                "", "", ""
+            ],
+            "livree": ["", "", ""],
             "epoque": "",
             "type": "",
             "ecartement": "",
