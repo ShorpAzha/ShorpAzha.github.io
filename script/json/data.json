@@ -38,7 +38,7 @@
                 {
                     "legende": "ABV2",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/ABV2.gif"
+                        "../images/mlg_traffic/SNCF/AD/ABV2.gif"
                     ]
                 }
             ],
@@ -62,7 +62,7 @@
                 {
                     "legende": "Renault VH",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/VH_PPLM_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/VH_PPLM_R.gif"
                     ]
                 }
             ],
@@ -86,14 +86,14 @@
                 {
                     "legende": "X2051 & XR 8836: Ex-autorail allemand démotorisé. Livrée particulière pour le service &laquo; la Flèche d'Argent &raquo;",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/XR8836_G_L.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2051_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/XR8836_G_L.gif",
+                        "../images/mlg_traffic/SNCF/AD/X2051_R.gif"
                     ]
                 },
                 {
                     "legende": "XR 8836 après le retrait du service Flèche d'Argent, retour à une livrée autorail plus conventionnelle.",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/XR8836_R_L.gif"
+                        "../images/mlg_traffic/SNCF/AD/XR8836_R_L.gif"
                     ]
                 }
 
@@ -118,13 +118,13 @@
                 {
                     "legende": "Livrée d'origine",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3800_O.gif"
+                        "../images/mlg_traffic/SNCF/AE/Z3800_O.gif"
                     ]
                 },
                 {
                     "legende": "Après grande révision",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3800_CC_R.gif"
+                        "../images/mlg_traffic/SNCF/AE/Z3800_CC_R.gif"
                     ]
                 }
             ],
@@ -148,13 +148,13 @@
                 {
                     "legende": "Livrée rouge, toit crème",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2400_TC_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/X2400_TC_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée rouge, toit rouge (après 1969)",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2400_TR_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/X2400_TR_R.gif"
                     ]
                 }
             ],
@@ -178,20 +178,20 @@
                 {
                     "legende": "Livrée rouge, toit crème",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X3800_TC1_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/X3800_TC1_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée rouge, toit rouge (après 1969)",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X3800_TR_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/X3800_TR_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée TER, X 3896 & X 3900",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/Serv/Exp/X3886_ARE_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/Serv/X3896_V_R.gif"
+                        "../images/mlg_traffic/SNCF/Serv/Exp/X3886_ARE_R.gif",
+                        "../images/mlg_traffic/SNCF/Serv/X3896_V_R.gif"
                     ]
                 }
             ],
@@ -215,13 +215,13 @@
                 {
                     "legende": "Livrée d'origine",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3700_O_R.gif"
+                        "../images/mlg_traffic/SNCF/AE/Z3700_O_R.gif"
                     ]
                 },
                 {
                     "legende": "Après grande révision",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3700_R.gif"
+                        "../images/mlg_traffic/SNCF/AE/Z3700_R.gif"
                     ]
                 }
             ],
@@ -245,8 +245,8 @@
                 {
                     "legende": "Livrée d'origine",
                     "image_url":[
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/Z3600.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/ZS13600.gif"
+                        "../images/mlg_traffic/SNCF/AE/Z3600.gif",
+                        "../images/mlg_traffic/SNCF/AE/ZS13600.gif"
                     ]
                 }
             ],
@@ -270,7 +270,7 @@
                 {
                     "legende": "Livrée d'origine",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AE/ZS13600.gif"
+                        "../images/mlg_traffic/SNCF/AE/ZS13600.gif"
                     ]
                 }
             ],
@@ -294,20 +294,20 @@
                 {
                     "legende": "Livrée rouge, toit crème et toit rouge (après 1969)",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_RTC_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_RTR_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/X2800_RTC_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/X2800_RTR_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée verte",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_V_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/X2800_V_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée bleue, version rénovée: Massif central",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/X2800_B_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/X2800_B_R.gif"
                     ]
                 }
             ],
@@ -331,22 +331,22 @@
                 {
                     "legende": "Livrée d'origine",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_V1_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP2_V1_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRt1_V1_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/RGP2_V1_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée &laquo; façon turbotrain &raquo; gris metallique",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_OM_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP2_OM_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRt1_OM_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/RGP2_OM_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée &laquo; façon turbotrain &raquo; gris mat",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_O_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP2_O_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRt1_O_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/RGP2_O_R.gif"
                     ]
                 }
             ],
@@ -370,22 +370,22 @@
                 {
                     "legende": "Livrée d'origine",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_V1_R.gif", 
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1_V1_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRt1_V1_R.gif", 
+                        "../images/mlg_traffic/SNCF/AD/RGP1_V1_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée &laquo; façon turbotrain &raquo; gris metallique",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_OM_R.gif", 
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1_OM_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRt1_OM_R.gif", 
+                        "../images/mlg_traffic/SNCF/AD/RGP1_OM_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée Alpazur",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRt1_OA_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1_OA_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRt1_OA_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/RGP1_OA_R.gif"
                     ]
                 }
             ],
@@ -409,22 +409,22 @@
                 {
                     "legende": "Livrée rouge TEE d'origine",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRTEE_R_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1TEE_R_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRTEE_R_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/RGP1TEE_R_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée &laquo; façon turbotrain &raquo; gris metallique",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRTEE_OM_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1TEE_OM_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRTEE_OM_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/RGP1TEE_OM_R.gif"
                     ]
                 },
                 {
                     "legende": "Livrée &laquo; façon turbotrain &raquo; gris mat",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP_XRTEE_O_R.gif",
-                        "https://ShorpAzha.github.io/images/mlg_traffic/SNCF/AD/RGP1TEE_O_R.gif"
+                        "../images/mlg_traffic/SNCF/AD/RGP_XRTEE_O_R.gif",
+                        "../images/mlg_traffic/SNCF/AD/RGP1TEE_O_R.gif"
                     ]
                 }
             ],
@@ -448,7 +448,7 @@
                 {
                     "legende": "",
                     "image_url": [
-                        "https://ShorpAzha.github.io/images/mlg_traffic/"
+                        "../images/mlg_traffic/"
                     ]
                  }
             ],
