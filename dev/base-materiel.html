@@ -39,47 +39,92 @@
     <button class="openbtn" onclick="openNav()">&#9776;</button>     
     <script src="../script/sidebar.js"></script>
     <script src="../script/sidebar-new.js"></script>
+    <script src="../script/jquery.js"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
         let count = parseInt(params.get('train')) || 1;
+        const data_url = '../script/json/data.json';
+        const data_max = 14;
+
+        function updateCompteurInURL(nouvelleValeur) {
+            const url = new URL(window.location);
+            url.searchParams.set('train', nouvelleValeur);
+            window.history.replaceState({}, '', url);
+        }
+
+        function increase() {
+            if ( count == data_max ) { count = 1 } else { count++ }
+            $(".conteneur").empty();
+            readJsonData(data_url, count-1);
+            updateCompteurInURL(count);
+        }
+
+        function decrease() {
+            if ( count == 1 ) { count = data_max } else { count-- }
+            $(".conteneur").empty();
+            readJsonData(data_url, count-1);
+            updateCompteurInURL(count);
+        }
+
+        function readJsonData(jsonFile, nb) {
+            fetch(jsonFile)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Erreur lors du chargement du fichier JSON');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    //$(".conteneur").append();
+                    $(".conteneur").append("<h1>"+data.data[nb].nom+"</h1>");
+                    $(".conteneur").append("<p>"+data.data[nb].nom_+"<br>"+data.data[nb].description+"</p>");
+                    // Images
+                    for (let i = 0; i < data.data[nb].images.length; i++) {
+                        $(".conteneur").append("<div class=centred>");
+                        for (let j = 0; j < data.data[nb].images[i].image_url.length; j++) {
+                            $(".conteneur").append("<img src="+data.data[nb].images[i].image_url[j]+">");
+                        }
+                        $(".conteneur").append("</div>");
+                        $(".conteneur").append("<p>"+data.data[nb].images[i].legende+"</p>");
+                    }
+                    // Caracteristiques
+                    $(".conteneur").append("<h2>Caract&eacute;ristique</h2>");
+                    $(".conteneur").append("<p>Epoque: "+data.data[nb].epoque+"<br>Type: "+data.data[nb].type+"</p>");
+                    let constructeurs = data.data[nb].constructeurs[0];
+                    if (data.data[nb].constructeurs.length > 1) {
+                        for (let i = 1; i < data.data[nb].constructeurs.length; i++) {
+                            constructeurs = constructeurs + ', ' + data.data[nb].constructeurs[i];
+                        }
+                    }
+                    if (data.data[nb].construction.length > 1) {
+                        $(".conteneur").append('<p>Construit de '+data.data[nb].construction[0]+' à '+data.data[nb].construction[1]+' par '+constructeurs+'</p>');
+                    } else {
+                        $(".conteneur").append('<p>Construit en '+ data.data[nb].construction[0]+' par '+constructeurs+'</p>');
+                    }
+                    let mise_en_service, retrait;
+                    if (data.data[nb].mise_en_service.length > 1) {
+                        mise_en_service = 'de ' + data.data[nb].mise_en_service[0] + ' à ' + data.data[nb].mise_en_service[1];
+                    } else {
+                        mise_en_service = 'en ' + data.data[nb].mise_en_service[0];
+                    }
+                    if (data.data[nb].retrait.length > 1) {
+                        retrait = 'de ' + data.data[nb].retrait[0] + ' à ' + data.data[nb].retrait[1];
+                    } else {
+                        retrait = 'en ' + data.data[nb].retrait[0];
+                    }
+                    $(".conteneur").append("<p>Mise en service "+mise_en_service+" et radié "+retrait+"<br>Ecartement "+data.data[nb].ecartement+"<br>Quantit&eacute;: "+data.data[nb].quantite+"<br>Motorisation: "+data.data[nb].motorisation+"<br>Vitesse maximale: "+data.data[nb].vitesse_max+" km/h<br>Capacité: "+data.data[nb].capacite+"</p>");
+                })
+                .catch(error => console.error('Erreur:', error));
+            }
+        readJsonData(data_url, count-1);
     </script>
     <div id="padElements" class="main">
-        <h1 id="nom"></h1>
-        <h2 id="nom_"></h2>
-        <p id="description"></p>
-        <div class="centred">
-            <img id="image1">
-            <img id="image2">
-            <img id="image3">
+        <div class="conteneur" style="text-align: center;">
         </div>
-        <p id="livree0"></p>
         <div class="centred">
-            <img id="image11">
-            <img id="image12">
-            <img id="image13">
+            <button class="btn" onclick="decrease()">Précédent</button>
+            <button class="btn" onclick="increase()">Suivant</button>
         </div>
-        <p id="livree1"></p>
-        <div class="centred">
-            <img id="image21">
-            <img id="image22">
-            <img id="image23">
-        </div>
-        <p id="livree2"></p>
-        <p>Caractéristiques:</p>
-        <p id="epoque"></p>
-        <p id="type"></p>
-        <p id="construction"></p>
-        <p id="quantite"></p>
-        <p id="mise_en_service"></p>
-        <p id="motorisation"></p>
-        <p id="vitesse_max"></p>
-        <p id="ecartement"></p>
-        <p id="quantite_transport"></p>
     </div>
-    <div class="centred">
-        <button class="btn" onclick="decrease()">Précédent</button>
-        <button class="btn" onclick="increase()">Suivant</button>
-    </div>
-    <script src="../script/json-data-read.js"></script>
 </body>
 </html> 
